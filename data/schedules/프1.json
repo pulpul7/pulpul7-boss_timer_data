@@ -1,13 +1,13 @@
 {
   "appMinVersion": "3.1.0.beta",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.05.04.003",
+  "dataVersion": "2026.05.04.004",
   "kind": "schedule",
   "payload": {
     "version": 1,
     "exported_at": {
       "__type__": "datetime",
-      "value": "2026-05-04T11:18:42"
+      "value": "2026-05-04T12:37:31"
     },
     "season_no": "18",
     "season_started_at": "2026-04-25 06:28:00",
