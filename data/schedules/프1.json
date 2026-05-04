@@ -1,13 +1,13 @@
 {
   "appMinVersion": "3.1.0.beta",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.05.04.002",
+  "dataVersion": "2026.05.04.003",
   "kind": "schedule",
   "payload": {
     "version": 1,
     "exported_at": {
       "__type__": "datetime",
-      "value": "2026-05-04T10:45:32"
+      "value": "2026-05-04T11:18:42"
     },
     "season_no": "18",
     "season_started_at": "2026-04-25 06:28:00",
@@ -13266,17 +13266,17 @@
         "day_offset_explicit": false,
         "clock_hours": 10,
         "clock_minutes": 59,
-        "clock_seconds": 16,
+        "clock_seconds": 17,
         "precision": "second",
-        "source_text": "10:59:16 라이노르",
+        "source_text": "10:59:17 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-04T10:59:16"
+          "value": "2026-05-04T10:59:17"
         },
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-04T10:23:55"
+          "value": "2026-05-04T10:52:54"
         },
         "alarm_enabled": false,
         "result": "",
@@ -13292,19 +13292,19 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 23,
-        "clock_minutes": 10,
-        "clock_seconds": 38,
-        "precision": "minute",
-        "source_text": "23:10:38 4층",
+        "clock_hours": 11,
+        "clock_minutes": 11,
+        "clock_seconds": 14,
+        "precision": "second",
+        "source_text": "11:11:14 4층",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-04T11:10:38"
+          "value": "2026-05-04T11:11:14"
         },
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-02T22:55:10"
+          "value": "2026-05-04T11:04:29"
         },
         "alarm_enabled": false,
         "result": "",
@@ -13322,17 +13322,17 @@
         "day_offset_explicit": false,
         "clock_hours": 11,
         "clock_minutes": 20,
-        "clock_seconds": 35,
+        "clock_seconds": 36,
         "precision": "second",
-        "source_text": "11:20:35 수드리",
+        "source_text": "11:20:36 수드리",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-04T11:20:35"
+          "value": "2026-05-04T11:20:36"
         },
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-04T10:23:55"
+          "value": "2026-05-04T10:52:54"
         },
         "alarm_enabled": false,
         "result": "",
@@ -13348,19 +13348,19 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 23,
-        "clock_minutes": 23,
-        "clock_seconds": 58,
-        "precision": "minute",
-        "source_text": "23:23:58 비요른",
+        "clock_hours": 11,
+        "clock_minutes": 24,
+        "clock_seconds": 3,
+        "precision": "second",
+        "source_text": "11:24:03 비요른",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-04T11:23:58"
+          "value": "2026-05-04T11:24:03"
         },
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-02T22:55:10"
+          "value": "2026-05-04T10:52:54"
         },
         "alarm_enabled": false,
         "result": "",
@@ -13376,19 +13376,19 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 23,
+        "clock_hours": 11,
         "clock_minutes": 31,
-        "clock_seconds": 36,
-        "precision": "minute",
-        "source_text": "23:31:36 바우티",
+        "clock_seconds": 39,
+        "precision": "second",
+        "source_text": "11:31:39 바우티",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-04T11:31:36"
+          "value": "2026-05-04T11:31:39"
         },
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-02T22:55:10"
+          "value": "2026-05-04T10:52:54"
         },
         "alarm_enabled": false,
         "result": "",
@@ -13404,19 +13404,19 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 23,
+        "clock_hours": 11,
         "clock_minutes": 49,
-        "clock_seconds": 5,
-        "precision": "minute",
-        "source_text": "23:49:05 라타토스크",
+        "clock_seconds": 12,
+        "precision": "second",
+        "source_text": "11:49:12 라타토스크",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-04T11:49:05"
+          "value": "2026-05-04T11:49:12"
         },
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-02T22:55:10"
+          "value": "2026-05-04T10:52:54"
         },
         "alarm_enabled": false,
         "result": "",
@@ -13430,26 +13430,26 @@
         "raw_key": "normal:7층",
         "state": "scheduled",
         "mode": "clock",
-        "day_offset": 1,
+        "day_offset": 0,
         "day_offset_explicit": false,
         "clock_hours": 11,
         "clock_minutes": 59,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "11:59 7층",
+        "clock_seconds": 47,
+        "precision": "second",
+        "source_text": "11:59:47 7층",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-04T11:59:00"
+          "value": "2026-05-04T11:59:47"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-05-04T11:59:00"
+          "value": "2026-05-04T11:59:47"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-02T22:55:10"
+          "value": "2026-05-04T11:04:29"
         },
         "alarm_enabled": false,
         "result": "",
@@ -14223,17 +14223,17 @@
         "day_offset_explicit": false,
         "clock_hours": 10,
         "clock_minutes": 59,
-        "clock_seconds": 16,
+        "clock_seconds": 17,
         "precision": "second",
-        "source_text": "10:59:16 라이노르",
+        "source_text": "10:59:17 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-04T22:59:16"
+          "value": "2026-05-04T22:59:17"
         },
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-04T10:23:55"
+          "value": "2026-05-04T10:52:54"
         },
         "alarm_enabled": false,
         "result": "",
@@ -14249,19 +14249,19 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 23,
-        "clock_minutes": 10,
-        "clock_seconds": 38,
-        "precision": "minute",
-        "source_text": "23:10:38 4층",
+        "clock_hours": 11,
+        "clock_minutes": 11,
+        "clock_seconds": 14,
+        "precision": "second",
+        "source_text": "11:11:14 4층",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-04T23:10:38"
+          "value": "2026-05-04T23:11:14"
         },
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-02T22:55:10"
+          "value": "2026-05-04T11:04:29"
         },
         "alarm_enabled": false,
         "result": "",
@@ -14279,45 +14279,17 @@
         "day_offset_explicit": false,
         "clock_hours": 11,
         "clock_minutes": 20,
-        "clock_seconds": 35,
+        "clock_seconds": 36,
         "precision": "second",
-        "source_text": "11:20:35 수드리",
+        "source_text": "11:20:36 수드리",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-04T23:20:35"
+          "value": "2026-05-04T23:20:36"
         },
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-04T10:23:55"
-        },
-        "alarm_enabled": false,
-        "result": "",
-        "note": ""
-      },
-      {
-        "raw_name": "비요른",
-        "boss_name": "비요른",
-        "display_name": "비요른",
-        "is_invasion": false,
-        "raw_key": "normal:비요른",
-        "state": "scheduled",
-        "mode": "clock",
-        "day_offset": 0,
-        "day_offset_explicit": false,
-        "clock_hours": 23,
-        "clock_minutes": 23,
-        "clock_seconds": 58,
-        "precision": "minute",
-        "source_text": "23:23:58 비요른",
-        "scheduled_at": {
-          "__type__": "datetime",
-          "value": "2026-05-04T23:23:58"
-        },
-        "respawn_seconds": 43200,
-        "created_at": {
-          "__type__": "datetime",
-          "value": "2026-05-02T22:55:10"
+          "value": "2026-05-04T10:52:54"
         },
         "alarm_enabled": false,
         "result": "",
@@ -14357,6 +14329,34 @@
         "note": ""
       },
       {
+        "raw_name": "비요른",
+        "boss_name": "비요른",
+        "display_name": "비요른",
+        "is_invasion": false,
+        "raw_key": "normal:비요른",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 11,
+        "clock_minutes": 24,
+        "clock_seconds": 3,
+        "precision": "second",
+        "source_text": "11:24:03 비요른",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-05-04T23:24:03"
+        },
+        "respawn_seconds": 43200,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-05-04T10:52:54"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
         "raw_name": "바우티",
         "boss_name": "바우티",
         "display_name": "바우티",
@@ -14366,19 +14366,19 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 23,
+        "clock_hours": 11,
         "clock_minutes": 31,
-        "clock_seconds": 36,
-        "precision": "minute",
-        "source_text": "23:31:36 바우티",
+        "clock_seconds": 39,
+        "precision": "second",
+        "source_text": "11:31:39 바우티",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-04T23:31:36"
+          "value": "2026-05-04T23:31:39"
         },
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-02T22:55:10"
+          "value": "2026-05-04T10:52:54"
         },
         "alarm_enabled": false,
         "result": "",
@@ -14394,19 +14394,19 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 23,
+        "clock_hours": 11,
         "clock_minutes": 49,
-        "clock_seconds": 5,
-        "precision": "minute",
-        "source_text": "23:49:05 라타토스크",
+        "clock_seconds": 12,
+        "precision": "second",
+        "source_text": "11:49:12 라타토스크",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-04T23:49:05"
+          "value": "2026-05-04T23:49:12"
         },
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-02T22:55:10"
+          "value": "2026-05-04T10:52:54"
         },
         "alarm_enabled": false,
         "result": "",
@@ -14828,17 +14828,17 @@
         "day_offset_explicit": false,
         "clock_hours": 10,
         "clock_minutes": 59,
-        "clock_seconds": 16,
+        "clock_seconds": 17,
         "precision": "second",
-        "source_text": "10:59:16 라이노르",
+        "source_text": "10:59:17 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-05T10:59:16"
+          "value": "2026-05-05T10:59:17"
         },
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-04T10:23:55"
+          "value": "2026-05-04T10:52:54"
         },
         "alarm_enabled": false,
         "result": "",
@@ -14854,19 +14854,19 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 23,
-        "clock_minutes": 10,
-        "clock_seconds": 38,
-        "precision": "minute",
-        "source_text": "23:10:38 4층",
+        "clock_hours": 11,
+        "clock_minutes": 11,
+        "clock_seconds": 14,
+        "precision": "second",
+        "source_text": "11:11:14 4층",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-05T11:10:38"
+          "value": "2026-05-05T11:11:14"
         },
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-02T22:55:10"
+          "value": "2026-05-04T11:04:29"
         },
         "alarm_enabled": false,
         "result": "",
@@ -14884,17 +14884,17 @@
         "day_offset_explicit": false,
         "clock_hours": 11,
         "clock_minutes": 20,
-        "clock_seconds": 35,
+        "clock_seconds": 36,
         "precision": "second",
-        "source_text": "11:20:35 수드리",
+        "source_text": "11:20:36 수드리",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-05T11:20:35"
+          "value": "2026-05-05T11:20:36"
         },
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-04T10:23:55"
+          "value": "2026-05-04T10:52:54"
         },
         "alarm_enabled": false,
         "result": "",
@@ -14910,19 +14910,19 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 23,
-        "clock_minutes": 23,
-        "clock_seconds": 58,
-        "precision": "minute",
-        "source_text": "23:23:58 비요른",
+        "clock_hours": 11,
+        "clock_minutes": 24,
+        "clock_seconds": 3,
+        "precision": "second",
+        "source_text": "11:24:03 비요른",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-05T11:23:58"
+          "value": "2026-05-05T11:24:03"
         },
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-02T22:55:10"
+          "value": "2026-05-04T10:52:54"
         },
         "alarm_enabled": false,
         "result": "",
@@ -14938,19 +14938,19 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 23,
+        "clock_hours": 11,
         "clock_minutes": 31,
-        "clock_seconds": 36,
-        "precision": "minute",
-        "source_text": "23:31:36 바우티",
+        "clock_seconds": 39,
+        "precision": "second",
+        "source_text": "11:31:39 바우티",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-05T11:31:36"
+          "value": "2026-05-05T11:31:39"
         },
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-02T22:55:10"
+          "value": "2026-05-04T10:52:54"
         },
         "alarm_enabled": false,
         "result": "",
@@ -14966,19 +14966,19 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 23,
+        "clock_hours": 11,
         "clock_minutes": 49,
-        "clock_seconds": 5,
-        "precision": "minute",
-        "source_text": "23:49:05 라타토스크",
+        "clock_seconds": 12,
+        "precision": "second",
+        "source_text": "11:49:12 라타토스크",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-05T11:49:05"
+          "value": "2026-05-05T11:49:12"
         },
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-02T22:55:10"
+          "value": "2026-05-04T10:52:54"
         },
         "alarm_enabled": false,
         "result": "",
@@ -14992,26 +14992,26 @@
         "raw_key": "normal:7층",
         "state": "scheduled",
         "mode": "clock",
-        "day_offset": 1,
+        "day_offset": 0,
         "day_offset_explicit": false,
         "clock_hours": 11,
         "clock_minutes": 59,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "11:59 7층",
+        "clock_seconds": 47,
+        "precision": "second",
+        "source_text": "11:59:47 7층",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-05T11:59:01"
+          "value": "2026-05-05T11:59:48"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-05-05T11:59:00"
+          "value": "2026-05-05T11:59:47"
         },
         "cycle_offset_direction": 1,
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-02T22:55:10"
+          "value": "2026-05-04T11:04:29"
         },
         "alarm_enabled": false,
         "result": "",
@@ -15492,17 +15492,17 @@
         "day_offset_explicit": false,
         "clock_hours": 10,
         "clock_minutes": 59,
-        "clock_seconds": 16,
+        "clock_seconds": 17,
         "precision": "second",
-        "source_text": "10:59:16 라이노르",
+        "source_text": "10:59:17 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-05T22:59:16"
+          "value": "2026-05-05T22:59:17"
         },
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-04T10:23:55"
+          "value": "2026-05-04T10:52:54"
         },
         "alarm_enabled": false,
         "result": "",
@@ -15518,19 +15518,19 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 23,
-        "clock_minutes": 10,
-        "clock_seconds": 38,
-        "precision": "minute",
-        "source_text": "23:10:38 4층",
+        "clock_hours": 11,
+        "clock_minutes": 11,
+        "clock_seconds": 14,
+        "precision": "second",
+        "source_text": "11:11:14 4층",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-05T23:10:38"
+          "value": "2026-05-05T23:11:14"
         },
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-02T22:55:10"
+          "value": "2026-05-04T11:04:29"
         },
         "alarm_enabled": false,
         "result": "",
@@ -15548,17 +15548,17 @@
         "day_offset_explicit": false,
         "clock_hours": 11,
         "clock_minutes": 20,
-        "clock_seconds": 35,
+        "clock_seconds": 36,
         "precision": "second",
-        "source_text": "11:20:35 수드리",
+        "source_text": "11:20:36 수드리",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-05T23:20:35"
+          "value": "2026-05-05T23:20:36"
         },
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-04T10:23:55"
+          "value": "2026-05-04T10:52:54"
         },
         "alarm_enabled": false,
         "result": "",
@@ -15574,19 +15574,19 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 23,
-        "clock_minutes": 23,
-        "clock_seconds": 58,
-        "precision": "minute",
-        "source_text": "23:23:58 비요른",
+        "clock_hours": 11,
+        "clock_minutes": 24,
+        "clock_seconds": 3,
+        "precision": "second",
+        "source_text": "11:24:03 비요른",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-05T23:23:58"
+          "value": "2026-05-05T23:24:03"
         },
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-02T22:55:10"
+          "value": "2026-05-04T10:52:54"
         },
         "alarm_enabled": false,
         "result": "",
@@ -15602,19 +15602,19 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 23,
+        "clock_hours": 11,
         "clock_minutes": 31,
-        "clock_seconds": 36,
-        "precision": "minute",
-        "source_text": "23:31:36 바우티",
+        "clock_seconds": 39,
+        "precision": "second",
+        "source_text": "11:31:39 바우티",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-05T23:31:36"
+          "value": "2026-05-05T23:31:39"
         },
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-02T22:55:10"
+          "value": "2026-05-04T10:52:54"
         },
         "alarm_enabled": false,
         "result": "",
@@ -15630,19 +15630,19 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 23,
+        "clock_hours": 11,
         "clock_minutes": 49,
-        "clock_seconds": 5,
-        "precision": "minute",
-        "source_text": "23:49:05 라타토스크",
+        "clock_seconds": 12,
+        "precision": "second",
+        "source_text": "11:49:12 라타토스크",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-05T23:49:05"
+          "value": "2026-05-05T23:49:12"
         },
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-02T22:55:10"
+          "value": "2026-05-04T10:52:54"
         },
         "alarm_enabled": false,
         "result": "",
@@ -16068,7 +16068,9 @@
     ],
     "schedule_second_precision_offsets": {
       "normal:흐니르": -1.2,
-      "normal:페티": -1.0
+      "normal:페티": -1.0,
+      "normal:라이노르": 0.7,
+      "normal:4층": 1.0
     }
   }
 }
