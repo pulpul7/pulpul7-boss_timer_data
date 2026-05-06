@@ -1,7 +1,7 @@
 {
   "appMinVersion": "1.2.0",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.05.05.001",
+  "dataVersion": "2026.05.06.001",
   "servers": [
     {
       "id": "프1",
@@ -10,8 +10,8 @@
       "bosses": "data/bosses/프1.json",
       "config": "data/config/프1.json",
       "notices": "data/notices/프1.json",
-      "dataVersion": "2026.05.05.001",
-      "updatedAt": "2026-05-05 04:52:38"
+      "dataVersion": "2026.05.06.001",
+      "updatedAt": "2026-05-06 15:33:37"
     }
   ]
 }
