@@ -1,13 +1,13 @@
 {
   "appMinVersion": "3.1.0.beta",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.05.08.007",
+  "dataVersion": "2026.05.08.008",
   "kind": "schedule",
   "payload": {
     "version": 1,
     "exported_at": {
       "__type__": "datetime",
-      "value": "2026-05-08T07:56:14"
+      "value": "2026-05-08T08:04:36"
     },
     "season_no": "18",
     "season_started_at": "2026-04-25 06:28:00",
@@ -20485,34 +20485,6 @@
         "created_at": {
           "__type__": "datetime",
           "value": "2026-05-06T10:05:16"
-        },
-        "alarm_enabled": false,
-        "result": "",
-        "note": ""
-      },
-      {
-        "raw_name": "안나",
-        "boss_name": "안나",
-        "display_name": "안나",
-        "is_invasion": false,
-        "raw_key": "normal:안나",
-        "state": "scheduled",
-        "mode": "clock",
-        "day_offset": 0,
-        "day_offset_explicit": false,
-        "clock_hours": 7,
-        "clock_minutes": 51,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "0751 안나",
-        "scheduled_at": {
-          "__type__": "datetime",
-          "value": "2026-05-08T07:51:00"
-        },
-        "respawn_seconds": 216000,
-        "created_at": {
-          "__type__": "datetime",
-          "value": "2026-05-08T07:50:36"
         },
         "alarm_enabled": false,
         "result": "",
