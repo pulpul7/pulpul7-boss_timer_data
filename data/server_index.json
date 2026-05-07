@@ -1,7 +1,7 @@
 {
   "appMinVersion": "1.2.0",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.05.08.006",
+  "dataVersion": "2026.05.08.007",
   "servers": [
     {
       "id": "프1",
@@ -10,11 +10,11 @@
       "bosses": "data/bosses/프1.json",
       "config": "data/config/프1.json",
       "notices": "data/notices/프1.json",
-      "dataVersion": "2026.05.08.006",
-      "updatedAt": "2026-05-08 07:50:45",
-      "scheduleVersion": "2026.05.08.006",
+      "dataVersion": "2026.05.08.007",
+      "updatedAt": "2026-05-08 07:56:14",
+      "scheduleVersion": "2026.05.08.007",
       "bossConfigVersion": "2026.05.08.001",
-      "scheduleHash": "0e7e97bee762eaed2b85264fb0121ce3b28bb44c",
+      "scheduleHash": "8e66b9979c96ff65aa5f4395401a1542cc8fd94e",
       "bossConfigHash": "c02a5707a34fdf857ffbcd14bfc1024d4ab27f68"
     }
   ]
