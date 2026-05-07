@@ -1,13 +1,13 @@
 {
   "appMinVersion": "3.1.0.beta",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.05.08.005",
+  "dataVersion": "2026.05.08.006",
   "kind": "schedule",
   "payload": {
     "version": 1,
     "exported_at": {
       "__type__": "datetime",
-      "value": "2026-05-08T07:48:34"
+      "value": "2026-05-08T07:50:45"
     },
     "season_no": "18",
     "season_started_at": "2026-04-25 06:28:00",
@@ -20491,6 +20491,39 @@
         "note": ""
       },
       {
+        "raw_name": "안나",
+        "boss_name": "안나",
+        "display_name": "안나",
+        "is_invasion": false,
+        "raw_key": "normal:안나",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 7,
+        "clock_minutes": 51,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "0751 안나",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-05-08T07:51:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-05-08T07:51:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 216000,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-05-08T07:50:36"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
         "raw_name": "헤르모드",
         "boss_name": "헤르모드",
         "display_name": "헤르모드",
@@ -23978,18 +24011,23 @@
         "day_offset": 0,
         "day_offset_explicit": false,
         "clock_hours": 7,
-        "clock_minutes": 21,
+        "clock_minutes": 51,
         "clock_seconds": 0,
         "precision": "minute",
-        "source_text": "0721 안나",
+        "source_text": "0751 안나",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-10T19:21:00"
+          "value": "2026-05-10T19:51:00"
         },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-05-10T19:51:00"
+        },
+        "cycle_offset_direction": 0,
         "respawn_seconds": 216000,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-08T07:20:11"
+          "value": "2026-05-08T07:50:36"
         },
         "alarm_enabled": false,
         "result": "",
@@ -27706,18 +27744,23 @@
         "day_offset": 0,
         "day_offset_explicit": false,
         "clock_hours": 7,
-        "clock_minutes": 21,
+        "clock_minutes": 51,
         "clock_seconds": 0,
         "precision": "minute",
-        "source_text": "0721 안나",
+        "source_text": "0751 안나",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-13T07:21:00"
+          "value": "2026-05-13T07:51:00"
         },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-05-13T07:51:00"
+        },
+        "cycle_offset_direction": 0,
         "respawn_seconds": 216000,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-08T07:20:11"
+          "value": "2026-05-08T07:50:36"
         },
         "alarm_enabled": false,
         "result": "",
@@ -27775,5 +27818,5 @@
     ],
     "schedule_second_precision_offsets": {}
   },
-  "contentHash": "5a1695d8f962bf64b5cd8c5fd192565278ca4833"
+  "contentHash": "0e7e97bee762eaed2b85264fb0121ce3b28bb44c"
 }
