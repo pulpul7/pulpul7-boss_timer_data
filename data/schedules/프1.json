@@ -1,13 +1,13 @@
 {
   "appMinVersion": "3.1.0.beta",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.05.08.006",
+  "dataVersion": "2026.05.08.007",
   "kind": "schedule",
   "payload": {
     "version": 1,
     "exported_at": {
       "__type__": "datetime",
-      "value": "2026-05-08T07:50:45"
+      "value": "2026-05-08T07:56:14"
     },
     "season_no": "18",
     "season_started_at": "2026-04-25 06:28:00",
@@ -20509,11 +20509,6 @@
           "__type__": "datetime",
           "value": "2026-05-08T07:51:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-08T07:51:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 216000,
         "created_at": {
           "__type__": "datetime",
@@ -24019,11 +24014,6 @@
           "__type__": "datetime",
           "value": "2026-05-10T19:51:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-10T19:51:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 216000,
         "created_at": {
           "__type__": "datetime",
@@ -27752,11 +27742,6 @@
           "__type__": "datetime",
           "value": "2026-05-13T07:51:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-13T07:51:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 216000,
         "created_at": {
           "__type__": "datetime",
@@ -27818,5 +27803,5 @@
     ],
     "schedule_second_precision_offsets": {}
   },
-  "contentHash": "0e7e97bee762eaed2b85264fb0121ce3b28bb44c"
+  "contentHash": "8e66b9979c96ff65aa5f4395401a1542cc8fd94e"
 }
