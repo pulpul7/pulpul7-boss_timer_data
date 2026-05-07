@@ -1,13 +1,13 @@
 {
   "appMinVersion": "3.1.0.beta",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.05.08.003",
+  "dataVersion": "2026.05.08.004",
   "kind": "schedule",
   "payload": {
     "version": 1,
     "exported_at": {
       "__type__": "datetime",
-      "value": "2026-05-08T07:23:33"
+      "value": "2026-05-08T07:46:49"
     },
     "season_no": "18",
     "season_started_at": "2026-04-25 06:28:00",
@@ -20458,39 +20458,6 @@
         "note": ""
       },
       {
-        "raw_name": "신마라",
-        "boss_name": "신마라",
-        "display_name": "신마라",
-        "is_invasion": false,
-        "raw_key": "normal:신마라",
-        "state": "scheduled",
-        "mode": "clock",
-        "day_offset": 0,
-        "day_offset_explicit": false,
-        "clock_hours": 19,
-        "clock_minutes": 48,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "19:48 신마라",
-        "scheduled_at": {
-          "__type__": "datetime",
-          "value": "2026-05-08T07:48:00"
-        },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-08T07:48:00"
-        },
-        "cycle_offset_direction": 0,
-        "respawn_seconds": 129600,
-        "created_at": {
-          "__type__": "datetime",
-          "value": "2026-05-06T10:05:16"
-        },
-        "alarm_enabled": false,
-        "result": "",
-        "note": ""
-      },
-      {
         "raw_name": "헤르모드",
         "boss_name": "헤르모드",
         "display_name": "헤르모드",
@@ -27775,5 +27742,5 @@
     ],
     "schedule_second_precision_offsets": {}
   },
-  "contentHash": "d21554047576eb3fe74c63f51037a7becf77a5ee"
+  "contentHash": "c314bddb479a0ec8de685842ab20824cedb63294"
 }
