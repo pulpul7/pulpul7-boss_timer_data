@@ -1,13 +1,13 @@
 {
   "appMinVersion": "3.1.0.beta",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.05.08.004",
+  "dataVersion": "2026.05.08.005",
   "kind": "schedule",
   "payload": {
     "version": 1,
     "exported_at": {
       "__type__": "datetime",
-      "value": "2026-05-08T07:46:49"
+      "value": "2026-05-08T07:48:34"
     },
     "season_no": "18",
     "season_started_at": "2026-04-25 06:28:00",
@@ -7866,7 +7866,7 @@
           "__type__": "datetime",
           "value": "2026-04-29T11:32:00"
         },
-        "cycle_offset_direction": -7,
+        "cycle_offset_direction": -8,
         "respawn_seconds": 129600,
         "created_at": {
           "__type__": "datetime",
@@ -8696,7 +8696,7 @@
           "__type__": "datetime",
           "value": "2026-04-30T23:32:00"
         },
-        "cycle_offset_direction": -6,
+        "cycle_offset_direction": -7,
         "respawn_seconds": 129600,
         "created_at": {
           "__type__": "datetime",
@@ -8874,7 +8874,7 @@
           "__type__": "datetime",
           "value": "2026-05-01T10:27:13"
         },
-        "cycle_offset_direction": -5,
+        "cycle_offset_direction": -6,
         "respawn_seconds": 129600,
         "created_at": {
           "__type__": "datetime",
@@ -11223,7 +11223,7 @@
           "__type__": "datetime",
           "value": "2026-05-02T22:27:13"
         },
-        "cycle_offset_direction": -4,
+        "cycle_offset_direction": -5,
         "respawn_seconds": 129600,
         "created_at": {
           "__type__": "datetime",
@@ -13244,7 +13244,7 @@
           "__type__": "datetime",
           "value": "2026-05-04T10:27:21"
         },
-        "cycle_offset_direction": -3,
+        "cycle_offset_direction": -4,
         "respawn_seconds": 129600,
         "created_at": {
           "__type__": "datetime",
@@ -15482,7 +15482,7 @@
           "__type__": "datetime",
           "value": "2026-05-05T22:27:21"
         },
-        "cycle_offset_direction": -2,
+        "cycle_offset_direction": -3,
         "respawn_seconds": 129600,
         "created_at": {
           "__type__": "datetime",
@@ -18017,7 +18017,7 @@
           "__type__": "datetime",
           "value": "2026-05-06T19:48:00"
         },
-        "cycle_offset_direction": -1,
+        "cycle_offset_direction": -2,
         "respawn_seconds": 129600,
         "created_at": {
           "__type__": "datetime",
@@ -20458,6 +20458,39 @@
         "note": ""
       },
       {
+        "raw_name": "신마라",
+        "boss_name": "신마라",
+        "display_name": "신마라",
+        "is_invasion": false,
+        "raw_key": "normal:신마라",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 19,
+        "clock_minutes": 48,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "19:48 신마라",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-05-08T07:48:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-05-08T07:48:00"
+        },
+        "cycle_offset_direction": -1,
+        "respawn_seconds": 129600,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-05-06T10:05:16"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
         "raw_name": "헤르모드",
         "boss_name": "헤르모드",
         "display_name": "헤르모드",
@@ -22773,13 +22806,13 @@
         "source_text": "19:48 신마라",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-09T19:48:01"
+          "value": "2026-05-09T19:48:00"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
           "value": "2026-05-09T19:48:00"
         },
-        "cycle_offset_direction": 1,
+        "cycle_offset_direction": 0,
         "respawn_seconds": 129600,
         "created_at": {
           "__type__": "datetime",
@@ -24762,13 +24795,13 @@
         "source_text": "19:48 신마라",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-11T07:48:02"
+          "value": "2026-05-11T07:48:01"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
           "value": "2026-05-11T07:48:00"
         },
-        "cycle_offset_direction": 2,
+        "cycle_offset_direction": 1,
         "respawn_seconds": 129600,
         "created_at": {
           "__type__": "datetime",
@@ -26929,13 +26962,13 @@
         "source_text": "19:48 신마라",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-12T19:48:03"
+          "value": "2026-05-12T19:48:02"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
           "value": "2026-05-12T19:48:00"
         },
-        "cycle_offset_direction": 3,
+        "cycle_offset_direction": 2,
         "respawn_seconds": 129600,
         "created_at": {
           "__type__": "datetime",
@@ -27742,5 +27775,5 @@
     ],
     "schedule_second_precision_offsets": {}
   },
-  "contentHash": "c314bddb479a0ec8de685842ab20824cedb63294"
+  "contentHash": "5a1695d8f962bf64b5cd8c5fd192565278ca4833"
 }
