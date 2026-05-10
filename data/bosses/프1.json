@@ -1,7 +1,7 @@
 {
   "appMinVersion": "3.1.0.beta",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.05.08.001",
+  "dataVersion": "2026.05.10.009",
   "kind": "boss_config",
   "payload": {
     "boss_definitions": [
@@ -568,7 +568,7 @@
         "enabled": true
       },
       {
-        "boss_name": "지옥성체 정예",
+        "boss_name": "지옥성채 정예",
         "time_text": "19:00:00",
         "days": [
           "월",
