@@ -24,9 +24,12 @@
       "bosses": "data/bosses/오9.json",
       "config": "data/config/오9.json",
       "notices": "data/notices/오9.json",
-      "scheduleVersion": "2026.05.15.001",
-      "dataVersion": "2026.05.15.001",
-      "scheduleHash": ""
+      "scheduleVersion": "2026.05.15.006",
+      "dataVersion": "2026.05.15.041",
+      "scheduleHash": "",
+      "bossConfigVersion": "",
+      "bossConfigHash": "",
+      "updatedAt": "2026-05-15 21:49:53"
     },
     {
       "id": "프1",
