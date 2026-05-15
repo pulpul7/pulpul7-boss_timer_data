@@ -4,6 +4,20 @@
   "dataVersion": "2026.05.15.002",
   "servers": [
     {
+      "id": "오7",
+      "name": "오7",
+      "schedule": "data/schedules/오7.json",
+      "bosses": "data/bosses/오7.json",
+      "config": "data/config/오7.json",
+      "notices": "data/notices/오7.json",
+      "scheduleVersion": "2026.05.15.001",
+      "bossConfigVersion": "2026.05.15.001",
+      "scheduleHash": "",
+      "bossConfigHash": "",
+      "dataVersion": "2026.05.15.002",
+      "updatedAt": "2026-05-15 14:08:49"
+    },
+    {
       "id": "오8",
       "name": "오8",
       "schedule": "data/schedules/오8.json",
