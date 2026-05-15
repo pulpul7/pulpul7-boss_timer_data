@@ -1,7 +1,7 @@
 {
   "appMinVersion": "1.2.0",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.05.16.018",
+  "dataVersion": "2026.05.16.019",
   "servers": [
     {
       "id": "미8",
@@ -17,20 +17,6 @@
       "scheduleHash": ""
     },
     {
-      "id": "미미르9",
-      "name": "미미르9",
-      "schedule": "data/schedules/미미르9.json",
-      "bosses": "data/bosses/미미르9.json",
-      "config": "data/config/미미르9.json",
-      "notices": "data/notices/미미르9.json",
-      "dataVersion": "2026.05.16.016",
-      "updatedAt": "2026-05-16 02:33:47",
-      "scheduleVersion": "2026.05.16.016",
-      "bossConfigVersion": "2026.05.10.009",
-      "scheduleHash": "8e66b9979c96ff65aa5f4395401a1542cc8fd94e",
-      "bossConfigHash": "c02a5707a34fdf857ffbcd14bfc1024d4ab27f68"
-    },
-    {
       "id": "오9",
       "name": "오9",
       "schedule": "data/schedules/오9.json",
@@ -44,6 +30,20 @@
       "bossConfigVersion": "",
       "bossConfigHash": "",
       "updatedAt": "2026-05-15 21:49:53"
+    },
+    {
+      "id": "프1",
+      "name": "프1",
+      "schedule": "data/schedules/프1.json",
+      "bosses": "data/bosses/프1.json",
+      "config": "data/config/프1.json",
+      "notices": "data/notices/프1.json",
+      "dataVersion": "2026.05.16.016",
+      "updatedAt": "2026-05-16 03:01:06",
+      "scheduleVersion": "2026.05.16.016",
+      "bossConfigVersion": "2026.05.10.009",
+      "scheduleHash": "8e66b9979c96ff65aa5f4395401a1542cc8fd94e",
+      "bossConfigHash": "c02a5707a34fdf857ffbcd14bfc1024d4ab27f68"
     }
   ]
 }
