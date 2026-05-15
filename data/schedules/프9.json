@@ -7,7 +7,7 @@
     "version": 1,
     "exported_at": {
       "__type__": "datetime",
-      "value": "2026-05-15T20:45:14"
+      "value": "2026-05-15T20:45:16"
     },
     "season_no": "18",
     "season_started_at": "2026-05-14 10:34:00",
@@ -17,11 +17,11 @@
     "share_prefix": "프9",
     "base_datetime": {
       "__type__": "datetime",
-      "value": "2026-05-15T20:45:14"
+      "value": "2026-05-15T20:45:16"
     },
     "view_date": {
       "__type__": "datetime",
-      "value": "2026-05-15T20:45:14"
+      "value": "2026-05-15T20:45:16"
     },
     "maintenance_weekday": "수요일",
     "maintenance_hour": "08시",
