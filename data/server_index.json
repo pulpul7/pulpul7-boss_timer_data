@@ -1,21 +1,8 @@
 {
   "appMinVersion": "1.2.0",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.05.15.043",
+  "dataVersion": "2026.05.15.044",
   "servers": [
-    {
-      "id": "미미르9",
-      "name": "미미르9",
-      "schedule": "data/schedules/미미르9.json",
-      "bosses": "data/bosses/미미르9.json",
-      "localOnly": true,
-      "pendingAdd": true,
-      "config": "data/config/미미르9.json",
-      "notices": "data/notices/미미르9.json",
-      "scheduleVersion": "2026.05.15.001",
-      "dataVersion": "2026.05.15.001",
-      "scheduleHash": ""
-    },
     {
       "id": "오9",
       "name": "오9",
