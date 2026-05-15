@@ -1,7 +1,7 @@
 {
   "appMinVersion": "1.2.0",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.05.15.034",
+  "dataVersion": "2026.05.15.035",
   "servers": [
     {
       "id": "오9",
@@ -28,32 +28,6 @@
       "bossConfigVersion": "2026.05.10.009",
       "scheduleHash": "8e66b9979c96ff65aa5f4395401a1542cc8fd94e",
       "bossConfigHash": "c02a5707a34fdf857ffbcd14bfc1024d4ab27f68"
-    },
-    {
-      "id": "프7",
-      "name": "프7",
-      "schedule": "data/schedules/프7.json",
-      "bosses": "data/bosses/프7.json",
-      "localOnly": true,
-      "pendingAdd": true,
-      "config": "data/config/프7.json",
-      "notices": "data/notices/프7.json",
-      "scheduleVersion": "2026.05.15.001",
-      "dataVersion": "2026.05.15.001",
-      "scheduleHash": ""
-    },
-    {
-      "id": "프9",
-      "name": "프9",
-      "schedule": "data/schedules/프9.json",
-      "bosses": "data/bosses/프9.json",
-      "localOnly": true,
-      "pendingAdd": true,
-      "config": "data/config/프9.json",
-      "notices": "data/notices/프9.json",
-      "scheduleVersion": "2026.05.15.001",
-      "dataVersion": "2026.05.15.001",
-      "scheduleHash": ""
     }
   ]
 }
