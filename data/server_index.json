@@ -1,8 +1,21 @@
 {
   "appMinVersion": "1.2.0",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.05.15.022",
+  "dataVersion": "2026.05.15.023",
   "servers": [
+    {
+      "id": "오8",
+      "name": "오8",
+      "schedule": "data/schedules/오8.json",
+      "bosses": "data/bosses/오8.json",
+      "localOnly": true,
+      "pendingAdd": true,
+      "config": "data/config/오8.json",
+      "notices": "data/notices/오8.json",
+      "scheduleVersion": "2026.05.15.001",
+      "dataVersion": "2026.05.15.001",
+      "scheduleHash": ""
+    },
     {
       "id": "오9",
       "name": "오9",
