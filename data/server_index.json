@@ -9,9 +9,14 @@
       "schedule": "data/schedules/오9.json",
       "localOnly": true,
       "bosses": "data/bosses/오9.json",
-      "scheduleVersion": "2026.05.15.001",
-      "dataVersion": "2026.05.15.001",
-      "scheduleHash": ""
+      "scheduleVersion": "2026.05.15.003",
+      "dataVersion": "2026.05.15.016",
+      "scheduleHash": "",
+      "config": "data/config/오9.json",
+      "notices": "data/notices/오9.json",
+      "bossConfigVersion": "",
+      "bossConfigHash": "",
+      "updatedAt": "2026-05-15 20:16:12"
     },
     {
       "id": "프1",
