@@ -1,13 +1,13 @@
 {
   "appMinVersion": "3.2.1.beta",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.05.16.027",
+  "dataVersion": "2026.05.16.030",
   "kind": "schedule",
   "payload": {
     "version": 1,
     "exported_at": {
       "__type__": "datetime",
-      "value": "2026-05-16T10:33:46"
+      "value": "2026-05-16T17:46:13"
     },
     "season_no": "10",
     "season_started_at": "2026-05-15 22:53:00",
@@ -46,7 +46,7 @@
           "__type__": "datetime",
           "value": "2026-05-13T10:59:00"
         },
-        "cycle_offset_direction": -2,
+        "cycle_offset_direction": -3,
         "respawn_seconds": 129600,
         "created_at": {
           "__type__": "datetime",
@@ -75,7 +75,7 @@
           "__type__": "datetime",
           "value": "2026-05-13T10:59:00"
         },
-        "cycle_offset_direction": -1,
+        "cycle_offset_direction": -2,
         "respawn_seconds": 259200,
         "created_at": {
           "__type__": "datetime",
@@ -104,7 +104,7 @@
           "__type__": "datetime",
           "value": "2026-05-13T10:59:00"
         },
-        "cycle_offset_direction": -1,
+        "cycle_offset_direction": -2,
         "respawn_seconds": 259200,
         "created_at": {
           "__type__": "datetime",
@@ -581,7 +581,7 @@
           "__type__": "datetime",
           "value": "2026-05-13T11:59:00"
         },
-        "cycle_offset_direction": -2,
+        "cycle_offset_direction": -3,
         "respawn_seconds": 129600,
         "created_at": {
           "__type__": "datetime",
@@ -778,7 +778,7 @@
           "__type__": "datetime",
           "value": "2026-05-13T13:59:00"
         },
-        "cycle_offset_direction": -1,
+        "cycle_offset_direction": -2,
         "respawn_seconds": 259200,
         "created_at": {
           "__type__": "datetime",
@@ -1314,7 +1314,7 @@
           "__type__": "datetime",
           "value": "2026-05-13T20:00:00"
         },
-        "cycle_offset_direction": -1,
+        "cycle_offset_direction": -2,
         "respawn_seconds": 216000,
         "created_at": {
           "__type__": "datetime",
@@ -2100,7 +2100,7 @@
           "__type__": "datetime",
           "value": "2026-05-14T01:45:00"
         },
-        "cycle_offset_direction": -1,
+        "cycle_offset_direction": -2,
         "respawn_seconds": 216000,
         "created_at": {
           "__type__": "datetime",
@@ -2194,7 +2194,7 @@
           "__type__": "datetime",
           "value": "2026-05-14T04:43:00"
         },
-        "cycle_offset_direction": -1,
+        "cycle_offset_direction": -2,
         "respawn_seconds": 172800,
         "created_at": {
           "__type__": "datetime",
@@ -2911,7 +2911,7 @@
           "__type__": "datetime",
           "value": "2026-05-14T22:59:00"
         },
-        "cycle_offset_direction": -1,
+        "cycle_offset_direction": -2,
         "respawn_seconds": 129600,
         "created_at": {
           "__type__": "datetime",
@@ -3192,7 +3192,7 @@
           "__type__": "datetime",
           "value": "2026-05-14T23:59:00"
         },
-        "cycle_offset_direction": -1,
+        "cycle_offset_direction": -2,
         "respawn_seconds": 129600,
         "created_at": {
           "__type__": "datetime",
@@ -4745,7 +4745,7 @@
           "__type__": "datetime",
           "value": "2026-05-16T04:48:00"
         },
-        "cycle_offset_direction": 0,
+        "cycle_offset_direction": -1,
         "respawn_seconds": 172800,
         "created_at": {
           "__type__": "datetime",
@@ -4774,11 +4774,6 @@
           "__type__": "datetime",
           "value": "2026-05-16T11:01:05"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-16T11:01:05"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -4807,11 +4802,6 @@
           "__type__": "datetime",
           "value": "2026-05-16T11:01:19"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-16T11:01:19"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -4844,7 +4834,7 @@
           "__type__": "datetime",
           "value": "2026-05-16T11:01:20"
         },
-        "cycle_offset_direction": 0,
+        "cycle_offset_direction": -1,
         "respawn_seconds": 129600,
         "created_at": {
           "__type__": "datetime",
@@ -4873,11 +4863,6 @@
           "__type__": "datetime",
           "value": "2026-05-16T11:01:32"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-16T11:01:32"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -4906,11 +4891,6 @@
           "__type__": "datetime",
           "value": "2026-05-16T11:01:39"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-16T11:01:39"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -4939,11 +4919,6 @@
           "__type__": "datetime",
           "value": "2026-05-16T11:01:57"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-16T11:01:57"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -4976,7 +4951,7 @@
           "__type__": "datetime",
           "value": "2026-05-16T11:04:33"
         },
-        "cycle_offset_direction": 0,
+        "cycle_offset_direction": -1,
         "respawn_seconds": 259200,
         "created_at": {
           "__type__": "datetime",
@@ -5005,11 +4980,6 @@
           "__type__": "datetime",
           "value": "2026-05-16T11:15:19"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-16T11:15:19"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -5038,11 +5008,6 @@
           "__type__": "datetime",
           "value": "2026-05-16T11:23:12"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-16T11:23:12"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -5071,11 +5036,6 @@
           "__type__": "datetime",
           "value": "2026-05-16T11:50:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-16T11:50:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -5104,11 +5064,6 @@
           "__type__": "datetime",
           "value": "2026-05-16T11:52:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-16T11:52:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -5141,7 +5096,7 @@
           "__type__": "datetime",
           "value": "2026-05-16T11:54:00"
         },
-        "cycle_offset_direction": 0,
+        "cycle_offset_direction": -1,
         "respawn_seconds": 259200,
         "created_at": {
           "__type__": "datetime",
@@ -5174,7 +5129,7 @@
           "__type__": "datetime",
           "value": "2026-05-16T11:59:00"
         },
-        "cycle_offset_direction": 0,
+        "cycle_offset_direction": -1,
         "respawn_seconds": 129600,
         "created_at": {
           "__type__": "datetime",
@@ -5203,11 +5158,6 @@
           "__type__": "datetime",
           "value": "2026-05-16T12:09:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-16T12:09:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -5236,11 +5186,6 @@
           "__type__": "datetime",
           "value": "2026-05-16T12:10:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-16T12:10:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -5269,11 +5214,6 @@
           "__type__": "datetime",
           "value": "2026-05-16T12:32:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-16T12:32:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -5302,11 +5242,6 @@
           "__type__": "datetime",
           "value": "2026-05-16T12:35:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-16T12:35:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -5335,11 +5270,6 @@
           "__type__": "datetime",
           "value": "2026-05-16T13:11:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-16T13:11:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
@@ -5368,11 +5298,6 @@
           "__type__": "datetime",
           "value": "2026-05-16T13:38:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-16T13:38:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -5405,7 +5330,7 @@
           "__type__": "datetime",
           "value": "2026-05-16T13:45:00"
         },
-        "cycle_offset_direction": 0,
+        "cycle_offset_direction": -1,
         "respawn_seconds": 216000,
         "created_at": {
           "__type__": "datetime",
@@ -5434,11 +5359,6 @@
           "__type__": "datetime",
           "value": "2026-05-16T14:18:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-16T14:18:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -5471,7 +5391,7 @@
           "__type__": "datetime",
           "value": "2026-05-16T14:45:00"
         },
-        "cycle_offset_direction": 0,
+        "cycle_offset_direction": -1,
         "respawn_seconds": 259200,
         "created_at": {
           "__type__": "datetime",
@@ -5500,11 +5420,6 @@
           "__type__": "datetime",
           "value": "2026-05-16T15:20:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-16T15:20:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
@@ -5537,7 +5452,7 @@
           "__type__": "datetime",
           "value": "2026-05-16T16:09:00"
         },
-        "cycle_offset_direction": 0,
+        "cycle_offset_direction": -1,
         "respawn_seconds": 216000,
         "created_at": {
           "__type__": "datetime",
@@ -5566,11 +5481,6 @@
           "__type__": "datetime",
           "value": "2026-05-16T16:51:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-16T16:51:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
@@ -5830,11 +5740,6 @@
           "__type__": "datetime",
           "value": "2026-05-16T19:12:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-16T19:12:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
@@ -5863,11 +5768,6 @@
           "__type__": "datetime",
           "value": "2026-05-16T19:56:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-16T19:56:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
@@ -5995,11 +5895,6 @@
           "__type__": "datetime",
           "value": "2026-05-16T23:01:05"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-16T23:01:05"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -6028,11 +5923,6 @@
           "__type__": "datetime",
           "value": "2026-05-16T23:01:19"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-16T23:01:19"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -6061,11 +5951,6 @@
           "__type__": "datetime",
           "value": "2026-05-16T23:01:32"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-16T23:01:32"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -6094,11 +5979,6 @@
           "__type__": "datetime",
           "value": "2026-05-16T23:01:39"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-16T23:01:39"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -6127,11 +6007,6 @@
           "__type__": "datetime",
           "value": "2026-05-16T23:01:57"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-16T23:01:57"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -6160,11 +6035,6 @@
           "__type__": "datetime",
           "value": "2026-05-16T23:15:19"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-16T23:15:19"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -6193,11 +6063,6 @@
           "__type__": "datetime",
           "value": "2026-05-16T23:23:12"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-16T23:23:12"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -6226,11 +6091,6 @@
           "__type__": "datetime",
           "value": "2026-05-16T23:50:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-16T23:50:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -6259,11 +6119,6 @@
           "__type__": "datetime",
           "value": "2026-05-16T23:52:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-16T23:52:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -6292,11 +6147,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T00:09:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T00:09:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -6325,11 +6175,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T00:10:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T00:10:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -6358,11 +6203,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T00:32:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T00:32:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -6391,11 +6231,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T00:35:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T00:35:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -6424,11 +6259,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T01:38:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T01:38:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -6490,11 +6320,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T02:18:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T02:18:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -6589,11 +6414,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T11:01:05"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T11:01:05"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -6622,11 +6442,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T11:01:19"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T11:01:19"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -6655,11 +6470,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T11:01:32"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T11:01:32"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -6688,11 +6498,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T11:01:39"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T11:01:39"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -6721,11 +6526,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T11:01:57"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T11:01:57"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -6754,11 +6554,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T11:15:19"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T11:15:19"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -6787,11 +6582,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T11:23:12"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T11:23:12"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -6820,11 +6610,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T11:50:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T11:50:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -6853,11 +6638,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T11:52:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T11:52:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -6886,11 +6666,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T12:09:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T12:09:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -6919,11 +6694,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T12:10:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T12:10:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -6952,11 +6722,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T12:32:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T12:32:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -6985,11 +6750,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T12:35:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T12:35:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -7018,11 +6778,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T13:11:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T13:11:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
@@ -7051,11 +6806,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T13:38:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T13:38:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -7084,11 +6834,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T14:18:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T14:18:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -7117,11 +6862,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T15:20:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T15:20:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
@@ -7150,11 +6890,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T16:51:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T16:51:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
@@ -7274,11 +7009,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T19:12:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T19:12:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
@@ -7307,11 +7037,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T19:56:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T19:56:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
@@ -7340,11 +7065,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T23:01:05"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T23:01:05"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -7373,11 +7093,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T23:01:19"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T23:01:19"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -7404,13 +7119,13 @@
         "source_text": "11:01:20 신마라",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-17T23:01:21"
+          "value": "2026-05-17T23:01:20"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
           "value": "2026-05-17T23:01:20"
         },
-        "cycle_offset_direction": 1,
+        "cycle_offset_direction": 0,
         "respawn_seconds": 129600,
         "created_at": {
           "__type__": "datetime",
@@ -7439,11 +7154,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T23:01:32"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T23:01:32"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -7472,11 +7182,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T23:01:39"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T23:01:39"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -7505,11 +7210,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T23:01:57"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T23:01:57"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -7538,11 +7238,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T23:15:19"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T23:15:19"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -7571,11 +7266,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T23:23:12"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T23:23:12"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -7662,11 +7352,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T23:50:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T23:50:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -7695,11 +7380,6 @@
           "__type__": "datetime",
           "value": "2026-05-17T23:52:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-17T23:52:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -7726,13 +7406,13 @@
         "source_text": "11:59 탕그",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-17T23:59:02"
+          "value": "2026-05-17T23:59:00"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
           "value": "2026-05-17T23:59:00"
         },
-        "cycle_offset_direction": 1,
+        "cycle_offset_direction": 0,
         "respawn_seconds": 129600,
         "created_at": {
           "__type__": "datetime",
@@ -7761,11 +7441,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T00:09:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T00:09:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -7794,11 +7469,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T00:10:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T00:10:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -7827,11 +7497,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T00:32:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T00:32:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -7860,11 +7525,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T00:35:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T00:35:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -7893,11 +7553,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T01:38:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T01:38:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -7926,11 +7581,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T02:18:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T02:18:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -7957,13 +7607,13 @@
         "source_text": "04:48 발리",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-18T04:48:03"
+          "value": "2026-05-18T04:48:00"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
           "value": "2026-05-18T04:48:00"
         },
-        "cycle_offset_direction": 1,
+        "cycle_offset_direction": 0,
         "respawn_seconds": 172800,
         "created_at": {
           "__type__": "datetime",
@@ -8223,11 +7873,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T11:01:05"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T11:01:05"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -8256,11 +7901,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T11:01:19"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T11:01:19"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -8289,11 +7929,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T11:01:32"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T11:01:32"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -8322,11 +7957,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T11:01:39"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T11:01:39"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -8355,11 +7985,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T11:01:57"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T11:01:57"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -8388,11 +8013,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T11:15:19"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T11:15:19"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -8421,11 +8041,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T11:23:12"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T11:23:12"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -8454,11 +8069,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T11:50:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T11:50:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -8487,11 +8097,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T11:52:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T11:52:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -8520,11 +8125,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T12:09:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T12:09:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -8553,11 +8153,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T12:10:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T12:10:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -8586,11 +8181,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T12:32:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T12:32:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -8619,11 +8209,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T12:35:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T12:35:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -8652,11 +8237,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T13:11:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T13:11:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
@@ -8685,11 +8265,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T13:38:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T13:38:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -8718,11 +8293,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T14:18:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T14:18:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -8751,11 +8321,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T15:20:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T15:20:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
@@ -8784,11 +8349,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T16:51:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T16:51:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
@@ -8850,11 +8410,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T19:12:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T19:12:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
@@ -8883,11 +8438,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T19:56:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T19:56:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
@@ -8916,11 +8466,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T23:01:05"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T23:01:05"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -8949,11 +8494,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T23:01:19"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T23:01:19"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -8982,11 +8522,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T23:01:32"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T23:01:32"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -9015,11 +8550,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T23:01:39"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T23:01:39"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -9048,11 +8578,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T23:01:57"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T23:01:57"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -9081,11 +8606,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T23:15:19"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T23:15:19"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -9114,11 +8634,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T23:23:12"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T23:23:12"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -9147,11 +8662,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T23:50:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T23:50:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -9180,11 +8690,6 @@
           "__type__": "datetime",
           "value": "2026-05-18T23:52:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-18T23:52:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -9213,11 +8718,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T00:09:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T00:09:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -9246,11 +8746,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T00:10:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T00:10:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -9279,11 +8774,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T00:32:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T00:32:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -9312,11 +8802,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T00:35:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T00:35:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -9345,11 +8830,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T01:38:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T01:38:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -9376,13 +8856,13 @@
         "source_text": "13:45 헤이드",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-19T01:46:00"
+          "value": "2026-05-19T01:45:00"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
           "value": "2026-05-19T01:45:00"
         },
-        "cycle_offset_direction": 1,
+        "cycle_offset_direction": 0,
         "respawn_seconds": 216000,
         "created_at": {
           "__type__": "datetime",
@@ -9411,11 +8891,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T02:18:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T02:18:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -9442,13 +8917,13 @@
         "source_text": "16:09 호드",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-19T04:09:50"
+          "value": "2026-05-19T04:09:00"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
           "value": "2026-05-19T04:09:00"
         },
-        "cycle_offset_direction": 1,
+        "cycle_offset_direction": 0,
         "respawn_seconds": 216000,
         "created_at": {
           "__type__": "datetime",
@@ -9510,11 +8985,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T11:01:05"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T11:01:05"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -9543,11 +9013,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T11:01:19"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T11:01:19"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -9574,13 +9039,13 @@
         "source_text": "11:01:20 신마라",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-19T11:01:22"
+          "value": "2026-05-19T11:01:21"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
           "value": "2026-05-19T11:01:20"
         },
-        "cycle_offset_direction": 2,
+        "cycle_offset_direction": 1,
         "respawn_seconds": 129600,
         "created_at": {
           "__type__": "datetime",
@@ -9609,11 +9074,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T11:01:32"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T11:01:32"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -9642,11 +9102,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T11:01:39"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T11:01:39"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -9675,11 +9130,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T11:01:57"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T11:01:57"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -9706,13 +9156,13 @@
         "source_text": "11:04:33 티르",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-19T11:04:53"
+          "value": "2026-05-19T11:04:33"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
           "value": "2026-05-19T11:04:33"
         },
-        "cycle_offset_direction": 1,
+        "cycle_offset_direction": 0,
         "respawn_seconds": 259200,
         "created_at": {
           "__type__": "datetime",
@@ -9741,11 +9191,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T11:15:19"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T11:15:19"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -9774,11 +9219,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T11:23:12"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T11:23:12"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -9807,11 +9247,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T11:50:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T11:50:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -9840,11 +9275,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T11:52:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T11:52:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -9871,13 +9301,13 @@
         "source_text": "11:54 최하층스네르",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-19T11:57:00"
+          "value": "2026-05-19T11:54:00"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
           "value": "2026-05-19T11:54:00"
         },
-        "cycle_offset_direction": 1,
+        "cycle_offset_direction": 0,
         "respawn_seconds": 259200,
         "created_at": {
           "__type__": "datetime",
@@ -9904,13 +9334,13 @@
         "source_text": "11:59 탕그",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-19T11:59:04"
+          "value": "2026-05-19T11:59:02"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
           "value": "2026-05-19T11:59:00"
         },
-        "cycle_offset_direction": 2,
+        "cycle_offset_direction": 1,
         "respawn_seconds": 129600,
         "created_at": {
           "__type__": "datetime",
@@ -9939,11 +9369,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T12:09:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T12:09:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -9972,11 +9397,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T12:10:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T12:10:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -10005,11 +9425,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T12:32:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T12:32:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -10038,11 +9453,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T12:35:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T12:35:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -10071,11 +9481,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T13:11:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T13:11:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
@@ -10104,11 +9509,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T13:38:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T13:38:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -10137,11 +9537,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T14:18:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T14:18:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -10168,13 +9563,13 @@
         "source_text": "14:45 수르트",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-19T14:45:30"
+          "value": "2026-05-19T14:45:00"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
           "value": "2026-05-19T14:45:00"
         },
-        "cycle_offset_direction": 1,
+        "cycle_offset_direction": 0,
         "respawn_seconds": 259200,
         "created_at": {
           "__type__": "datetime",
@@ -10236,11 +9631,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T15:20:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T15:20:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
@@ -10269,11 +9659,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T16:51:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T16:51:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
@@ -10591,11 +9976,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T19:12:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T19:12:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
@@ -10624,11 +10004,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T19:56:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T19:56:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
@@ -10723,11 +10098,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T23:01:05"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T23:01:05"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -10756,11 +10126,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T23:01:19"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T23:01:19"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -10789,11 +10154,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T23:01:32"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T23:01:32"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -10822,11 +10182,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T23:01:39"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T23:01:39"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -10855,11 +10210,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T23:01:57"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T23:01:57"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -10888,11 +10238,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T23:15:19"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T23:15:19"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -10921,11 +10266,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T23:23:12"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T23:23:12"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -11012,11 +10352,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T23:50:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T23:50:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -11045,11 +10380,6 @@
           "__type__": "datetime",
           "value": "2026-05-19T23:52:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-19T23:52:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -11078,11 +10408,6 @@
           "__type__": "datetime",
           "value": "2026-05-20T00:09:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-20T00:09:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -11111,11 +10436,6 @@
           "__type__": "datetime",
           "value": "2026-05-20T00:10:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-20T00:10:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -11144,11 +10464,6 @@
           "__type__": "datetime",
           "value": "2026-05-20T00:32:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-20T00:32:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -11177,11 +10492,6 @@
           "__type__": "datetime",
           "value": "2026-05-20T00:35:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-20T00:35:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -11210,11 +10520,6 @@
           "__type__": "datetime",
           "value": "2026-05-20T01:38:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-20T01:38:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -11276,11 +10581,6 @@
           "__type__": "datetime",
           "value": "2026-05-20T02:18:00"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-20T02:18:00"
-        },
-        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
@@ -11369,13 +10669,13 @@
         "source_text": "04:48 발리",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-20T04:48:06"
+          "value": "2026-05-20T04:48:03"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
           "value": "2026-05-20T04:48:00"
         },
-        "cycle_offset_direction": 2,
+        "cycle_offset_direction": 1,
         "respawn_seconds": 172800,
         "created_at": {
           "__type__": "datetime",
