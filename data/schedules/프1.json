@@ -1,19 +1,19 @@
 {
-  "appMinVersion": "3.2.1.beta",
+  "appMinVersion": "3.3.0",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.05.19.002",
+  "dataVersion": "2026.05.19.008",
   "kind": "schedule",
   "payload": {
     "version": 1,
     "exported_at": {
       "__type__": "datetime",
-      "value": "2026-05-19T12:34:17"
+      "value": "2026-05-19T13:45:12"
     },
-    "season_no": "10",
-    "season_started_at": "2026-05-15 22:53:00",
-    "season_label": "프1 딸기 10차 시즌",
+    "season_no": "17",
+    "season_started_at": "2026-05-19 13:41:00",
+    "season_label": "프1 A팀 17차 시즌",
     "server_name": "프1",
-    "guild_name": "딸기",
+    "guild_name": "A팀",
     "share_prefix": "프1",
     "base_datetime": {
       "__type__": "datetime",
