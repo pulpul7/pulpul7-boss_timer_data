@@ -1,13 +1,13 @@
 {
   "appMinVersion": "3.2.1.beta",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.05.16.031",
+  "dataVersion": "2026.05.19.002",
   "kind": "schedule",
   "payload": {
     "version": 1,
     "exported_at": {
       "__type__": "datetime",
-      "value": "2026-05-16T19:21:27"
+      "value": "2026-05-19T12:34:17"
     },
     "season_no": "10",
     "season_started_at": "2026-05-15 22:53:00",
@@ -21,7 +21,7 @@
     },
     "view_date": {
       "__type__": "datetime",
-      "value": "2026-05-16T00:00:00"
+      "value": "2026-05-19T00:00:00"
     },
     "maintenance_weekday": "수요일",
     "maintenance_hour": "08시",
@@ -4707,7 +4707,7 @@
         "clock_hours": 2,
         "clock_minutes": 18,
         "clock_seconds": 34,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "02:18:34 파르바",
         "scheduled_at": {
           "__type__": "datetime",
@@ -4768,7 +4768,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 5,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:05 수드리",
         "scheduled_at": {
           "__type__": "datetime",
@@ -4796,7 +4796,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 19,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:19 야른",
         "scheduled_at": {
           "__type__": "datetime",
@@ -4824,7 +4824,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 20,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:20 신마라",
         "scheduled_at": {
           "__type__": "datetime",
@@ -4857,7 +4857,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 32,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:32 비요른",
         "scheduled_at": {
           "__type__": "datetime",
@@ -4885,7 +4885,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 39,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:39 페티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -4913,7 +4913,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 57,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:57 니드호그",
         "scheduled_at": {
           "__type__": "datetime",
@@ -4941,7 +4941,7 @@
         "clock_hours": 11,
         "clock_minutes": 4,
         "clock_seconds": 33,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:04:33 티르",
         "scheduled_at": {
           "__type__": "datetime",
@@ -4974,7 +4974,7 @@
         "clock_hours": 11,
         "clock_minutes": 15,
         "clock_seconds": 19,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:15:19 라타토스크",
         "scheduled_at": {
           "__type__": "datetime",
@@ -5002,7 +5002,7 @@
         "clock_hours": 11,
         "clock_minutes": 23,
         "clock_seconds": 12,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:23:12 브륀힐드",
         "scheduled_at": {
           "__type__": "datetime",
@@ -5889,7 +5889,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 5,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:05 수드리",
         "scheduled_at": {
           "__type__": "datetime",
@@ -5917,7 +5917,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 19,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:19 야른",
         "scheduled_at": {
           "__type__": "datetime",
@@ -5945,7 +5945,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 32,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:32 비요른",
         "scheduled_at": {
           "__type__": "datetime",
@@ -5973,7 +5973,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 39,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:39 페티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -6001,7 +6001,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 57,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:57 니드호그",
         "scheduled_at": {
           "__type__": "datetime",
@@ -6029,7 +6029,7 @@
         "clock_hours": 11,
         "clock_minutes": 15,
         "clock_seconds": 19,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:15:19 라타토스크",
         "scheduled_at": {
           "__type__": "datetime",
@@ -6057,7 +6057,7 @@
         "clock_hours": 11,
         "clock_minutes": 23,
         "clock_seconds": 12,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:23:12 브륀힐드",
         "scheduled_at": {
           "__type__": "datetime",
@@ -6408,7 +6408,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 5,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:05 수드리",
         "scheduled_at": {
           "__type__": "datetime",
@@ -6436,7 +6436,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 19,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:19 야른",
         "scheduled_at": {
           "__type__": "datetime",
@@ -6464,7 +6464,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 32,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:32 비요른",
         "scheduled_at": {
           "__type__": "datetime",
@@ -6492,7 +6492,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 39,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:39 페티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -6520,7 +6520,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 57,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:57 니드호그",
         "scheduled_at": {
           "__type__": "datetime",
@@ -6548,7 +6548,7 @@
         "clock_hours": 11,
         "clock_minutes": 15,
         "clock_seconds": 19,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:15:19 라타토스크",
         "scheduled_at": {
           "__type__": "datetime",
@@ -6576,7 +6576,7 @@
         "clock_hours": 11,
         "clock_minutes": 23,
         "clock_seconds": 12,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:23:12 브륀힐드",
         "scheduled_at": {
           "__type__": "datetime",
@@ -7059,7 +7059,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 5,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:05 수드리",
         "scheduled_at": {
           "__type__": "datetime",
@@ -7087,7 +7087,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 19,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:19 야른",
         "scheduled_at": {
           "__type__": "datetime",
@@ -7115,7 +7115,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 20,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:20 신마라",
         "scheduled_at": {
           "__type__": "datetime",
@@ -7148,7 +7148,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 32,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:32 비요른",
         "scheduled_at": {
           "__type__": "datetime",
@@ -7176,7 +7176,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 39,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:39 페티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -7204,7 +7204,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 57,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:57 니드호그",
         "scheduled_at": {
           "__type__": "datetime",
@@ -7232,7 +7232,7 @@
         "clock_hours": 11,
         "clock_minutes": 15,
         "clock_seconds": 19,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:15:19 라타토스크",
         "scheduled_at": {
           "__type__": "datetime",
@@ -7260,7 +7260,7 @@
         "clock_hours": 11,
         "clock_minutes": 23,
         "clock_seconds": 12,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:23:12 브륀힐드",
         "scheduled_at": {
           "__type__": "datetime",
@@ -7867,7 +7867,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 5,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:05 수드리",
         "scheduled_at": {
           "__type__": "datetime",
@@ -7895,7 +7895,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 19,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:19 야른",
         "scheduled_at": {
           "__type__": "datetime",
@@ -7923,7 +7923,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 32,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:32 비요른",
         "scheduled_at": {
           "__type__": "datetime",
@@ -7951,7 +7951,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 39,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:39 페티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -7979,7 +7979,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 57,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:57 니드호그",
         "scheduled_at": {
           "__type__": "datetime",
@@ -8007,7 +8007,7 @@
         "clock_hours": 11,
         "clock_minutes": 15,
         "clock_seconds": 19,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:15:19 라타토스크",
         "scheduled_at": {
           "__type__": "datetime",
@@ -8035,7 +8035,7 @@
         "clock_hours": 11,
         "clock_minutes": 23,
         "clock_seconds": 12,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:23:12 브륀힐드",
         "scheduled_at": {
           "__type__": "datetime",
@@ -8460,7 +8460,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 5,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:05 수드리",
         "scheduled_at": {
           "__type__": "datetime",
@@ -8488,7 +8488,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 19,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:19 야른",
         "scheduled_at": {
           "__type__": "datetime",
@@ -8516,7 +8516,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 32,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:32 비요른",
         "scheduled_at": {
           "__type__": "datetime",
@@ -8544,7 +8544,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 39,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:39 페티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -8572,7 +8572,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 57,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:57 니드호그",
         "scheduled_at": {
           "__type__": "datetime",
@@ -8600,7 +8600,7 @@
         "clock_hours": 11,
         "clock_minutes": 15,
         "clock_seconds": 19,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:15:19 라타토스크",
         "scheduled_at": {
           "__type__": "datetime",
@@ -8628,7 +8628,7 @@
         "clock_hours": 11,
         "clock_minutes": 23,
         "clock_seconds": 12,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:23:12 브륀힐드",
         "scheduled_at": {
           "__type__": "datetime",
@@ -8979,7 +8979,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 5,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:05 수드리",
         "scheduled_at": {
           "__type__": "datetime",
@@ -9007,7 +9007,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 19,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:19 야른",
         "scheduled_at": {
           "__type__": "datetime",
@@ -9035,7 +9035,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 20,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:20 신마라",
         "scheduled_at": {
           "__type__": "datetime",
@@ -9068,7 +9068,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 32,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:32 비요른",
         "scheduled_at": {
           "__type__": "datetime",
@@ -9096,7 +9096,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 39,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:39 페티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -9124,7 +9124,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 57,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:57 니드호그",
         "scheduled_at": {
           "__type__": "datetime",
@@ -9152,7 +9152,7 @@
         "clock_hours": 11,
         "clock_minutes": 4,
         "clock_seconds": 33,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:04:33 티르",
         "scheduled_at": {
           "__type__": "datetime",
@@ -9185,7 +9185,7 @@
         "clock_hours": 11,
         "clock_minutes": 15,
         "clock_seconds": 19,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:15:19 라타토스크",
         "scheduled_at": {
           "__type__": "datetime",
@@ -9213,7 +9213,7 @@
         "clock_hours": 11,
         "clock_minutes": 23,
         "clock_seconds": 12,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:23:12 브륀힐드",
         "scheduled_at": {
           "__type__": "datetime",
@@ -10092,7 +10092,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 5,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:05 수드리",
         "scheduled_at": {
           "__type__": "datetime",
@@ -10120,7 +10120,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 19,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:19 야른",
         "scheduled_at": {
           "__type__": "datetime",
@@ -10148,7 +10148,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 32,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:32 비요른",
         "scheduled_at": {
           "__type__": "datetime",
@@ -10176,7 +10176,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 39,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:39 페티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -10204,7 +10204,7 @@
         "clock_hours": 11,
         "clock_minutes": 1,
         "clock_seconds": 57,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:01:57 니드호그",
         "scheduled_at": {
           "__type__": "datetime",
@@ -10232,7 +10232,7 @@
         "clock_hours": 11,
         "clock_minutes": 15,
         "clock_seconds": 19,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:15:19 라타토스크",
         "scheduled_at": {
           "__type__": "datetime",
@@ -10260,7 +10260,7 @@
         "clock_hours": 11,
         "clock_minutes": 23,
         "clock_seconds": 12,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "11:23:12 브륀힐드",
         "scheduled_at": {
           "__type__": "datetime",
