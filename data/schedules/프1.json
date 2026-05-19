@@ -1,13 +1,13 @@
 {
   "appMinVersion": "3.3.1",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.05.19.055",
+  "dataVersion": "2026.05.19.056",
   "kind": "schedule",
   "payload": {
     "version": 1,
     "exported_at": {
       "__type__": "datetime",
-      "value": "2026-05-19T21:47:29"
+      "value": "2026-05-19T23:59:48"
     },
     "season_no": "17",
     "season_started_at": "2026-05-19 14:17:00",
@@ -10374,19 +10374,24 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 12,
-        "clock_minutes": 9,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "12:09 바우티",
+        "clock_hours": 0,
+        "clock_minutes": 10,
+        "clock_seconds": 10,
+        "precision": "second",
+        "source_text": "00:10:10 바우티",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-20T00:09:00"
+          "value": "2026-05-20T00:10:10"
         },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-05-20T00:10:10"
+        },
+        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-16T10:19:05"
+          "value": "2026-05-19T23:59:16"
         },
         "alarm_enabled": false,
         "result": "",
@@ -10402,19 +10407,24 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 12,
-        "clock_minutes": 10,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "12:10 흐니르",
+        "clock_hours": 0,
+        "clock_minutes": 11,
+        "clock_seconds": 30,
+        "precision": "second",
+        "source_text": "00:11:30 흐니르",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-20T00:10:00"
+          "value": "2026-05-20T00:11:30"
         },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-05-20T00:11:30"
+        },
+        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-16T10:19:05"
+          "value": "2026-05-19T23:59:16"
         },
         "alarm_enabled": false,
         "result": "",
@@ -10463,19 +10473,24 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 12,
-        "clock_minutes": 32,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "12:32 스칼라니르",
+        "clock_hours": 0,
+        "clock_minutes": 33,
+        "clock_seconds": 44,
+        "precision": "second",
+        "source_text": "00:33:44 스칼라니르",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-20T00:32:00"
+          "value": "2026-05-20T00:33:44"
         },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-05-20T00:33:44"
+        },
+        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-16T10:19:05"
+          "value": "2026-05-19T23:59:16"
         },
         "alarm_enabled": false,
         "result": "",
@@ -10491,19 +10506,24 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 12,
-        "clock_minutes": 35,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "12:35 라이노르",
+        "clock_hours": 0,
+        "clock_minutes": 36,
+        "clock_seconds": 14,
+        "precision": "second",
+        "source_text": "00:36:14 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-20T00:35:00"
+          "value": "2026-05-20T00:36:14"
         },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-05-20T00:36:14"
+        },
+        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-16T10:19:05"
+          "value": "2026-05-19T23:59:16"
         },
         "alarm_enabled": false,
         "result": "",
