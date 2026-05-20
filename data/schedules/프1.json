@@ -1,19 +1,19 @@
 {
   "appMinVersion": "3.3.1",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.05.21.018",
+  "dataVersion": "2026.05.21.027",
   "kind": "schedule",
   "payload": {
     "version": 1,
     "exported_at": {
       "__type__": "datetime",
-      "value": "2026-05-21T01:14:54"
+      "value": "2026-05-21T04:09:12"
     },
-    "season_no": "17",
-    "season_started_at": "2026-05-19 14:17:00",
-    "season_label": "프1 A팀 17차 시즌",
+    "season_no": "10",
+    "season_started_at": "2026-05-15 22:53:00",
+    "season_label": "프1 딸기 10차 시즌",
     "server_name": "프1",
-    "guild_name": "A팀",
+    "guild_name": "딸기",
     "share_prefix": "프1",
     "base_datetime": {
       "__type__": "datetime",
@@ -21,7 +21,7 @@
     },
     "view_date": {
       "__type__": "datetime",
-      "value": "2026-05-21T00:00:00"
+      "value": "2026-05-20T00:00:00"
     },
     "maintenance_weekday": "수요일",
     "maintenance_hour": "08시",
@@ -10578,7 +10578,7 @@
         "clock_hours": 3,
         "clock_minutes": 2,
         "clock_seconds": 46,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "03:02:46 토르",
         "scheduled_at": {
           "__type__": "datetime",
@@ -11880,27 +11880,35 @@
         "is_invasion": false,
         "raw_key": "normal:헤이드",
         "state": "scheduled",
-        "mode": "duration",
-        "remaining_seconds": 212400,
-        "precision": "hour",
-        "source_text": "헤이드 2일 11시간",
+        "source_text": "2346 헤이드 컷",
+        "mode": "clock",
+        "day_offset": -1,
+        "day_offset_explicit": true,
+        "clock_hours": 23,
+        "clock_minutes": 46,
+        "clock_seconds": 0,
+        "precision": "minute",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-20T23:36:00"
+          "value": "2026-05-20T23:46:00"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-05-20T23:36:00"
+          "value": "2026-05-20T23:46:00"
         },
-        "cycle_offset_direction": -1,
+        "cycle_offset_direction": 0,
         "respawn_seconds": 216000,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-21T00:36:36"
+          "value": "2026-05-21T04:08:37"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "cut_at": {
+          "__type__": "datetime",
+          "value": "2026-05-20T23:46:00"
+        }
       },
       {
         "raw_name": "스칼라니르",
@@ -13141,39 +13149,6 @@
         "created_at": {
           "__type__": "datetime",
           "value": "2026-05-21T00:46:58"
-        },
-        "alarm_enabled": false,
-        "result": "",
-        "note": ""
-      },
-      {
-        "raw_name": "헤이드",
-        "boss_name": "헤이드",
-        "display_name": "헤이드",
-        "is_invasion": false,
-        "raw_key": "normal:헤이드",
-        "state": "scheduled",
-        "source_text": "2346 헤이드 컷",
-        "mode": "clock",
-        "day_offset": 0,
-        "day_offset_explicit": false,
-        "clock_hours": 23,
-        "clock_minutes": 46,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "scheduled_at": {
-          "__type__": "datetime",
-          "value": "2026-05-21T23:46:00"
-        },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-21T23:46:00"
-        },
-        "cycle_offset_direction": 0,
-        "respawn_seconds": 216000,
-        "created_at": {
-          "__type__": "datetime",
-          "value": "2026-05-21T00:57:44"
         },
         "alarm_enabled": false,
         "result": "",
@@ -15208,6 +15183,39 @@
         "note": ""
       },
       {
+        "raw_name": "헤이드",
+        "boss_name": "헤이드",
+        "display_name": "헤이드",
+        "is_invasion": false,
+        "raw_key": "normal:헤이드",
+        "state": "scheduled",
+        "source_text": "2346 헤이드 컷",
+        "mode": "clock",
+        "day_offset": -1,
+        "day_offset_explicit": true,
+        "clock_hours": 23,
+        "clock_minutes": 46,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-05-23T11:47:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-05-23T11:46:00"
+        },
+        "cycle_offset_direction": 1,
+        "respawn_seconds": 216000,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-05-21T04:08:37"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
         "raw_name": "모네가름",
         "boss_name": "모네가름",
         "display_name": "모네가름",
@@ -16509,39 +16517,6 @@
         "created_at": {
           "__type__": "datetime",
           "value": "2026-05-21T00:46:58"
-        },
-        "alarm_enabled": false,
-        "result": "",
-        "note": ""
-      },
-      {
-        "raw_name": "헤이드",
-        "boss_name": "헤이드",
-        "display_name": "헤이드",
-        "is_invasion": false,
-        "raw_key": "normal:헤이드",
-        "state": "scheduled",
-        "source_text": "2346 헤이드 컷",
-        "mode": "clock",
-        "day_offset": 0,
-        "day_offset_explicit": false,
-        "clock_hours": 23,
-        "clock_minutes": 46,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "scheduled_at": {
-          "__type__": "datetime",
-          "value": "2026-05-24T11:47:00"
-        },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-24T11:46:00"
-        },
-        "cycle_offset_direction": 1,
-        "respawn_seconds": 216000,
-        "created_at": {
-          "__type__": "datetime",
-          "value": "2026-05-21T00:57:44"
         },
         "alarm_enabled": false,
         "result": "",
@@ -18581,6 +18556,39 @@
         "note": ""
       },
       {
+        "raw_name": "헤이드",
+        "boss_name": "헤이드",
+        "display_name": "헤이드",
+        "is_invasion": false,
+        "raw_key": "normal:헤이드",
+        "state": "scheduled",
+        "source_text": "2346 헤이드 컷",
+        "mode": "clock",
+        "day_offset": -1,
+        "day_offset_explicit": true,
+        "clock_hours": 23,
+        "clock_minutes": 46,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-05-25T23:48:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-05-25T23:46:00"
+        },
+        "cycle_offset_direction": 2,
+        "respawn_seconds": 216000,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-05-21T04:08:37"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
         "raw_name": "스칼라니르",
         "boss_name": "스칼라니르",
         "display_name": "스칼라니르",
@@ -20132,39 +20140,6 @@
         "note": ""
       },
       {
-        "raw_name": "헤이드",
-        "boss_name": "헤이드",
-        "display_name": "헤이드",
-        "is_invasion": false,
-        "raw_key": "normal:헤이드",
-        "state": "scheduled",
-        "source_text": "2346 헤이드 컷",
-        "mode": "clock",
-        "day_offset": 0,
-        "day_offset_explicit": false,
-        "clock_hours": 23,
-        "clock_minutes": 46,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "scheduled_at": {
-          "__type__": "datetime",
-          "value": "2026-05-26T23:48:00"
-        },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-26T23:46:00"
-        },
-        "cycle_offset_direction": 2,
-        "respawn_seconds": 216000,
-        "created_at": {
-          "__type__": "datetime",
-          "value": "2026-05-21T00:57:44"
-        },
-        "alarm_enabled": false,
-        "result": "",
-        "note": ""
-      },
-      {
         "raw_name": "스칼라니르",
         "boss_name": "스칼라니르",
         "display_name": "스칼라니르",
@@ -20525,23 +20500,6 @@
         "created_at": {
           "__type__": "datetime",
           "value": "2026-05-21T00:36:54"
-        },
-        "scheduled_at": null,
-        "respawn_seconds": 216000
-      },
-      {
-        "raw_name": "헤이드",
-        "boss_name": "헤이드",
-        "display_name": "헤이드",
-        "is_invasion": false,
-        "raw_key": "normal:헤이드",
-        "state": "active",
-        "remaining_seconds": null,
-        "precision": "active",
-        "source_text": "헤이드 출현 중",
-        "created_at": {
-          "__type__": "datetime",
-          "value": "2026-05-21T01:14:40"
         },
         "scheduled_at": null,
         "respawn_seconds": 216000
