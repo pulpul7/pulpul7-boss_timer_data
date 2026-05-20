@@ -1,13 +1,13 @@
 {
   "appMinVersion": "3.3.1",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.05.21.027",
+  "dataVersion": "2026.05.21.030",
   "kind": "schedule",
   "payload": {
     "version": 1,
     "exported_at": {
       "__type__": "datetime",
-      "value": "2026-05-21T04:09:12"
+      "value": "2026-05-21T04:45:39"
     },
     "season_no": "10",
     "season_started_at": "2026-05-15 22:53:00",
@@ -21,7 +21,7 @@
     },
     "view_date": {
       "__type__": "datetime",
-      "value": "2026-05-20T00:00:00"
+      "value": "2026-05-21T00:00:00"
     },
     "maintenance_weekday": "수요일",
     "maintenance_hour": "08시",
