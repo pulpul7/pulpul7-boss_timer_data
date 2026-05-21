@@ -1,7 +1,7 @@
 {
   "appMinVersion": "1.2.0",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.05.21.031",
+  "dataVersion": "2026.05.22.003",
   "servers": [
     {
       "id": "Test",
@@ -12,9 +12,12 @@
       "pendingAdd": true,
       "config": "data/config/Test.json",
       "notices": "data/notices/Test.json",
-      "scheduleVersion": "2026.05.21.001",
-      "dataVersion": "2026.05.21.001",
-      "scheduleHash": ""
+      "scheduleVersion": "2026.05.22.003",
+      "dataVersion": "2026.05.22.003",
+      "scheduleHash": "",
+      "bossConfigVersion": "",
+      "bossConfigHash": "",
+      "updatedAt": "2026-05-22 00:03:19"
     },
     {
       "id": "오9",
