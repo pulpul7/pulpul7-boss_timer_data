@@ -1,8 +1,21 @@
 {
   "appMinVersion": "1.2.0",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.05.21.030",
+  "dataVersion": "2026.05.21.031",
   "servers": [
+    {
+      "id": "Test",
+      "name": "Test",
+      "schedule": "data/schedules/Test.json",
+      "bosses": "data/bosses/Test.json",
+      "localOnly": true,
+      "pendingAdd": true,
+      "config": "data/config/Test.json",
+      "notices": "data/notices/Test.json",
+      "scheduleVersion": "2026.05.21.001",
+      "dataVersion": "2026.05.21.001",
+      "scheduleHash": ""
+    },
     {
       "id": "오9",
       "name": "오9",
