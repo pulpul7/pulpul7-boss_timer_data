@@ -1,13 +1,13 @@
 {
   "appMinVersion": "3.3.4",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.05.22.003",
+  "dataVersion": "2026.05.23.001",
   "kind": "schedule",
   "payload": {
     "version": 1,
     "exported_at": {
       "__type__": "datetime",
-      "value": "2026-05-22T23:59:18"
+      "value": "2026-05-23T00:00:54"
     },
     "season_no": "17",
     "season_started_at": "2026-05-22 21:19:00",
@@ -14580,23 +14580,23 @@
         "day_offset": 0,
         "day_offset_explicit": false,
         "clock_hours": 1,
-        "clock_minutes": 27,
+        "clock_minutes": 26,
         "clock_seconds": 0,
         "precision": "minute",
-        "source_text": "01:27 호드",
+        "source_text": "01:26 호드",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-23T01:27:00"
+          "value": "2026-05-23T01:26:00"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-05-23T01:27:00"
+          "value": "2026-05-23T01:26:00"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 216000,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-23T01:26:00"
+          "value": "2026-05-23T01:27:00"
         },
         "alarm_enabled": false,
         "result": "",
@@ -18128,23 +18128,23 @@
         "day_offset": 0,
         "day_offset_explicit": false,
         "clock_hours": 1,
-        "clock_minutes": 27,
+        "clock_minutes": 26,
         "clock_seconds": 0,
         "precision": "minute",
-        "source_text": "01:27 호드",
+        "source_text": "01:26 호드",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-25T13:27:50"
+          "value": "2026-05-25T13:26:50"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-05-25T13:27:00"
+          "value": "2026-05-25T13:26:00"
         },
         "cycle_offset_direction": 1,
         "respawn_seconds": 216000,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-23T01:26:00"
+          "value": "2026-05-23T01:27:00"
         },
         "alarm_enabled": false,
         "result": "",
