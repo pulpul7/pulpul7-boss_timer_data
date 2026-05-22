@@ -1,19 +1,19 @@
 {
-  "appMinVersion": "3.3.1",
+  "appMinVersion": "3.3.4",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.05.21.030",
+  "dataVersion": "2026.05.22.001",
   "kind": "schedule",
   "payload": {
     "version": 1,
     "exported_at": {
       "__type__": "datetime",
-      "value": "2026-05-21T04:45:39"
+      "value": "2026-05-22T23:24:32"
     },
-    "season_no": "10",
-    "season_started_at": "2026-05-15 22:53:00",
-    "season_label": "프1 딸기 10차 시즌",
+    "season_no": "17",
+    "season_started_at": "2026-05-22 21:19:00",
+    "season_label": "오8 밤비 17차 시즌",
     "server_name": "프1",
-    "guild_name": "딸기",
+    "guild_name": "밤비",
     "share_prefix": "프1",
     "base_datetime": {
       "__type__": "datetime",
@@ -21,7 +21,7 @@
     },
     "view_date": {
       "__type__": "datetime",
-      "value": "2026-05-21T00:00:00"
+      "value": "2026-05-23T00:00:00"
     },
     "maintenance_weekday": "수요일",
     "maintenance_hour": "08시",
@@ -11149,7 +11149,7 @@
         "clock_hours": 1,
         "clock_minutes": 8,
         "clock_seconds": 31,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:08:31 파르바",
         "scheduled_at": {
           "__type__": "datetime",
@@ -11177,7 +11177,7 @@
         "clock_hours": 1,
         "clock_minutes": 14,
         "clock_seconds": 45,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:14:45 헤르모드",
         "scheduled_at": {
           "__type__": "datetime",
@@ -11205,7 +11205,7 @@
         "clock_hours": 1,
         "clock_minutes": 22,
         "clock_seconds": 19,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:22:19 바우티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -11233,7 +11233,7 @@
         "clock_hours": 1,
         "clock_minutes": 31,
         "clock_seconds": 50,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:31:50 니드호그",
         "scheduled_at": {
           "__type__": "datetime",
@@ -11951,7 +11951,7 @@
         "clock_hours": 1,
         "clock_minutes": 8,
         "clock_seconds": 30,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:08:30 파르바",
         "scheduled_at": {
           "__type__": "datetime",
@@ -11979,7 +11979,7 @@
         "clock_hours": 1,
         "clock_minutes": 14,
         "clock_seconds": 46,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:14:46 헤르모드",
         "scheduled_at": {
           "__type__": "datetime",
@@ -12007,7 +12007,7 @@
         "clock_hours": 1,
         "clock_minutes": 22,
         "clock_seconds": 18,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:22:18 바우티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -12035,7 +12035,7 @@
         "clock_hours": 1,
         "clock_minutes": 31,
         "clock_seconds": 49,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:31:49 니드호그",
         "scheduled_at": {
           "__type__": "datetime",
@@ -12063,7 +12063,7 @@
         "clock_hours": 1,
         "clock_minutes": 39,
         "clock_seconds": 17,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:39:17 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
@@ -12091,7 +12091,7 @@
         "clock_hours": 1,
         "clock_minutes": 45,
         "clock_seconds": 34,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:45:34 페티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -12559,7 +12559,7 @@
         "clock_hours": 1,
         "clock_minutes": 8,
         "clock_seconds": 30,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:08:30 파르바",
         "scheduled_at": {
           "__type__": "datetime",
@@ -12587,7 +12587,7 @@
         "clock_hours": 1,
         "clock_minutes": 14,
         "clock_seconds": 46,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:14:46 헤르모드",
         "scheduled_at": {
           "__type__": "datetime",
@@ -12615,7 +12615,7 @@
         "clock_hours": 1,
         "clock_minutes": 22,
         "clock_seconds": 18,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:22:18 바우티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -12643,7 +12643,7 @@
         "clock_hours": 1,
         "clock_minutes": 31,
         "clock_seconds": 49,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:31:49 니드호그",
         "scheduled_at": {
           "__type__": "datetime",
@@ -12671,7 +12671,7 @@
         "clock_hours": 1,
         "clock_minutes": 39,
         "clock_seconds": 17,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:39:17 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
@@ -12699,7 +12699,7 @@
         "clock_hours": 1,
         "clock_minutes": 45,
         "clock_seconds": 34,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:45:34 페티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -13195,7 +13195,7 @@
         "clock_hours": 1,
         "clock_minutes": 8,
         "clock_seconds": 30,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:08:30 파르바",
         "scheduled_at": {
           "__type__": "datetime",
@@ -13223,7 +13223,7 @@
         "clock_hours": 1,
         "clock_minutes": 14,
         "clock_seconds": 46,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:14:46 헤르모드",
         "scheduled_at": {
           "__type__": "datetime",
@@ -13251,7 +13251,7 @@
         "clock_hours": 1,
         "clock_minutes": 22,
         "clock_seconds": 18,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:22:18 바우티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -13279,7 +13279,7 @@
         "clock_hours": 1,
         "clock_minutes": 31,
         "clock_seconds": 49,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:31:49 니드호그",
         "scheduled_at": {
           "__type__": "datetime",
@@ -13336,7 +13336,7 @@
         "clock_hours": 1,
         "clock_minutes": 39,
         "clock_seconds": 17,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:39:17 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
@@ -13364,7 +13364,7 @@
         "clock_hours": 1,
         "clock_minutes": 45,
         "clock_seconds": 34,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:45:34 페티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -13965,7 +13965,7 @@
         "clock_hours": 1,
         "clock_minutes": 8,
         "clock_seconds": 30,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:08:30 파르바",
         "scheduled_at": {
           "__type__": "datetime",
@@ -13993,7 +13993,7 @@
         "clock_hours": 1,
         "clock_minutes": 14,
         "clock_seconds": 46,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:14:46 헤르모드",
         "scheduled_at": {
           "__type__": "datetime",
@@ -14021,7 +14021,7 @@
         "clock_hours": 1,
         "clock_minutes": 22,
         "clock_seconds": 18,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:22:18 바우티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -14049,7 +14049,7 @@
         "clock_hours": 1,
         "clock_minutes": 31,
         "clock_seconds": 49,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:31:49 니드호그",
         "scheduled_at": {
           "__type__": "datetime",
@@ -14077,7 +14077,7 @@
         "clock_hours": 1,
         "clock_minutes": 39,
         "clock_seconds": 17,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:39:17 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
@@ -14105,7 +14105,7 @@
         "clock_hours": 1,
         "clock_minutes": 45,
         "clock_seconds": 34,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:45:34 페티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -14465,50 +14465,26 @@
         "raw_key": "normal:스칼라니르",
         "state": "scheduled",
         "mode": "clock",
-        "day_offset": 0,
+        "day_offset": 1,
         "day_offset_explicit": false,
-        "clock_hours": 12,
+        "clock_hours": 0,
         "clock_minutes": 30,
         "clock_seconds": 0,
         "precision": "minute",
-        "source_text": "12:30 스칼라니르",
+        "source_text": "00:30 스칼라니르",
         "scheduled_at": {
           "__type__": "datetime",
           "value": "2026-05-23T00:30:00"
         },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-05-23T00:30:00"
+        },
+        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-21T00:46:58"
-        },
-        "alarm_enabled": false,
-        "result": "",
-        "note": ""
-      },
-      {
-        "raw_name": "호드",
-        "boss_name": "호드",
-        "display_name": "호드",
-        "is_invasion": false,
-        "raw_key": "normal:호드",
-        "state": "scheduled",
-        "mode": "duration",
-        "remaining_seconds": 172800,
-        "precision": "hour",
-        "source_text": "호드 2일 0시간",
-        "scheduled_at": {
-          "__type__": "datetime",
-          "value": "2026-05-23T00:36:00"
-        },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-23T00:36:00"
-        },
-        "cycle_offset_direction": 0,
-        "respawn_seconds": 216000,
-        "created_at": {
-          "__type__": "datetime",
-          "value": "2026-05-21T00:36:54"
+          "value": "2026-05-22T23:24:11"
         },
         "alarm_enabled": false,
         "result": "",
@@ -14527,7 +14503,7 @@
         "clock_hours": 1,
         "clock_minutes": 8,
         "clock_seconds": 30,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:08:30 파르바",
         "scheduled_at": {
           "__type__": "datetime",
@@ -14555,7 +14531,7 @@
         "clock_hours": 1,
         "clock_minutes": 14,
         "clock_seconds": 46,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:14:46 헤르모드",
         "scheduled_at": {
           "__type__": "datetime",
@@ -14583,7 +14559,7 @@
         "clock_hours": 1,
         "clock_minutes": 22,
         "clock_seconds": 18,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:22:18 바우티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -14593,6 +14569,39 @@
         "created_at": {
           "__type__": "datetime",
           "value": "2026-05-21T00:46:58"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
+        "raw_name": "호드",
+        "boss_name": "호드",
+        "display_name": "호드",
+        "is_invasion": false,
+        "raw_key": "normal:호드",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 1,
+        "day_offset_explicit": false,
+        "clock_hours": 1,
+        "clock_minutes": 27,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "01:27 호드",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-05-23T01:27:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-05-23T01:27:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 216000,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-05-22T23:24:11"
         },
         "alarm_enabled": false,
         "result": "",
@@ -14611,7 +14620,7 @@
         "clock_hours": 1,
         "clock_minutes": 31,
         "clock_seconds": 49,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:31:49 니드호그",
         "scheduled_at": {
           "__type__": "datetime",
@@ -14639,7 +14648,7 @@
         "clock_hours": 1,
         "clock_minutes": 39,
         "clock_seconds": 17,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:39:17 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
@@ -14667,7 +14676,7 @@
         "clock_hours": 1,
         "clock_minutes": 45,
         "clock_seconds": 34,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:45:34 페티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -14773,23 +14782,27 @@
         "is_invasion": false,
         "raw_key": "normal:오딘",
         "state": "scheduled",
-        "mode": "duration",
-        "remaining_seconds": 180000,
-        "precision": "hour",
-        "source_text": "오딘 2일 2시간",
+        "mode": "clock",
+        "day_offset": 1,
+        "day_offset_explicit": false,
+        "clock_hours": 2,
+        "clock_minutes": 41,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "02:41 오딘",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-23T02:36:00"
+          "value": "2026-05-23T02:41:00"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-05-23T02:36:00"
+          "value": "2026-05-23T02:41:00"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 259200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-21T00:36:54"
+          "value": "2026-05-22T23:24:11"
         },
         "alarm_enabled": false,
         "result": "",
@@ -14802,23 +14815,27 @@
         "is_invasion": false,
         "raw_key": "normal:히로킨",
         "state": "scheduled",
-        "mode": "duration",
-        "remaining_seconds": 180000,
-        "precision": "hour",
-        "source_text": "히로킨 2일 2시간",
+        "mode": "clock",
+        "day_offset": 1,
+        "day_offset_explicit": false,
+        "clock_hours": 2,
+        "clock_minutes": 46,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "02:46 히로킨",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-23T02:36:00"
+          "value": "2026-05-23T02:46:00"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-05-23T02:36:00"
+          "value": "2026-05-23T02:46:00"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 216000,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-21T00:36:54"
+          "value": "2026-05-22T23:24:11"
         },
         "alarm_enabled": false,
         "result": "",
@@ -14832,26 +14849,26 @@
         "raw_key": "normal:노트",
         "state": "scheduled",
         "mode": "clock",
-        "day_offset": 0,
+        "day_offset": 1,
         "day_offset_explicit": false,
         "clock_hours": 5,
-        "clock_minutes": 52,
+        "clock_minutes": 53,
         "clock_seconds": 0,
         "precision": "minute",
-        "source_text": "05:52 노트",
+        "source_text": "05:53 노트",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-23T05:52:20"
+          "value": "2026-05-23T05:53:00"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-05-23T05:52:00"
+          "value": "2026-05-23T05:53:00"
         },
-        "cycle_offset_direction": 1,
+        "cycle_offset_direction": 0,
         "respawn_seconds": 172800,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-21T00:36:54"
+          "value": "2026-05-22T23:24:11"
         },
         "alarm_enabled": false,
         "result": "",
@@ -15284,21 +15301,26 @@
         "raw_key": "normal:스칼라니르",
         "state": "scheduled",
         "mode": "clock",
-        "day_offset": 0,
+        "day_offset": 1,
         "day_offset_explicit": false,
-        "clock_hours": 12,
+        "clock_hours": 0,
         "clock_minutes": 30,
         "clock_seconds": 0,
         "precision": "minute",
-        "source_text": "12:30 스칼라니르",
+        "source_text": "00:30 스칼라니르",
         "scheduled_at": {
           "__type__": "datetime",
           "value": "2026-05-23T12:30:00"
         },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-05-23T12:30:00"
+        },
+        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-21T00:46:58"
+          "value": "2026-05-22T23:24:11"
         },
         "alarm_enabled": false,
         "result": "",
@@ -15317,7 +15339,7 @@
         "clock_hours": 1,
         "clock_minutes": 8,
         "clock_seconds": 30,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:08:30 파르바",
         "scheduled_at": {
           "__type__": "datetime",
@@ -15345,7 +15367,7 @@
         "clock_hours": 1,
         "clock_minutes": 14,
         "clock_seconds": 46,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:14:46 헤르모드",
         "scheduled_at": {
           "__type__": "datetime",
@@ -15373,7 +15395,7 @@
         "clock_hours": 1,
         "clock_minutes": 22,
         "clock_seconds": 18,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:22:18 바우티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -15401,7 +15423,7 @@
         "clock_hours": 1,
         "clock_minutes": 31,
         "clock_seconds": 49,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:31:49 니드호그",
         "scheduled_at": {
           "__type__": "datetime",
@@ -15458,7 +15480,7 @@
         "clock_hours": 1,
         "clock_minutes": 39,
         "clock_seconds": 17,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:39:17 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
@@ -15486,7 +15508,7 @@
         "clock_hours": 1,
         "clock_minutes": 45,
         "clock_seconds": 34,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:45:34 페티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -15991,21 +16013,26 @@
         "raw_key": "normal:스칼라니르",
         "state": "scheduled",
         "mode": "clock",
-        "day_offset": 0,
+        "day_offset": 1,
         "day_offset_explicit": false,
-        "clock_hours": 12,
+        "clock_hours": 0,
         "clock_minutes": 30,
         "clock_seconds": 0,
         "precision": "minute",
-        "source_text": "12:30 스칼라니르",
+        "source_text": "00:30 스칼라니르",
         "scheduled_at": {
           "__type__": "datetime",
           "value": "2026-05-24T00:30:00"
         },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-05-24T00:30:00"
+        },
+        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-21T00:46:58"
+          "value": "2026-05-22T23:24:11"
         },
         "alarm_enabled": false,
         "result": "",
@@ -16024,7 +16051,7 @@
         "clock_hours": 1,
         "clock_minutes": 8,
         "clock_seconds": 30,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:08:30 파르바",
         "scheduled_at": {
           "__type__": "datetime",
@@ -16052,7 +16079,7 @@
         "clock_hours": 1,
         "clock_minutes": 14,
         "clock_seconds": 46,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:14:46 헤르모드",
         "scheduled_at": {
           "__type__": "datetime",
@@ -16080,7 +16107,7 @@
         "clock_hours": 1,
         "clock_minutes": 22,
         "clock_seconds": 18,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:22:18 바우티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -16108,7 +16135,7 @@
         "clock_hours": 1,
         "clock_minutes": 31,
         "clock_seconds": 49,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:31:49 니드호그",
         "scheduled_at": {
           "__type__": "datetime",
@@ -16136,7 +16163,7 @@
         "clock_hours": 1,
         "clock_minutes": 39,
         "clock_seconds": 17,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:39:17 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
@@ -16164,7 +16191,7 @@
         "clock_hours": 1,
         "clock_minutes": 45,
         "clock_seconds": 34,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:45:34 페티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -16591,21 +16618,26 @@
         "raw_key": "normal:스칼라니르",
         "state": "scheduled",
         "mode": "clock",
-        "day_offset": 0,
+        "day_offset": 1,
         "day_offset_explicit": false,
-        "clock_hours": 12,
+        "clock_hours": 0,
         "clock_minutes": 30,
         "clock_seconds": 0,
         "precision": "minute",
-        "source_text": "12:30 스칼라니르",
+        "source_text": "00:30 스칼라니르",
         "scheduled_at": {
           "__type__": "datetime",
           "value": "2026-05-24T12:30:00"
         },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-05-24T12:30:00"
+        },
+        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-21T00:46:58"
+          "value": "2026-05-22T23:24:11"
         },
         "alarm_enabled": false,
         "result": "",
@@ -16653,7 +16685,7 @@
         "clock_hours": 1,
         "clock_minutes": 8,
         "clock_seconds": 30,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:08:30 파르바",
         "scheduled_at": {
           "__type__": "datetime",
@@ -16681,7 +16713,7 @@
         "clock_hours": 1,
         "clock_minutes": 14,
         "clock_seconds": 46,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:14:46 헤르모드",
         "scheduled_at": {
           "__type__": "datetime",
@@ -16709,7 +16741,7 @@
         "clock_hours": 1,
         "clock_minutes": 22,
         "clock_seconds": 18,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:22:18 바우티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -16737,7 +16769,7 @@
         "clock_hours": 1,
         "clock_minutes": 31,
         "clock_seconds": 49,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:31:49 니드호그",
         "scheduled_at": {
           "__type__": "datetime",
@@ -16765,7 +16797,7 @@
         "clock_hours": 1,
         "clock_minutes": 39,
         "clock_seconds": 17,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:39:17 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
@@ -16793,7 +16825,7 @@
         "clock_hours": 1,
         "clock_minutes": 45,
         "clock_seconds": 34,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:45:34 페티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -17285,21 +17317,26 @@
         "raw_key": "normal:스칼라니르",
         "state": "scheduled",
         "mode": "clock",
-        "day_offset": 0,
+        "day_offset": 1,
         "day_offset_explicit": false,
-        "clock_hours": 12,
+        "clock_hours": 0,
         "clock_minutes": 30,
         "clock_seconds": 0,
         "precision": "minute",
-        "source_text": "12:30 스칼라니르",
+        "source_text": "00:30 스칼라니르",
         "scheduled_at": {
           "__type__": "datetime",
           "value": "2026-05-25T00:30:00"
         },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-05-25T00:30:00"
+        },
+        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-21T00:46:58"
+          "value": "2026-05-22T23:24:11"
         },
         "alarm_enabled": false,
         "result": "",
@@ -17318,7 +17355,7 @@
         "clock_hours": 1,
         "clock_minutes": 8,
         "clock_seconds": 30,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:08:30 파르바",
         "scheduled_at": {
           "__type__": "datetime",
@@ -17346,7 +17383,7 @@
         "clock_hours": 1,
         "clock_minutes": 14,
         "clock_seconds": 46,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:14:46 헤르모드",
         "scheduled_at": {
           "__type__": "datetime",
@@ -17374,7 +17411,7 @@
         "clock_hours": 1,
         "clock_minutes": 22,
         "clock_seconds": 18,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:22:18 바우티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -17402,7 +17439,7 @@
         "clock_hours": 1,
         "clock_minutes": 31,
         "clock_seconds": 49,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:31:49 니드호그",
         "scheduled_at": {
           "__type__": "datetime",
@@ -17459,7 +17496,7 @@
         "clock_hours": 1,
         "clock_minutes": 39,
         "clock_seconds": 17,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:39:17 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
@@ -17487,7 +17524,7 @@
         "clock_hours": 1,
         "clock_minutes": 45,
         "clock_seconds": 34,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:45:34 페티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -17681,26 +17718,26 @@
         "raw_key": "normal:노트",
         "state": "scheduled",
         "mode": "clock",
-        "day_offset": 0,
+        "day_offset": 1,
         "day_offset_explicit": false,
         "clock_hours": 5,
-        "clock_minutes": 52,
+        "clock_minutes": 53,
         "clock_seconds": 0,
         "precision": "minute",
-        "source_text": "05:52 노트",
+        "source_text": "05:53 노트",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-25T05:52:40"
+          "value": "2026-05-25T05:53:20"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-05-25T05:52:00"
+          "value": "2026-05-25T05:53:00"
         },
-        "cycle_offset_direction": 2,
+        "cycle_offset_direction": 1,
         "respawn_seconds": 172800,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-21T00:36:54"
+          "value": "2026-05-22T23:24:11"
         },
         "alarm_enabled": false,
         "result": "",
@@ -18001,50 +18038,26 @@
         "raw_key": "normal:스칼라니르",
         "state": "scheduled",
         "mode": "clock",
-        "day_offset": 0,
+        "day_offset": 1,
         "day_offset_explicit": false,
-        "clock_hours": 12,
+        "clock_hours": 0,
         "clock_minutes": 30,
         "clock_seconds": 0,
         "precision": "minute",
-        "source_text": "12:30 스칼라니르",
+        "source_text": "00:30 스칼라니르",
         "scheduled_at": {
           "__type__": "datetime",
           "value": "2026-05-25T12:30:00"
         },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-05-25T12:30:00"
+        },
+        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-21T00:46:58"
-        },
-        "alarm_enabled": false,
-        "result": "",
-        "note": ""
-      },
-      {
-        "raw_name": "호드",
-        "boss_name": "호드",
-        "display_name": "호드",
-        "is_invasion": false,
-        "raw_key": "normal:호드",
-        "state": "scheduled",
-        "mode": "duration",
-        "remaining_seconds": 172800,
-        "precision": "hour",
-        "source_text": "호드 2일 0시간",
-        "scheduled_at": {
-          "__type__": "datetime",
-          "value": "2026-05-25T12:36:50"
-        },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-05-25T12:36:00"
-        },
-        "cycle_offset_direction": 1,
-        "respawn_seconds": 216000,
-        "created_at": {
-          "__type__": "datetime",
-          "value": "2026-05-21T00:36:54"
+          "value": "2026-05-22T23:24:11"
         },
         "alarm_enabled": false,
         "result": "",
@@ -18063,7 +18076,7 @@
         "clock_hours": 1,
         "clock_minutes": 8,
         "clock_seconds": 30,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:08:30 파르바",
         "scheduled_at": {
           "__type__": "datetime",
@@ -18091,7 +18104,7 @@
         "clock_hours": 1,
         "clock_minutes": 14,
         "clock_seconds": 46,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:14:46 헤르모드",
         "scheduled_at": {
           "__type__": "datetime",
@@ -18119,7 +18132,7 @@
         "clock_hours": 1,
         "clock_minutes": 22,
         "clock_seconds": 18,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:22:18 바우티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -18129,6 +18142,39 @@
         "created_at": {
           "__type__": "datetime",
           "value": "2026-05-21T00:46:58"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
+        "raw_name": "호드",
+        "boss_name": "호드",
+        "display_name": "호드",
+        "is_invasion": false,
+        "raw_key": "normal:호드",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 1,
+        "day_offset_explicit": false,
+        "clock_hours": 1,
+        "clock_minutes": 27,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "01:27 호드",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-05-25T13:27:50"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-05-25T13:27:00"
+        },
+        "cycle_offset_direction": 1,
+        "respawn_seconds": 216000,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-05-22T23:24:11"
         },
         "alarm_enabled": false,
         "result": "",
@@ -18147,7 +18193,7 @@
         "clock_hours": 1,
         "clock_minutes": 31,
         "clock_seconds": 49,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:31:49 니드호그",
         "scheduled_at": {
           "__type__": "datetime",
@@ -18175,7 +18221,7 @@
         "clock_hours": 1,
         "clock_minutes": 39,
         "clock_seconds": 17,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:39:17 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
@@ -18203,7 +18249,7 @@
         "clock_hours": 1,
         "clock_minutes": 45,
         "clock_seconds": 34,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:45:34 페티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -18309,23 +18355,27 @@
         "is_invasion": false,
         "raw_key": "normal:히로킨",
         "state": "scheduled",
-        "mode": "duration",
-        "remaining_seconds": 180000,
-        "precision": "hour",
-        "source_text": "히로킨 2일 2시간",
+        "mode": "clock",
+        "day_offset": 1,
+        "day_offset_explicit": false,
+        "clock_hours": 2,
+        "clock_minutes": 46,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "02:46 히로킨",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-25T14:36:40"
+          "value": "2026-05-25T14:46:40"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-05-25T14:36:00"
+          "value": "2026-05-25T14:46:00"
         },
         "cycle_offset_direction": 1,
         "respawn_seconds": 216000,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-21T00:36:54"
+          "value": "2026-05-22T23:24:11"
         },
         "alarm_enabled": false,
         "result": "",
@@ -18596,21 +18646,26 @@
         "raw_key": "normal:스칼라니르",
         "state": "scheduled",
         "mode": "clock",
-        "day_offset": 0,
+        "day_offset": 1,
         "day_offset_explicit": false,
-        "clock_hours": 12,
+        "clock_hours": 0,
         "clock_minutes": 30,
         "clock_seconds": 0,
         "precision": "minute",
-        "source_text": "12:30 스칼라니르",
+        "source_text": "00:30 스칼라니르",
         "scheduled_at": {
           "__type__": "datetime",
           "value": "2026-05-26T00:30:00"
         },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-05-26T00:30:00"
+        },
+        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-21T00:46:58"
+          "value": "2026-05-22T23:24:11"
         },
         "alarm_enabled": false,
         "result": "",
@@ -18629,7 +18684,7 @@
         "clock_hours": 1,
         "clock_minutes": 8,
         "clock_seconds": 30,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:08:30 파르바",
         "scheduled_at": {
           "__type__": "datetime",
@@ -18657,7 +18712,7 @@
         "clock_hours": 1,
         "clock_minutes": 14,
         "clock_seconds": 46,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:14:46 헤르모드",
         "scheduled_at": {
           "__type__": "datetime",
@@ -18685,7 +18740,7 @@
         "clock_hours": 1,
         "clock_minutes": 22,
         "clock_seconds": 18,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:22:18 바우티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -18713,7 +18768,7 @@
         "clock_hours": 1,
         "clock_minutes": 31,
         "clock_seconds": 49,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:31:49 니드호그",
         "scheduled_at": {
           "__type__": "datetime",
@@ -18741,7 +18796,7 @@
         "clock_hours": 1,
         "clock_minutes": 39,
         "clock_seconds": 17,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:39:17 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
@@ -18769,7 +18824,7 @@
         "clock_hours": 1,
         "clock_minutes": 45,
         "clock_seconds": 34,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:45:34 페티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -18875,23 +18930,27 @@
         "is_invasion": false,
         "raw_key": "normal:오딘",
         "state": "scheduled",
-        "mode": "duration",
-        "remaining_seconds": 180000,
-        "precision": "hour",
-        "source_text": "오딘 2일 2시간",
+        "mode": "clock",
+        "day_offset": 1,
+        "day_offset_explicit": false,
+        "clock_hours": 2,
+        "clock_minutes": 41,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "02:41 오딘",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-26T02:36:30"
+          "value": "2026-05-26T02:41:30"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-05-26T02:36:00"
+          "value": "2026-05-26T02:41:00"
         },
         "cycle_offset_direction": 1,
         "respawn_seconds": 259200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-21T00:36:54"
+          "value": "2026-05-22T23:24:11"
         },
         "alarm_enabled": false,
         "result": "",
@@ -19382,21 +19441,26 @@
         "raw_key": "normal:스칼라니르",
         "state": "scheduled",
         "mode": "clock",
-        "day_offset": 0,
+        "day_offset": 1,
         "day_offset_explicit": false,
-        "clock_hours": 12,
+        "clock_hours": 0,
         "clock_minutes": 30,
         "clock_seconds": 0,
         "precision": "minute",
-        "source_text": "12:30 스칼라니르",
+        "source_text": "00:30 스칼라니르",
         "scheduled_at": {
           "__type__": "datetime",
           "value": "2026-05-26T12:30:00"
         },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-05-26T12:30:00"
+        },
+        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-21T00:46:58"
+          "value": "2026-05-22T23:24:11"
         },
         "alarm_enabled": false,
         "result": "",
@@ -19444,7 +19508,7 @@
         "clock_hours": 1,
         "clock_minutes": 8,
         "clock_seconds": 30,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:08:30 파르바",
         "scheduled_at": {
           "__type__": "datetime",
@@ -19472,7 +19536,7 @@
         "clock_hours": 1,
         "clock_minutes": 14,
         "clock_seconds": 46,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:14:46 헤르모드",
         "scheduled_at": {
           "__type__": "datetime",
@@ -19500,7 +19564,7 @@
         "clock_hours": 1,
         "clock_minutes": 22,
         "clock_seconds": 18,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:22:18 바우티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -19528,7 +19592,7 @@
         "clock_hours": 1,
         "clock_minutes": 31,
         "clock_seconds": 49,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:31:49 니드호그",
         "scheduled_at": {
           "__type__": "datetime",
@@ -19585,7 +19649,7 @@
         "clock_hours": 1,
         "clock_minutes": 39,
         "clock_seconds": 17,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:39:17 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
@@ -19613,7 +19677,7 @@
         "clock_hours": 1,
         "clock_minutes": 45,
         "clock_seconds": 34,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:45:34 페티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -20147,21 +20211,26 @@
         "raw_key": "normal:스칼라니르",
         "state": "scheduled",
         "mode": "clock",
-        "day_offset": 0,
+        "day_offset": 1,
         "day_offset_explicit": false,
-        "clock_hours": 12,
+        "clock_hours": 0,
         "clock_minutes": 30,
         "clock_seconds": 0,
         "precision": "minute",
-        "source_text": "12:30 스칼라니르",
+        "source_text": "00:30 스칼라니르",
         "scheduled_at": {
           "__type__": "datetime",
           "value": "2026-05-27T00:30:00"
         },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-05-27T00:30:00"
+        },
+        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-21T00:46:58"
+          "value": "2026-05-22T23:24:11"
         },
         "alarm_enabled": false,
         "result": "",
@@ -20180,7 +20249,7 @@
         "clock_hours": 1,
         "clock_minutes": 8,
         "clock_seconds": 30,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:08:30 파르바",
         "scheduled_at": {
           "__type__": "datetime",
@@ -20208,7 +20277,7 @@
         "clock_hours": 1,
         "clock_minutes": 14,
         "clock_seconds": 46,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:14:46 헤르모드",
         "scheduled_at": {
           "__type__": "datetime",
@@ -20236,7 +20305,7 @@
         "clock_hours": 1,
         "clock_minutes": 22,
         "clock_seconds": 18,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:22:18 바우티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -20264,7 +20333,7 @@
         "clock_hours": 1,
         "clock_minutes": 31,
         "clock_seconds": 49,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:31:49 니드호그",
         "scheduled_at": {
           "__type__": "datetime",
@@ -20292,7 +20361,7 @@
         "clock_hours": 1,
         "clock_minutes": 39,
         "clock_seconds": 17,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:39:17 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
@@ -20320,7 +20389,7 @@
         "clock_hours": 1,
         "clock_minutes": 45,
         "clock_seconds": 34,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "01:45:34 페티",
         "scheduled_at": {
           "__type__": "datetime",
@@ -20460,26 +20529,26 @@
         "raw_key": "normal:노트",
         "state": "scheduled",
         "mode": "clock",
-        "day_offset": 0,
+        "day_offset": 1,
         "day_offset_explicit": false,
         "clock_hours": 5,
-        "clock_minutes": 52,
+        "clock_minutes": 53,
         "clock_seconds": 0,
         "precision": "minute",
-        "source_text": "05:52 노트",
+        "source_text": "05:53 노트",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-05-27T05:53:00"
+          "value": "2026-05-27T05:53:40"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-05-27T05:52:00"
+          "value": "2026-05-27T05:53:00"
         },
-        "cycle_offset_direction": 3,
+        "cycle_offset_direction": 2,
         "respawn_seconds": 172800,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-05-21T00:36:54"
+          "value": "2026-05-22T23:24:11"
         },
         "alarm_enabled": false,
         "result": "",
