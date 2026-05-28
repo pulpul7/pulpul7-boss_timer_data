@@ -24,12 +24,12 @@
       "bosses": "data/bosses/오9.json",
       "config": "data/config/오9.json",
       "notices": "data/notices/오9.json",
-      "scheduleVersion": "2026.05.21.008",
-      "dataVersion": "2026.05.21.030",
-      "scheduleHash": "",
+      "scheduleVersion": "2026.05.28.004",
+      "dataVersion": "2026.05.28.024",
+      "scheduleHash": "697bbe9e9ae0ad49da1d6132e2d9db044383ed85",
       "bossConfigVersion": "",
-      "bossConfigHash": "",
-      "updatedAt": "2026-05-21 21:39:56"
+      "bossConfigHash": "d047b0ce153983a5874aab409ca6cc3d652c3c23",
+      "updatedAt": "2026-05-28 12:46:07"
     },
     {
       "id": "프1",
