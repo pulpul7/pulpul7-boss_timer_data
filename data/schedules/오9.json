@@ -1,19 +1,19 @@
 {
-  "appMinVersion": "4.0.1",
+  "appMinVersion": "4.0.2",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.07.01.002",
+  "dataVersion": "2026.07.01.003",
   "kind": "schedule",
   "payload": {
     "version": 1,
     "exported_at": {
       "__type__": "datetime",
-      "value": "2026-07-01T00:53:47"
+      "value": "2026-07-01T01:40:16"
     },
     "season_no": "17",
-    "season_started_at": "2026-07-01 00:48:00",
-    "season_label": "오9 딸기 17차 시즌",
+    "season_started_at": "2026-07-01 01:38:00",
+    "season_label": "프1 a팀 17차 시즌",
     "server_name": "오9",
-    "guild_name": "딸기",
+    "guild_name": "a팀",
     "share_prefix": "오9",
     "base_datetime": {
       "__type__": "datetime",
@@ -191,44 +191,11 @@
         "alarm_enabled": false,
         "result": "",
         "note": ""
-      },
-      {
-        "raw_name": "스카디",
-        "boss_name": "스카디",
-        "display_name": "스카디",
-        "is_invasion": false,
-        "raw_key": "normal:스카디",
-        "state": "scheduled",
-        "mode": "clock",
-        "day_offset": 0,
-        "day_offset_explicit": false,
-        "clock_hours": 5,
-        "clock_minutes": 4,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "0504 스카디",
-        "scheduled_at": {
-          "__type__": "datetime",
-          "value": "2026-07-01T05:04:00"
-        },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-07-01T05:04:00"
-        },
-        "cycle_offset_direction": 0,
-        "respawn_seconds": 216000,
-        "created_at": {
-          "__type__": "datetime",
-          "value": "2026-07-01T00:53:31"
-        },
-        "alarm_enabled": false,
-        "result": "",
-        "note": ""
       }
     ],
     "schedule_active_entries": [],
     "schedule_control_events": [],
     "schedule_second_precision_offsets": {}
   },
-  "contentHash": "98c722ba833746f5052a2d82a9b8fe60f18fb5da"
+  "contentHash": "7da5d8358f4e8f5dc7993f855c0ae6c3185c7658"
 }
