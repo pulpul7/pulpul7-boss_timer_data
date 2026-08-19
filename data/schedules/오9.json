@@ -1,13 +1,13 @@
 {
   "appMinVersion": "4.0.2",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.08.20.003",
+  "dataVersion": "2026.08.20.004",
   "kind": "schedule",
   "payload": {
     "version": 1,
     "exported_at": {
       "__type__": "datetime",
-      "value": "2026-08-20T08:10:15"
+      "value": "2026-08-20T08:14:39"
     },
     "season_no": "17",
     "season_started_at": "2026-07-01 02:09:00",
@@ -94,6 +94,39 @@
         "note": ""
       },
       {
+        "raw_name": "스바르트",
+        "boss_name": "스바르트",
+        "display_name": "스바르트",
+        "is_invasion": false,
+        "raw_key": "normal:스바르트",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 10,
+        "clock_minutes": 30,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "10:30 스바르트",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-19T10:30:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-19T10:30:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
         "raw_name": "페티",
         "boss_name": "페티",
         "display_name": "페티",
@@ -154,6 +187,39 @@
         "created_at": {
           "__type__": "datetime",
           "value": "2026-08-20T08:04:29"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
+        "raw_name": "두라스로르",
+        "boss_name": "두라스로르",
+        "display_name": "두라스로르",
+        "is_invasion": false,
+        "raw_key": "normal:두라스로르",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 10,
+        "clock_minutes": 32,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "10:32 두라스로르",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-19T10:32:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-19T10:32:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
         },
         "alarm_enabled": false,
         "result": "",
@@ -325,6 +391,39 @@
         "note": ""
       },
       {
+        "raw_name": "굴베이그",
+        "boss_name": "굴베이그",
+        "display_name": "굴베이그",
+        "is_invasion": false,
+        "raw_key": "normal:굴베이그",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 12,
+        "clock_minutes": 34,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "12:34 굴베이그",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-19T12:34:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-19T12:34:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
         "raw_name": "야른",
         "boss_name": "야른",
         "display_name": "야른",
@@ -484,6 +583,72 @@
         "created_at": {
           "__type__": "datetime",
           "value": "2026-08-20T08:00:38"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
+        "raw_name": "드라우그",
+        "boss_name": "드라우그",
+        "display_name": "드라우그",
+        "is_invasion": false,
+        "raw_key": "normal:드라우그",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 16,
+        "clock_minutes": 1,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "16:01 드라우그",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-19T16:01:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-19T16:01:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
+        "raw_name": "모네가름",
+        "boss_name": "모네가름",
+        "display_name": "모네가름",
+        "is_invasion": false,
+        "raw_key": "normal:모네가름",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 18,
+        "clock_minutes": 30,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "18:30 모네가름",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-19T18:30:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-19T18:30:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
         },
         "alarm_enabled": false,
         "result": "",
@@ -1018,6 +1183,39 @@
         "note": ""
       },
       {
+        "raw_name": "스바르트",
+        "boss_name": "스바르트",
+        "display_name": "스바르트",
+        "is_invasion": false,
+        "raw_key": "normal:스바르트",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 10,
+        "clock_minutes": 30,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "10:30 스바르트",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T10:30:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T10:30:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
         "raw_name": "페티",
         "boss_name": "페티",
         "display_name": "페티",
@@ -1078,6 +1276,39 @@
         "created_at": {
           "__type__": "datetime",
           "value": "2026-08-20T08:04:29"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
+        "raw_name": "두라스로르",
+        "boss_name": "두라스로르",
+        "display_name": "두라스로르",
+        "is_invasion": false,
+        "raw_key": "normal:두라스로르",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 10,
+        "clock_minutes": 32,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "10:32 두라스로르",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T10:32:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T10:32:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
         },
         "alarm_enabled": false,
         "result": "",
@@ -1249,6 +1480,39 @@
         "note": ""
       },
       {
+        "raw_name": "굴베이그",
+        "boss_name": "굴베이그",
+        "display_name": "굴베이그",
+        "is_invasion": false,
+        "raw_key": "normal:굴베이그",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 12,
+        "clock_minutes": 34,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "12:34 굴베이그",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T12:34:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T12:34:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
         "raw_name": "야른",
         "boss_name": "야른",
         "display_name": "야른",
@@ -1408,6 +1672,72 @@
         "created_at": {
           "__type__": "datetime",
           "value": "2026-08-20T08:00:38"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
+        "raw_name": "드라우그",
+        "boss_name": "드라우그",
+        "display_name": "드라우그",
+        "is_invasion": false,
+        "raw_key": "normal:드라우그",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 16,
+        "clock_minutes": 1,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "16:01 드라우그",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T16:01:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T16:01:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
+        "raw_name": "모네가름",
+        "boss_name": "모네가름",
+        "display_name": "모네가름",
+        "is_invasion": false,
+        "raw_key": "normal:모네가름",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 18,
+        "clock_minutes": 30,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "18:30 모네가름",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T18:30:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T18:30:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
         },
         "alarm_enabled": false,
         "result": "",
@@ -1942,6 +2272,39 @@
         "note": ""
       },
       {
+        "raw_name": "스바르트",
+        "boss_name": "스바르트",
+        "display_name": "스바르트",
+        "is_invasion": false,
+        "raw_key": "normal:스바르트",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 10,
+        "clock_minutes": 30,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "10:30 스바르트",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T10:30:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T10:30:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
         "raw_name": "페티",
         "boss_name": "페티",
         "display_name": "페티",
@@ -2002,6 +2365,39 @@
         "created_at": {
           "__type__": "datetime",
           "value": "2026-08-20T08:04:29"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
+        "raw_name": "두라스로르",
+        "boss_name": "두라스로르",
+        "display_name": "두라스로르",
+        "is_invasion": false,
+        "raw_key": "normal:두라스로르",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 10,
+        "clock_minutes": 32,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "10:32 두라스로르",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T10:32:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T10:32:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
         },
         "alarm_enabled": false,
         "result": "",
@@ -2173,6 +2569,39 @@
         "note": ""
       },
       {
+        "raw_name": "굴베이그",
+        "boss_name": "굴베이그",
+        "display_name": "굴베이그",
+        "is_invasion": false,
+        "raw_key": "normal:굴베이그",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 12,
+        "clock_minutes": 34,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "12:34 굴베이그",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T12:34:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T12:34:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
         "raw_name": "야른",
         "boss_name": "야른",
         "display_name": "야른",
@@ -2332,6 +2761,72 @@
         "created_at": {
           "__type__": "datetime",
           "value": "2026-08-20T08:00:38"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
+        "raw_name": "드라우그",
+        "boss_name": "드라우그",
+        "display_name": "드라우그",
+        "is_invasion": false,
+        "raw_key": "normal:드라우그",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 16,
+        "clock_minutes": 1,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "16:01 드라우그",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T16:01:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T16:01:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
+        "raw_name": "모네가름",
+        "boss_name": "모네가름",
+        "display_name": "모네가름",
+        "is_invasion": false,
+        "raw_key": "normal:모네가름",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 18,
+        "clock_minutes": 30,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "18:30 모네가름",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T18:30:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T18:30:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
         },
         "alarm_enabled": false,
         "result": "",
@@ -2866,6 +3361,39 @@
         "note": ""
       },
       {
+        "raw_name": "스바르트",
+        "boss_name": "스바르트",
+        "display_name": "스바르트",
+        "is_invasion": false,
+        "raw_key": "normal:스바르트",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 10,
+        "clock_minutes": 30,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "10:30 스바르트",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-22T10:30:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-22T10:30:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
         "raw_name": "페티",
         "boss_name": "페티",
         "display_name": "페티",
@@ -2926,6 +3454,39 @@
         "created_at": {
           "__type__": "datetime",
           "value": "2026-08-20T08:04:29"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
+        "raw_name": "두라스로르",
+        "boss_name": "두라스로르",
+        "display_name": "두라스로르",
+        "is_invasion": false,
+        "raw_key": "normal:두라스로르",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 10,
+        "clock_minutes": 32,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "10:32 두라스로르",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-22T10:32:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-22T10:32:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
         },
         "alarm_enabled": false,
         "result": "",
@@ -3097,6 +3658,39 @@
         "note": ""
       },
       {
+        "raw_name": "굴베이그",
+        "boss_name": "굴베이그",
+        "display_name": "굴베이그",
+        "is_invasion": false,
+        "raw_key": "normal:굴베이그",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 12,
+        "clock_minutes": 34,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "12:34 굴베이그",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-22T12:34:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-22T12:34:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
         "raw_name": "야른",
         "boss_name": "야른",
         "display_name": "야른",
@@ -3256,6 +3850,72 @@
         "created_at": {
           "__type__": "datetime",
           "value": "2026-08-20T08:00:38"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
+        "raw_name": "드라우그",
+        "boss_name": "드라우그",
+        "display_name": "드라우그",
+        "is_invasion": false,
+        "raw_key": "normal:드라우그",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 16,
+        "clock_minutes": 1,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "16:01 드라우그",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-22T16:01:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-22T16:01:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
+        "raw_name": "모네가름",
+        "boss_name": "모네가름",
+        "display_name": "모네가름",
+        "is_invasion": false,
+        "raw_key": "normal:모네가름",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 18,
+        "clock_minutes": 30,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "18:30 모네가름",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-22T18:30:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-22T18:30:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
         },
         "alarm_enabled": false,
         "result": "",
@@ -3790,6 +4450,39 @@
         "note": ""
       },
       {
+        "raw_name": "스바르트",
+        "boss_name": "스바르트",
+        "display_name": "스바르트",
+        "is_invasion": false,
+        "raw_key": "normal:스바르트",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 10,
+        "clock_minutes": 30,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "10:30 스바르트",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-23T10:30:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-23T10:30:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
         "raw_name": "페티",
         "boss_name": "페티",
         "display_name": "페티",
@@ -3850,6 +4543,39 @@
         "created_at": {
           "__type__": "datetime",
           "value": "2026-08-20T08:04:29"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
+        "raw_name": "두라스로르",
+        "boss_name": "두라스로르",
+        "display_name": "두라스로르",
+        "is_invasion": false,
+        "raw_key": "normal:두라스로르",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 10,
+        "clock_minutes": 32,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "10:32 두라스로르",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-23T10:32:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-23T10:32:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
         },
         "alarm_enabled": false,
         "result": "",
@@ -4021,6 +4747,39 @@
         "note": ""
       },
       {
+        "raw_name": "굴베이그",
+        "boss_name": "굴베이그",
+        "display_name": "굴베이그",
+        "is_invasion": false,
+        "raw_key": "normal:굴베이그",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 12,
+        "clock_minutes": 34,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "12:34 굴베이그",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-23T12:34:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-23T12:34:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
         "raw_name": "야른",
         "boss_name": "야른",
         "display_name": "야른",
@@ -4180,6 +4939,72 @@
         "created_at": {
           "__type__": "datetime",
           "value": "2026-08-20T08:00:38"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
+        "raw_name": "드라우그",
+        "boss_name": "드라우그",
+        "display_name": "드라우그",
+        "is_invasion": false,
+        "raw_key": "normal:드라우그",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 16,
+        "clock_minutes": 1,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "16:01 드라우그",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-23T16:01:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-23T16:01:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
+        "raw_name": "모네가름",
+        "boss_name": "모네가름",
+        "display_name": "모네가름",
+        "is_invasion": false,
+        "raw_key": "normal:모네가름",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 18,
+        "clock_minutes": 30,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "18:30 모네가름",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-23T18:30:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-23T18:30:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
         },
         "alarm_enabled": false,
         "result": "",
@@ -4714,6 +5539,39 @@
         "note": ""
       },
       {
+        "raw_name": "스바르트",
+        "boss_name": "스바르트",
+        "display_name": "스바르트",
+        "is_invasion": false,
+        "raw_key": "normal:스바르트",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 10,
+        "clock_minutes": 30,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "10:30 스바르트",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-24T10:30:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-24T10:30:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
         "raw_name": "페티",
         "boss_name": "페티",
         "display_name": "페티",
@@ -4774,6 +5632,39 @@
         "created_at": {
           "__type__": "datetime",
           "value": "2026-08-20T08:04:29"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
+        "raw_name": "두라스로르",
+        "boss_name": "두라스로르",
+        "display_name": "두라스로르",
+        "is_invasion": false,
+        "raw_key": "normal:두라스로르",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 10,
+        "clock_minutes": 32,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "10:32 두라스로르",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-24T10:32:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-24T10:32:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
         },
         "alarm_enabled": false,
         "result": "",
@@ -4945,6 +5836,39 @@
         "note": ""
       },
       {
+        "raw_name": "굴베이그",
+        "boss_name": "굴베이그",
+        "display_name": "굴베이그",
+        "is_invasion": false,
+        "raw_key": "normal:굴베이그",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 12,
+        "clock_minutes": 34,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "12:34 굴베이그",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-24T12:34:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-24T12:34:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
         "raw_name": "야른",
         "boss_name": "야른",
         "display_name": "야른",
@@ -5104,6 +6028,72 @@
         "created_at": {
           "__type__": "datetime",
           "value": "2026-08-20T08:00:38"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
+        "raw_name": "드라우그",
+        "boss_name": "드라우그",
+        "display_name": "드라우그",
+        "is_invasion": false,
+        "raw_key": "normal:드라우그",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 16,
+        "clock_minutes": 1,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "16:01 드라우그",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-24T16:01:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-24T16:01:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
+        "raw_name": "모네가름",
+        "boss_name": "모네가름",
+        "display_name": "모네가름",
+        "is_invasion": false,
+        "raw_key": "normal:모네가름",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 18,
+        "clock_minutes": 30,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "18:30 모네가름",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-24T18:30:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-24T18:30:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
         },
         "alarm_enabled": false,
         "result": "",
@@ -5638,6 +6628,39 @@
         "note": ""
       },
       {
+        "raw_name": "스바르트",
+        "boss_name": "스바르트",
+        "display_name": "스바르트",
+        "is_invasion": false,
+        "raw_key": "normal:스바르트",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 10,
+        "clock_minutes": 30,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "10:30 스바르트",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-25T10:30:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-25T10:30:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
         "raw_name": "페티",
         "boss_name": "페티",
         "display_name": "페티",
@@ -5698,6 +6721,39 @@
         "created_at": {
           "__type__": "datetime",
           "value": "2026-08-20T08:04:29"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
+        "raw_name": "두라스로르",
+        "boss_name": "두라스로르",
+        "display_name": "두라스로르",
+        "is_invasion": false,
+        "raw_key": "normal:두라스로르",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 10,
+        "clock_minutes": 32,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "10:32 두라스로르",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-25T10:32:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-25T10:32:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
         },
         "alarm_enabled": false,
         "result": "",
@@ -5869,6 +6925,39 @@
         "note": ""
       },
       {
+        "raw_name": "굴베이그",
+        "boss_name": "굴베이그",
+        "display_name": "굴베이그",
+        "is_invasion": false,
+        "raw_key": "normal:굴베이그",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 12,
+        "clock_minutes": 34,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "12:34 굴베이그",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-25T12:34:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-25T12:34:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
         "raw_name": "야른",
         "boss_name": "야른",
         "display_name": "야른",
@@ -6028,6 +7117,72 @@
         "created_at": {
           "__type__": "datetime",
           "value": "2026-08-20T08:00:38"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
+        "raw_name": "드라우그",
+        "boss_name": "드라우그",
+        "display_name": "드라우그",
+        "is_invasion": false,
+        "raw_key": "normal:드라우그",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 16,
+        "clock_minutes": 1,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "16:01 드라우그",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-25T16:01:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-25T16:01:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": ""
+      },
+      {
+        "raw_name": "모네가름",
+        "boss_name": "모네가름",
+        "display_name": "모네가름",
+        "is_invasion": false,
+        "raw_key": "normal:모네가름",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 18,
+        "clock_minutes": 30,
+        "clock_seconds": 0,
+        "precision": "minute",
+        "source_text": "18:30 모네가름",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-08-25T18:30:00"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-08-25T18:30:00"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 86400,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-08-20T08:12:49"
         },
         "alarm_enabled": false,
         "result": "",
@@ -6500,5 +7655,5 @@
     "schedule_control_events": [],
     "schedule_second_precision_offsets": {}
   },
-  "contentHash": "aded37979a3e3ecb2f7ede32b5fc072047764742"
+  "contentHash": "2b6f7ead7574745442f4570fbe9cec1558fcb2ad"
 }
