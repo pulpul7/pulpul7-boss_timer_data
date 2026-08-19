@@ -11,12 +11,12 @@
       "bosses": "data/bosses/오9.json",
       "config": "data/config/오9.json",
       "notices": "data/notices/오9.json",
-      "scheduleVersion": "2026.08.20.003",
+      "scheduleVersion": "2026.08.20.004",
       "dataVersion": "2026.08.20.029",
-      "scheduleHash": "aded37979a3e3ecb2f7ede32b5fc072047764742",
+      "scheduleHash": "2b6f7ead7574745442f4570fbe9cec1558fcb2ad",
       "bossConfigVersion": "2026.08.20.029",
       "bossConfigHash": "854c79fb01d2750bf233f981cc517d3629e0e18b",
-      "updatedAt": "2026-08-20 08:10:15"
+      "updatedAt": "2026-08-20 08:14:39"
     }
   ]
 }
