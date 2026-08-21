@@ -1,13 +1,13 @@
 {
   "appMinVersion": "4.0.2",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.08.21.013",
+  "dataVersion": "2026.08.21.020",
   "kind": "schedule",
   "payload": {
     "version": 1,
     "exported_at": {
       "__type__": "datetime",
-      "value": "2026-08-21T13:28:46"
+      "value": "2026-08-21T16:18:13"
     },
     "season_no": "17",
     "season_started_at": "2026-07-01 02:09:00",
@@ -2553,7 +2553,7 @@
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T13:27:30"
+          "value": "2026-08-21T13:34:28"
         },
         "alarm_enabled": false,
         "result": "",
@@ -2571,22 +2571,22 @@
         "day_offset_explicit": false,
         "clock_hours": 13,
         "clock_minutes": 45,
-        "clock_seconds": 56,
+        "clock_seconds": 57,
         "precision": "second",
-        "source_text": "13:45:56 셀로비아",
+        "source_text": "13:45:57 셀로비아",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T13:45:56"
+          "value": "2026-08-21T13:45:57"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T13:45:56"
+          "value": "2026-08-21T13:45:57"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T12:50:40"
+          "value": "2026-08-21T13:35:09"
         },
         "alarm_enabled": false,
         "result": "",
@@ -2619,7 +2619,7 @@
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T13:27:30"
+          "value": "2026-08-21T13:34:28"
         },
         "alarm_enabled": false,
         "result": "",
@@ -2637,22 +2637,22 @@
         "day_offset_explicit": false,
         "clock_hours": 14,
         "clock_minutes": 30,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "14:30 바우티",
+        "clock_seconds": 53,
+        "precision": "second",
+        "source_text": "14:30:53 바우티",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T14:30:00"
+          "value": "2026-08-21T14:30:53"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T14:30:00"
+          "value": "2026-08-21T14:30:53"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T13:35:09"
         },
         "alarm_enabled": false,
         "result": "",
@@ -2665,14 +2665,14 @@
         "is_invasion": false,
         "raw_key": "normal:드라우그",
         "state": "scheduled",
+        "source_text": "160202 드라우그 컷",
         "mode": "clock",
         "day_offset": 0,
-        "day_offset_explicit": false,
+        "day_offset_explicit": true,
         "clock_hours": 16,
-        "clock_minutes": 1,
-        "clock_seconds": 49,
+        "clock_minutes": 2,
+        "clock_seconds": 2,
         "precision": "second",
-        "source_text": "16:01:49 드라우그",
         "scheduled_at": {
           "__type__": "datetime",
           "value": "2026-08-21T16:01:49"
@@ -2685,11 +2685,19 @@
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T15:55:14"
+          "value": "2026-08-21T16:02:03"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_origin_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T16:02:02"
+        },
+        "cut_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T16:02:02"
+        }
       },
       {
         "raw_name": "모네가름",
@@ -3089,7 +3097,7 @@
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T13:27:30"
+          "value": "2026-08-21T13:34:28"
         },
         "alarm_enabled": false,
         "result": "",
@@ -3107,22 +3115,22 @@
         "day_offset_explicit": false,
         "clock_hours": 13,
         "clock_minutes": 45,
-        "clock_seconds": 56,
+        "clock_seconds": 57,
         "precision": "second",
-        "source_text": "13:45:56 셀로비아",
+        "source_text": "13:45:57 셀로비아",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-22T01:45:56"
+          "value": "2026-08-22T01:45:57"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-22T01:45:56"
+          "value": "2026-08-22T01:45:57"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T12:50:40"
+          "value": "2026-08-21T13:35:09"
         },
         "alarm_enabled": false,
         "result": "",
@@ -3155,7 +3163,7 @@
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T13:27:30"
+          "value": "2026-08-21T13:34:28"
         },
         "alarm_enabled": false,
         "result": "",
@@ -3173,22 +3181,22 @@
         "day_offset_explicit": false,
         "clock_hours": 14,
         "clock_minutes": 30,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "14:30 바우티",
+        "clock_seconds": 53,
+        "precision": "second",
+        "source_text": "14:30:53 바우티",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-22T02:30:00"
+          "value": "2026-08-22T02:30:53"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-22T02:30:00"
+          "value": "2026-08-22T02:30:53"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T13:35:09"
         },
         "alarm_enabled": false,
         "result": "",
@@ -3662,7 +3670,7 @@
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T13:27:30"
+          "value": "2026-08-21T13:34:28"
         },
         "alarm_enabled": false,
         "result": "",
@@ -3680,22 +3688,22 @@
         "day_offset_explicit": false,
         "clock_hours": 13,
         "clock_minutes": 45,
-        "clock_seconds": 56,
+        "clock_seconds": 57,
         "precision": "second",
-        "source_text": "13:45:56 셀로비아",
+        "source_text": "13:45:57 셀로비아",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-22T13:45:56"
+          "value": "2026-08-22T13:45:57"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-22T13:45:56"
+          "value": "2026-08-22T13:45:57"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T12:50:40"
+          "value": "2026-08-21T13:35:09"
         },
         "alarm_enabled": false,
         "result": "",
@@ -3728,7 +3736,7 @@
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T13:27:30"
+          "value": "2026-08-21T13:34:28"
         },
         "alarm_enabled": false,
         "result": "",
@@ -3746,22 +3754,22 @@
         "day_offset_explicit": false,
         "clock_hours": 14,
         "clock_minutes": 30,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "14:30 바우티",
+        "clock_seconds": 53,
+        "precision": "second",
+        "source_text": "14:30:53 바우티",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-22T14:30:00"
+          "value": "2026-08-22T14:30:53"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-22T14:30:00"
+          "value": "2026-08-22T14:30:53"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T13:35:09"
         },
         "alarm_enabled": false,
         "result": "",
@@ -3774,31 +3782,35 @@
         "is_invasion": false,
         "raw_key": "normal:드라우그",
         "state": "scheduled",
+        "source_text": "160202 드라우그 컷",
         "mode": "clock",
         "day_offset": 0,
-        "day_offset_explicit": false,
+        "day_offset_explicit": true,
         "clock_hours": 16,
-        "clock_minutes": 1,
-        "clock_seconds": 49,
+        "clock_minutes": 2,
+        "clock_seconds": 2,
         "precision": "second",
-        "source_text": "16:01:49 드라우그",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-22T16:01:49"
+          "value": "2026-08-22T16:02:02"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-22T16:01:49"
+          "value": "2026-08-22T16:02:02"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T15:55:14"
+          "value": "2026-08-21T16:02:03"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_origin_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T16:02:02"
+        }
       },
       {
         "raw_name": "모네가름",
@@ -4198,7 +4210,7 @@
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T13:27:30"
+          "value": "2026-08-21T13:34:28"
         },
         "alarm_enabled": false,
         "result": "",
@@ -4216,22 +4228,22 @@
         "day_offset_explicit": false,
         "clock_hours": 13,
         "clock_minutes": 45,
-        "clock_seconds": 56,
+        "clock_seconds": 57,
         "precision": "second",
-        "source_text": "13:45:56 셀로비아",
+        "source_text": "13:45:57 셀로비아",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-23T01:45:56"
+          "value": "2026-08-23T01:45:57"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-23T01:45:56"
+          "value": "2026-08-23T01:45:57"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T12:50:40"
+          "value": "2026-08-21T13:35:09"
         },
         "alarm_enabled": false,
         "result": "",
@@ -4264,7 +4276,7 @@
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T13:27:30"
+          "value": "2026-08-21T13:34:28"
         },
         "alarm_enabled": false,
         "result": "",
@@ -4282,22 +4294,22 @@
         "day_offset_explicit": false,
         "clock_hours": 14,
         "clock_minutes": 30,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "14:30 바우티",
+        "clock_seconds": 53,
+        "precision": "second",
+        "source_text": "14:30:53 바우티",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-23T02:30:00"
+          "value": "2026-08-23T02:30:53"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-23T02:30:00"
+          "value": "2026-08-23T02:30:53"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T13:35:09"
         },
         "alarm_enabled": false,
         "result": "",
@@ -4771,7 +4783,7 @@
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T13:27:30"
+          "value": "2026-08-21T13:34:28"
         },
         "alarm_enabled": false,
         "result": "",
@@ -4789,22 +4801,22 @@
         "day_offset_explicit": false,
         "clock_hours": 13,
         "clock_minutes": 45,
-        "clock_seconds": 56,
+        "clock_seconds": 57,
         "precision": "second",
-        "source_text": "13:45:56 셀로비아",
+        "source_text": "13:45:57 셀로비아",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-23T13:45:56"
+          "value": "2026-08-23T13:45:57"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-23T13:45:56"
+          "value": "2026-08-23T13:45:57"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T12:50:40"
+          "value": "2026-08-21T13:35:09"
         },
         "alarm_enabled": false,
         "result": "",
@@ -4837,7 +4849,7 @@
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T13:27:30"
+          "value": "2026-08-21T13:34:28"
         },
         "alarm_enabled": false,
         "result": "",
@@ -4855,22 +4867,22 @@
         "day_offset_explicit": false,
         "clock_hours": 14,
         "clock_minutes": 30,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "14:30 바우티",
+        "clock_seconds": 53,
+        "precision": "second",
+        "source_text": "14:30:53 바우티",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-23T14:30:00"
+          "value": "2026-08-23T14:30:53"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-23T14:30:00"
+          "value": "2026-08-23T14:30:53"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T13:35:09"
         },
         "alarm_enabled": false,
         "result": "",
@@ -4883,31 +4895,35 @@
         "is_invasion": false,
         "raw_key": "normal:드라우그",
         "state": "scheduled",
+        "source_text": "160202 드라우그 컷",
         "mode": "clock",
         "day_offset": 0,
-        "day_offset_explicit": false,
+        "day_offset_explicit": true,
         "clock_hours": 16,
-        "clock_minutes": 1,
-        "clock_seconds": 49,
+        "clock_minutes": 2,
+        "clock_seconds": 2,
         "precision": "second",
-        "source_text": "16:01:49 드라우그",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-23T16:01:49"
+          "value": "2026-08-23T16:02:02"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-23T16:01:49"
+          "value": "2026-08-23T16:02:02"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T15:55:14"
+          "value": "2026-08-21T16:02:03"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_origin_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T16:02:02"
+        }
       },
       {
         "raw_name": "모네가름",
@@ -5307,7 +5323,7 @@
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T13:27:30"
+          "value": "2026-08-21T13:34:28"
         },
         "alarm_enabled": false,
         "result": "",
@@ -5325,22 +5341,22 @@
         "day_offset_explicit": false,
         "clock_hours": 13,
         "clock_minutes": 45,
-        "clock_seconds": 56,
+        "clock_seconds": 57,
         "precision": "second",
-        "source_text": "13:45:56 셀로비아",
+        "source_text": "13:45:57 셀로비아",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T01:45:56"
+          "value": "2026-08-24T01:45:57"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T01:45:56"
+          "value": "2026-08-24T01:45:57"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T12:50:40"
+          "value": "2026-08-21T13:35:09"
         },
         "alarm_enabled": false,
         "result": "",
@@ -5373,7 +5389,7 @@
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T13:27:30"
+          "value": "2026-08-21T13:34:28"
         },
         "alarm_enabled": false,
         "result": "",
@@ -5391,22 +5407,22 @@
         "day_offset_explicit": false,
         "clock_hours": 14,
         "clock_minutes": 30,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "14:30 바우티",
+        "clock_seconds": 53,
+        "precision": "second",
+        "source_text": "14:30:53 바우티",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T02:30:00"
+          "value": "2026-08-24T02:30:53"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T02:30:00"
+          "value": "2026-08-24T02:30:53"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T13:35:09"
         },
         "alarm_enabled": false,
         "result": "",
@@ -5880,7 +5896,7 @@
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T13:27:30"
+          "value": "2026-08-21T13:34:28"
         },
         "alarm_enabled": false,
         "result": "",
@@ -5898,22 +5914,22 @@
         "day_offset_explicit": false,
         "clock_hours": 13,
         "clock_minutes": 45,
-        "clock_seconds": 56,
+        "clock_seconds": 57,
         "precision": "second",
-        "source_text": "13:45:56 셀로비아",
+        "source_text": "13:45:57 셀로비아",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T13:45:56"
+          "value": "2026-08-24T13:45:57"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T13:45:56"
+          "value": "2026-08-24T13:45:57"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T12:50:40"
+          "value": "2026-08-21T13:35:09"
         },
         "alarm_enabled": false,
         "result": "",
@@ -5946,7 +5962,7 @@
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T13:27:30"
+          "value": "2026-08-21T13:34:28"
         },
         "alarm_enabled": false,
         "result": "",
@@ -5964,22 +5980,22 @@
         "day_offset_explicit": false,
         "clock_hours": 14,
         "clock_minutes": 30,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "14:30 바우티",
+        "clock_seconds": 53,
+        "precision": "second",
+        "source_text": "14:30:53 바우티",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T14:30:00"
+          "value": "2026-08-24T14:30:53"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T14:30:00"
+          "value": "2026-08-24T14:30:53"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T13:35:09"
         },
         "alarm_enabled": false,
         "result": "",
@@ -5992,31 +6008,35 @@
         "is_invasion": false,
         "raw_key": "normal:드라우그",
         "state": "scheduled",
+        "source_text": "160202 드라우그 컷",
         "mode": "clock",
         "day_offset": 0,
-        "day_offset_explicit": false,
+        "day_offset_explicit": true,
         "clock_hours": 16,
-        "clock_minutes": 1,
-        "clock_seconds": 49,
+        "clock_minutes": 2,
+        "clock_seconds": 2,
         "precision": "second",
-        "source_text": "16:01:49 드라우그",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T16:01:49"
+          "value": "2026-08-24T16:02:02"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T16:01:49"
+          "value": "2026-08-24T16:02:02"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T15:55:14"
+          "value": "2026-08-21T16:02:03"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_origin_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T16:02:02"
+        }
       },
       {
         "raw_name": "모네가름",
@@ -6416,7 +6436,7 @@
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T13:27:30"
+          "value": "2026-08-21T13:34:28"
         },
         "alarm_enabled": false,
         "result": "",
@@ -6434,22 +6454,22 @@
         "day_offset_explicit": false,
         "clock_hours": 13,
         "clock_minutes": 45,
-        "clock_seconds": 56,
+        "clock_seconds": 57,
         "precision": "second",
-        "source_text": "13:45:56 셀로비아",
+        "source_text": "13:45:57 셀로비아",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T01:45:56"
+          "value": "2026-08-25T01:45:57"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T01:45:56"
+          "value": "2026-08-25T01:45:57"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T12:50:40"
+          "value": "2026-08-21T13:35:09"
         },
         "alarm_enabled": false,
         "result": "",
@@ -6482,7 +6502,7 @@
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T13:27:30"
+          "value": "2026-08-21T13:34:28"
         },
         "alarm_enabled": false,
         "result": "",
@@ -6500,22 +6520,22 @@
         "day_offset_explicit": false,
         "clock_hours": 14,
         "clock_minutes": 30,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "14:30 바우티",
+        "clock_seconds": 53,
+        "precision": "second",
+        "source_text": "14:30:53 바우티",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T02:30:00"
+          "value": "2026-08-25T02:30:53"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T02:30:00"
+          "value": "2026-08-25T02:30:53"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T13:35:09"
         },
         "alarm_enabled": false,
         "result": "",
@@ -6989,7 +7009,7 @@
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T13:27:30"
+          "value": "2026-08-21T13:34:28"
         },
         "alarm_enabled": false,
         "result": "",
@@ -7007,22 +7027,22 @@
         "day_offset_explicit": false,
         "clock_hours": 13,
         "clock_minutes": 45,
-        "clock_seconds": 56,
+        "clock_seconds": 57,
         "precision": "second",
-        "source_text": "13:45:56 셀로비아",
+        "source_text": "13:45:57 셀로비아",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T13:45:56"
+          "value": "2026-08-25T13:45:57"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T13:45:56"
+          "value": "2026-08-25T13:45:57"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T12:50:40"
+          "value": "2026-08-21T13:35:09"
         },
         "alarm_enabled": false,
         "result": "",
@@ -7055,7 +7075,7 @@
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T13:27:30"
+          "value": "2026-08-21T13:34:28"
         },
         "alarm_enabled": false,
         "result": "",
@@ -7073,22 +7093,22 @@
         "day_offset_explicit": false,
         "clock_hours": 14,
         "clock_minutes": 30,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "14:30 바우티",
+        "clock_seconds": 53,
+        "precision": "second",
+        "source_text": "14:30:53 바우티",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T14:30:00"
+          "value": "2026-08-25T14:30:53"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T14:30:00"
+          "value": "2026-08-25T14:30:53"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T13:35:09"
         },
         "alarm_enabled": false,
         "result": "",
@@ -7101,31 +7121,35 @@
         "is_invasion": false,
         "raw_key": "normal:드라우그",
         "state": "scheduled",
+        "source_text": "160202 드라우그 컷",
         "mode": "clock",
         "day_offset": 0,
-        "day_offset_explicit": false,
+        "day_offset_explicit": true,
         "clock_hours": 16,
-        "clock_minutes": 1,
-        "clock_seconds": 49,
+        "clock_minutes": 2,
+        "clock_seconds": 2,
         "precision": "second",
-        "source_text": "16:01:49 드라우그",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T16:01:49"
+          "value": "2026-08-25T16:02:02"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T16:01:49"
+          "value": "2026-08-25T16:02:02"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T15:55:14"
+          "value": "2026-08-21T16:02:03"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_origin_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T16:02:02"
+        }
       },
       {
         "raw_name": "모네가름",
@@ -7525,7 +7549,7 @@
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T13:27:30"
+          "value": "2026-08-21T13:34:28"
         },
         "alarm_enabled": false,
         "result": "",
@@ -7543,22 +7567,22 @@
         "day_offset_explicit": false,
         "clock_hours": 13,
         "clock_minutes": 45,
-        "clock_seconds": 56,
+        "clock_seconds": 57,
         "precision": "second",
-        "source_text": "13:45:56 셀로비아",
+        "source_text": "13:45:57 셀로비아",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-26T01:45:56"
+          "value": "2026-08-26T01:45:57"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-26T01:45:56"
+          "value": "2026-08-26T01:45:57"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T12:50:40"
+          "value": "2026-08-21T13:35:09"
         },
         "alarm_enabled": false,
         "result": "",
@@ -7591,7 +7615,7 @@
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T13:27:30"
+          "value": "2026-08-21T13:34:28"
         },
         "alarm_enabled": false,
         "result": "",
@@ -7609,22 +7633,22 @@
         "day_offset_explicit": false,
         "clock_hours": 14,
         "clock_minutes": 30,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "14:30 바우티",
+        "clock_seconds": 53,
+        "precision": "second",
+        "source_text": "14:30:53 바우티",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-26T02:30:00"
+          "value": "2026-08-26T02:30:53"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-26T02:30:00"
+          "value": "2026-08-26T02:30:53"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T13:35:09"
         },
         "alarm_enabled": false,
         "result": "",
@@ -7635,5 +7659,5 @@
     "schedule_control_events": [],
     "schedule_second_precision_offsets": {}
   },
-  "contentHash": "9bce3e1c58b4237325792fb402d60f54b16d7324"
+  "contentHash": "80be6051607e58ac506a325eb90ecdecc15c1d66"
 }
