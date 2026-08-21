@@ -1,13 +1,13 @@
 {
   "appMinVersion": "4.0.2",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.08.21.004",
+  "dataVersion": "2026.08.21.013",
   "kind": "schedule",
   "payload": {
     "version": 1,
     "exported_at": {
       "__type__": "datetime",
-      "value": "2026-08-21T12:13:30"
+      "value": "2026-08-21T13:28:46"
     },
     "season_no": "17",
     "season_started_at": "2026-07-01 02:09:00",
@@ -2451,14 +2451,14 @@
         "is_invasion": false,
         "raw_key": "normal:굴베이그",
         "state": "scheduled",
+        "source_text": "123433 굴베이그 컷",
         "mode": "clock",
         "day_offset": 0,
-        "day_offset_explicit": false,
+        "day_offset_explicit": true,
         "clock_hours": 12,
         "clock_minutes": 34,
-        "clock_seconds": 29,
+        "clock_seconds": 33,
         "precision": "second",
-        "source_text": "12:34:29 굴베이그",
         "scheduled_at": {
           "__type__": "datetime",
           "value": "2026-08-21T12:34:29"
@@ -2471,11 +2471,19 @@
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T12:13:12"
+          "value": "2026-08-21T12:34:33"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_origin_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T12:34:33"
+        },
+        "cut_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T12:34:33"
+        }
       },
       {
         "raw_name": "야른",
@@ -2484,31 +2492,39 @@
         "is_invasion": false,
         "raw_key": "normal:야른",
         "state": "scheduled",
+        "source_text": "124848 야른 컷",
         "mode": "clock",
         "day_offset": 0,
-        "day_offset_explicit": false,
+        "day_offset_explicit": true,
         "clock_hours": 12,
         "clock_minutes": 48,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "12:48 야른",
+        "clock_seconds": 48,
+        "precision": "second",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T12:48:00"
+          "value": "2026-08-21T12:48:45"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T12:48:00"
+          "value": "2026-08-21T12:48:45"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T12:48:48"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_origin_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T12:48:48"
+        },
+        "cut_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T12:48:48"
+        }
       },
       {
         "raw_name": "브륀힐드",
@@ -2522,22 +2538,22 @@
         "day_offset_explicit": false,
         "clock_hours": 13,
         "clock_minutes": 42,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "13:42 브륀힐드",
+        "clock_seconds": 42,
+        "precision": "second",
+        "source_text": "13:42:42 브륀힐드",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T13:42:00"
+          "value": "2026-08-21T13:42:42"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T13:42:00"
+          "value": "2026-08-21T13:42:42"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T13:27:30"
         },
         "alarm_enabled": false,
         "result": "",
@@ -2555,22 +2571,22 @@
         "day_offset_explicit": false,
         "clock_hours": 13,
         "clock_minutes": 45,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "13:45 셀로비아",
+        "clock_seconds": 56,
+        "precision": "second",
+        "source_text": "13:45:56 셀로비아",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T13:45:00"
+          "value": "2026-08-21T13:45:56"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T13:45:00"
+          "value": "2026-08-21T13:45:56"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T12:50:40"
         },
         "alarm_enabled": false,
         "result": "",
@@ -2588,22 +2604,22 @@
         "day_offset_explicit": false,
         "clock_hours": 14,
         "clock_minutes": 1,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "14:01 라이노르",
+        "clock_seconds": 49,
+        "precision": "second",
+        "source_text": "14:01:49 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T14:01:00"
+          "value": "2026-08-21T14:01:49"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T14:01:00"
+          "value": "2026-08-21T14:01:49"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T13:27:30"
         },
         "alarm_enabled": false,
         "result": "",
@@ -3016,31 +3032,35 @@
         "is_invasion": false,
         "raw_key": "normal:야른",
         "state": "scheduled",
+        "source_text": "124848 야른 컷",
         "mode": "clock",
         "day_offset": 0,
-        "day_offset_explicit": false,
+        "day_offset_explicit": true,
         "clock_hours": 12,
         "clock_minutes": 48,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "12:48 야른",
+        "clock_seconds": 48,
+        "precision": "second",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-22T00:48:00"
+          "value": "2026-08-22T00:48:48"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-22T00:48:00"
+          "value": "2026-08-22T00:48:48"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T12:48:48"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_origin_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T12:48:48"
+        }
       },
       {
         "raw_name": "브륀힐드",
@@ -3054,22 +3074,22 @@
         "day_offset_explicit": false,
         "clock_hours": 13,
         "clock_minutes": 42,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "13:42 브륀힐드",
+        "clock_seconds": 42,
+        "precision": "second",
+        "source_text": "13:42:42 브륀힐드",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-22T01:42:00"
+          "value": "2026-08-22T01:42:42"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-22T01:42:00"
+          "value": "2026-08-22T01:42:42"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T13:27:30"
         },
         "alarm_enabled": false,
         "result": "",
@@ -3087,22 +3107,22 @@
         "day_offset_explicit": false,
         "clock_hours": 13,
         "clock_minutes": 45,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "13:45 셀로비아",
+        "clock_seconds": 56,
+        "precision": "second",
+        "source_text": "13:45:56 셀로비아",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-22T01:45:00"
+          "value": "2026-08-22T01:45:56"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-22T01:45:00"
+          "value": "2026-08-22T01:45:56"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T12:50:40"
         },
         "alarm_enabled": false,
         "result": "",
@@ -3120,22 +3140,22 @@
         "day_offset_explicit": false,
         "clock_hours": 14,
         "clock_minutes": 1,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "14:01 라이노르",
+        "clock_seconds": 49,
+        "precision": "second",
+        "source_text": "14:01:49 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-22T02:01:00"
+          "value": "2026-08-22T02:01:49"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-22T02:01:00"
+          "value": "2026-08-22T02:01:49"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T13:27:30"
         },
         "alarm_enabled": false,
         "result": "",
@@ -3548,31 +3568,35 @@
         "is_invasion": false,
         "raw_key": "normal:굴베이그",
         "state": "scheduled",
+        "source_text": "123433 굴베이그 컷",
         "mode": "clock",
         "day_offset": 0,
-        "day_offset_explicit": false,
+        "day_offset_explicit": true,
         "clock_hours": 12,
         "clock_minutes": 34,
-        "clock_seconds": 29,
+        "clock_seconds": 33,
         "precision": "second",
-        "source_text": "12:34:29 굴베이그",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-22T12:34:29"
+          "value": "2026-08-22T12:34:33"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-22T12:34:29"
+          "value": "2026-08-22T12:34:33"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T12:13:12"
+          "value": "2026-08-21T12:34:33"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_origin_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T12:34:33"
+        }
       },
       {
         "raw_name": "야른",
@@ -3581,31 +3605,35 @@
         "is_invasion": false,
         "raw_key": "normal:야른",
         "state": "scheduled",
+        "source_text": "124848 야른 컷",
         "mode": "clock",
         "day_offset": 0,
-        "day_offset_explicit": false,
+        "day_offset_explicit": true,
         "clock_hours": 12,
         "clock_minutes": 48,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "12:48 야른",
+        "clock_seconds": 48,
+        "precision": "second",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-22T12:48:00"
+          "value": "2026-08-22T12:48:48"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-22T12:48:00"
+          "value": "2026-08-22T12:48:48"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T12:48:48"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_origin_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T12:48:48"
+        }
       },
       {
         "raw_name": "브륀힐드",
@@ -3619,22 +3647,22 @@
         "day_offset_explicit": false,
         "clock_hours": 13,
         "clock_minutes": 42,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "13:42 브륀힐드",
+        "clock_seconds": 42,
+        "precision": "second",
+        "source_text": "13:42:42 브륀힐드",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-22T13:42:00"
+          "value": "2026-08-22T13:42:42"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-22T13:42:00"
+          "value": "2026-08-22T13:42:42"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T13:27:30"
         },
         "alarm_enabled": false,
         "result": "",
@@ -3652,22 +3680,22 @@
         "day_offset_explicit": false,
         "clock_hours": 13,
         "clock_minutes": 45,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "13:45 셀로비아",
+        "clock_seconds": 56,
+        "precision": "second",
+        "source_text": "13:45:56 셀로비아",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-22T13:45:00"
+          "value": "2026-08-22T13:45:56"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-22T13:45:00"
+          "value": "2026-08-22T13:45:56"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T12:50:40"
         },
         "alarm_enabled": false,
         "result": "",
@@ -3685,22 +3713,22 @@
         "day_offset_explicit": false,
         "clock_hours": 14,
         "clock_minutes": 1,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "14:01 라이노르",
+        "clock_seconds": 49,
+        "precision": "second",
+        "source_text": "14:01:49 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-22T14:01:00"
+          "value": "2026-08-22T14:01:49"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-22T14:01:00"
+          "value": "2026-08-22T14:01:49"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T13:27:30"
         },
         "alarm_enabled": false,
         "result": "",
@@ -4113,31 +4141,35 @@
         "is_invasion": false,
         "raw_key": "normal:야른",
         "state": "scheduled",
+        "source_text": "124848 야른 컷",
         "mode": "clock",
         "day_offset": 0,
-        "day_offset_explicit": false,
+        "day_offset_explicit": true,
         "clock_hours": 12,
         "clock_minutes": 48,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "12:48 야른",
+        "clock_seconds": 48,
+        "precision": "second",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-23T00:48:00"
+          "value": "2026-08-23T00:48:48"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-23T00:48:00"
+          "value": "2026-08-23T00:48:48"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T12:48:48"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_origin_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T12:48:48"
+        }
       },
       {
         "raw_name": "브륀힐드",
@@ -4151,22 +4183,22 @@
         "day_offset_explicit": false,
         "clock_hours": 13,
         "clock_minutes": 42,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "13:42 브륀힐드",
+        "clock_seconds": 42,
+        "precision": "second",
+        "source_text": "13:42:42 브륀힐드",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-23T01:42:00"
+          "value": "2026-08-23T01:42:42"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-23T01:42:00"
+          "value": "2026-08-23T01:42:42"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T13:27:30"
         },
         "alarm_enabled": false,
         "result": "",
@@ -4184,22 +4216,22 @@
         "day_offset_explicit": false,
         "clock_hours": 13,
         "clock_minutes": 45,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "13:45 셀로비아",
+        "clock_seconds": 56,
+        "precision": "second",
+        "source_text": "13:45:56 셀로비아",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-23T01:45:00"
+          "value": "2026-08-23T01:45:56"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-23T01:45:00"
+          "value": "2026-08-23T01:45:56"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T12:50:40"
         },
         "alarm_enabled": false,
         "result": "",
@@ -4217,22 +4249,22 @@
         "day_offset_explicit": false,
         "clock_hours": 14,
         "clock_minutes": 1,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "14:01 라이노르",
+        "clock_seconds": 49,
+        "precision": "second",
+        "source_text": "14:01:49 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-23T02:01:00"
+          "value": "2026-08-23T02:01:49"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-23T02:01:00"
+          "value": "2026-08-23T02:01:49"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T13:27:30"
         },
         "alarm_enabled": false,
         "result": "",
@@ -4645,31 +4677,35 @@
         "is_invasion": false,
         "raw_key": "normal:굴베이그",
         "state": "scheduled",
+        "source_text": "123433 굴베이그 컷",
         "mode": "clock",
         "day_offset": 0,
-        "day_offset_explicit": false,
+        "day_offset_explicit": true,
         "clock_hours": 12,
         "clock_minutes": 34,
-        "clock_seconds": 29,
+        "clock_seconds": 33,
         "precision": "second",
-        "source_text": "12:34:29 굴베이그",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-23T12:34:29"
+          "value": "2026-08-23T12:34:33"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-23T12:34:29"
+          "value": "2026-08-23T12:34:33"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T12:13:12"
+          "value": "2026-08-21T12:34:33"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_origin_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T12:34:33"
+        }
       },
       {
         "raw_name": "야른",
@@ -4678,31 +4714,35 @@
         "is_invasion": false,
         "raw_key": "normal:야른",
         "state": "scheduled",
+        "source_text": "124848 야른 컷",
         "mode": "clock",
         "day_offset": 0,
-        "day_offset_explicit": false,
+        "day_offset_explicit": true,
         "clock_hours": 12,
         "clock_minutes": 48,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "12:48 야른",
+        "clock_seconds": 48,
+        "precision": "second",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-23T12:48:00"
+          "value": "2026-08-23T12:48:48"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-23T12:48:00"
+          "value": "2026-08-23T12:48:48"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T12:48:48"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_origin_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T12:48:48"
+        }
       },
       {
         "raw_name": "브륀힐드",
@@ -4716,22 +4756,22 @@
         "day_offset_explicit": false,
         "clock_hours": 13,
         "clock_minutes": 42,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "13:42 브륀힐드",
+        "clock_seconds": 42,
+        "precision": "second",
+        "source_text": "13:42:42 브륀힐드",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-23T13:42:00"
+          "value": "2026-08-23T13:42:42"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-23T13:42:00"
+          "value": "2026-08-23T13:42:42"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T13:27:30"
         },
         "alarm_enabled": false,
         "result": "",
@@ -4749,22 +4789,22 @@
         "day_offset_explicit": false,
         "clock_hours": 13,
         "clock_minutes": 45,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "13:45 셀로비아",
+        "clock_seconds": 56,
+        "precision": "second",
+        "source_text": "13:45:56 셀로비아",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-23T13:45:00"
+          "value": "2026-08-23T13:45:56"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-23T13:45:00"
+          "value": "2026-08-23T13:45:56"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T12:50:40"
         },
         "alarm_enabled": false,
         "result": "",
@@ -4782,22 +4822,22 @@
         "day_offset_explicit": false,
         "clock_hours": 14,
         "clock_minutes": 1,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "14:01 라이노르",
+        "clock_seconds": 49,
+        "precision": "second",
+        "source_text": "14:01:49 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-23T14:01:00"
+          "value": "2026-08-23T14:01:49"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-23T14:01:00"
+          "value": "2026-08-23T14:01:49"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T13:27:30"
         },
         "alarm_enabled": false,
         "result": "",
@@ -5210,31 +5250,35 @@
         "is_invasion": false,
         "raw_key": "normal:야른",
         "state": "scheduled",
+        "source_text": "124848 야른 컷",
         "mode": "clock",
         "day_offset": 0,
-        "day_offset_explicit": false,
+        "day_offset_explicit": true,
         "clock_hours": 12,
         "clock_minutes": 48,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "12:48 야른",
+        "clock_seconds": 48,
+        "precision": "second",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T00:48:00"
+          "value": "2026-08-24T00:48:48"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T00:48:00"
+          "value": "2026-08-24T00:48:48"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T12:48:48"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_origin_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T12:48:48"
+        }
       },
       {
         "raw_name": "브륀힐드",
@@ -5248,22 +5292,22 @@
         "day_offset_explicit": false,
         "clock_hours": 13,
         "clock_minutes": 42,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "13:42 브륀힐드",
+        "clock_seconds": 42,
+        "precision": "second",
+        "source_text": "13:42:42 브륀힐드",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T01:42:00"
+          "value": "2026-08-24T01:42:42"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T01:42:00"
+          "value": "2026-08-24T01:42:42"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T13:27:30"
         },
         "alarm_enabled": false,
         "result": "",
@@ -5281,22 +5325,22 @@
         "day_offset_explicit": false,
         "clock_hours": 13,
         "clock_minutes": 45,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "13:45 셀로비아",
+        "clock_seconds": 56,
+        "precision": "second",
+        "source_text": "13:45:56 셀로비아",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T01:45:00"
+          "value": "2026-08-24T01:45:56"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T01:45:00"
+          "value": "2026-08-24T01:45:56"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T12:50:40"
         },
         "alarm_enabled": false,
         "result": "",
@@ -5314,22 +5358,22 @@
         "day_offset_explicit": false,
         "clock_hours": 14,
         "clock_minutes": 1,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "14:01 라이노르",
+        "clock_seconds": 49,
+        "precision": "second",
+        "source_text": "14:01:49 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T02:01:00"
+          "value": "2026-08-24T02:01:49"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T02:01:00"
+          "value": "2026-08-24T02:01:49"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T13:27:30"
         },
         "alarm_enabled": false,
         "result": "",
@@ -5742,31 +5786,35 @@
         "is_invasion": false,
         "raw_key": "normal:굴베이그",
         "state": "scheduled",
+        "source_text": "123433 굴베이그 컷",
         "mode": "clock",
         "day_offset": 0,
-        "day_offset_explicit": false,
+        "day_offset_explicit": true,
         "clock_hours": 12,
         "clock_minutes": 34,
-        "clock_seconds": 29,
+        "clock_seconds": 33,
         "precision": "second",
-        "source_text": "12:34:29 굴베이그",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T12:34:29"
+          "value": "2026-08-24T12:34:33"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T12:34:29"
+          "value": "2026-08-24T12:34:33"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T12:13:12"
+          "value": "2026-08-21T12:34:33"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_origin_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T12:34:33"
+        }
       },
       {
         "raw_name": "야른",
@@ -5775,31 +5823,35 @@
         "is_invasion": false,
         "raw_key": "normal:야른",
         "state": "scheduled",
+        "source_text": "124848 야른 컷",
         "mode": "clock",
         "day_offset": 0,
-        "day_offset_explicit": false,
+        "day_offset_explicit": true,
         "clock_hours": 12,
         "clock_minutes": 48,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "12:48 야른",
+        "clock_seconds": 48,
+        "precision": "second",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T12:48:00"
+          "value": "2026-08-24T12:48:48"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T12:48:00"
+          "value": "2026-08-24T12:48:48"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T12:48:48"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_origin_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T12:48:48"
+        }
       },
       {
         "raw_name": "브륀힐드",
@@ -5813,22 +5865,22 @@
         "day_offset_explicit": false,
         "clock_hours": 13,
         "clock_minutes": 42,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "13:42 브륀힐드",
+        "clock_seconds": 42,
+        "precision": "second",
+        "source_text": "13:42:42 브륀힐드",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T13:42:00"
+          "value": "2026-08-24T13:42:42"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T13:42:00"
+          "value": "2026-08-24T13:42:42"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T13:27:30"
         },
         "alarm_enabled": false,
         "result": "",
@@ -5846,22 +5898,22 @@
         "day_offset_explicit": false,
         "clock_hours": 13,
         "clock_minutes": 45,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "13:45 셀로비아",
+        "clock_seconds": 56,
+        "precision": "second",
+        "source_text": "13:45:56 셀로비아",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T13:45:00"
+          "value": "2026-08-24T13:45:56"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T13:45:00"
+          "value": "2026-08-24T13:45:56"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T12:50:40"
         },
         "alarm_enabled": false,
         "result": "",
@@ -5879,22 +5931,22 @@
         "day_offset_explicit": false,
         "clock_hours": 14,
         "clock_minutes": 1,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "14:01 라이노르",
+        "clock_seconds": 49,
+        "precision": "second",
+        "source_text": "14:01:49 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T14:01:00"
+          "value": "2026-08-24T14:01:49"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T14:01:00"
+          "value": "2026-08-24T14:01:49"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T13:27:30"
         },
         "alarm_enabled": false,
         "result": "",
@@ -6307,31 +6359,35 @@
         "is_invasion": false,
         "raw_key": "normal:야른",
         "state": "scheduled",
+        "source_text": "124848 야른 컷",
         "mode": "clock",
         "day_offset": 0,
-        "day_offset_explicit": false,
+        "day_offset_explicit": true,
         "clock_hours": 12,
         "clock_minutes": 48,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "12:48 야른",
+        "clock_seconds": 48,
+        "precision": "second",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T00:48:00"
+          "value": "2026-08-25T00:48:48"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T00:48:00"
+          "value": "2026-08-25T00:48:48"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T12:48:48"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_origin_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T12:48:48"
+        }
       },
       {
         "raw_name": "브륀힐드",
@@ -6345,22 +6401,22 @@
         "day_offset_explicit": false,
         "clock_hours": 13,
         "clock_minutes": 42,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "13:42 브륀힐드",
+        "clock_seconds": 42,
+        "precision": "second",
+        "source_text": "13:42:42 브륀힐드",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T01:42:00"
+          "value": "2026-08-25T01:42:42"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T01:42:00"
+          "value": "2026-08-25T01:42:42"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T13:27:30"
         },
         "alarm_enabled": false,
         "result": "",
@@ -6378,22 +6434,22 @@
         "day_offset_explicit": false,
         "clock_hours": 13,
         "clock_minutes": 45,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "13:45 셀로비아",
+        "clock_seconds": 56,
+        "precision": "second",
+        "source_text": "13:45:56 셀로비아",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T01:45:00"
+          "value": "2026-08-25T01:45:56"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T01:45:00"
+          "value": "2026-08-25T01:45:56"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T12:50:40"
         },
         "alarm_enabled": false,
         "result": "",
@@ -6411,22 +6467,22 @@
         "day_offset_explicit": false,
         "clock_hours": 14,
         "clock_minutes": 1,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "14:01 라이노르",
+        "clock_seconds": 49,
+        "precision": "second",
+        "source_text": "14:01:49 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T02:01:00"
+          "value": "2026-08-25T02:01:49"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T02:01:00"
+          "value": "2026-08-25T02:01:49"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T13:27:30"
         },
         "alarm_enabled": false,
         "result": "",
@@ -6839,31 +6895,35 @@
         "is_invasion": false,
         "raw_key": "normal:굴베이그",
         "state": "scheduled",
+        "source_text": "123433 굴베이그 컷",
         "mode": "clock",
         "day_offset": 0,
-        "day_offset_explicit": false,
+        "day_offset_explicit": true,
         "clock_hours": 12,
         "clock_minutes": 34,
-        "clock_seconds": 29,
+        "clock_seconds": 33,
         "precision": "second",
-        "source_text": "12:34:29 굴베이그",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T12:34:29"
+          "value": "2026-08-25T12:34:33"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T12:34:29"
+          "value": "2026-08-25T12:34:33"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 86400,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-21T12:13:12"
+          "value": "2026-08-21T12:34:33"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_origin_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T12:34:33"
+        }
       },
       {
         "raw_name": "야른",
@@ -6872,31 +6932,35 @@
         "is_invasion": false,
         "raw_key": "normal:야른",
         "state": "scheduled",
+        "source_text": "124848 야른 컷",
         "mode": "clock",
         "day_offset": 0,
-        "day_offset_explicit": false,
+        "day_offset_explicit": true,
         "clock_hours": 12,
         "clock_minutes": 48,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "12:48 야른",
+        "clock_seconds": 48,
+        "precision": "second",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T12:48:00"
+          "value": "2026-08-25T12:48:48"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T12:48:00"
+          "value": "2026-08-25T12:48:48"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T12:48:48"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_origin_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T12:48:48"
+        }
       },
       {
         "raw_name": "브륀힐드",
@@ -6910,22 +6974,22 @@
         "day_offset_explicit": false,
         "clock_hours": 13,
         "clock_minutes": 42,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "13:42 브륀힐드",
+        "clock_seconds": 42,
+        "precision": "second",
+        "source_text": "13:42:42 브륀힐드",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T13:42:00"
+          "value": "2026-08-25T13:42:42"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T13:42:00"
+          "value": "2026-08-25T13:42:42"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T13:27:30"
         },
         "alarm_enabled": false,
         "result": "",
@@ -6943,22 +7007,22 @@
         "day_offset_explicit": false,
         "clock_hours": 13,
         "clock_minutes": 45,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "13:45 셀로비아",
+        "clock_seconds": 56,
+        "precision": "second",
+        "source_text": "13:45:56 셀로비아",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T13:45:00"
+          "value": "2026-08-25T13:45:56"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T13:45:00"
+          "value": "2026-08-25T13:45:56"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T12:50:40"
         },
         "alarm_enabled": false,
         "result": "",
@@ -6976,22 +7040,22 @@
         "day_offset_explicit": false,
         "clock_hours": 14,
         "clock_minutes": 1,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "14:01 라이노르",
+        "clock_seconds": 49,
+        "precision": "second",
+        "source_text": "14:01:49 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T14:01:00"
+          "value": "2026-08-25T14:01:49"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T14:01:00"
+          "value": "2026-08-25T14:01:49"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T13:27:30"
         },
         "alarm_enabled": false,
         "result": "",
@@ -7404,31 +7468,35 @@
         "is_invasion": false,
         "raw_key": "normal:야른",
         "state": "scheduled",
+        "source_text": "124848 야른 컷",
         "mode": "clock",
         "day_offset": 0,
-        "day_offset_explicit": false,
+        "day_offset_explicit": true,
         "clock_hours": 12,
         "clock_minutes": 48,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "12:48 야른",
+        "clock_seconds": 48,
+        "precision": "second",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-26T00:48:00"
+          "value": "2026-08-26T00:48:48"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-26T00:48:00"
+          "value": "2026-08-26T00:48:48"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T12:48:48"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_origin_at": {
+          "__type__": "datetime",
+          "value": "2026-08-21T12:48:48"
+        }
       },
       {
         "raw_name": "브륀힐드",
@@ -7442,22 +7510,22 @@
         "day_offset_explicit": false,
         "clock_hours": 13,
         "clock_minutes": 42,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "13:42 브륀힐드",
+        "clock_seconds": 42,
+        "precision": "second",
+        "source_text": "13:42:42 브륀힐드",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-26T01:42:00"
+          "value": "2026-08-26T01:42:42"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-26T01:42:00"
+          "value": "2026-08-26T01:42:42"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T13:27:30"
         },
         "alarm_enabled": false,
         "result": "",
@@ -7475,22 +7543,22 @@
         "day_offset_explicit": false,
         "clock_hours": 13,
         "clock_minutes": 45,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "13:45 셀로비아",
+        "clock_seconds": 56,
+        "precision": "second",
+        "source_text": "13:45:56 셀로비아",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-26T01:45:00"
+          "value": "2026-08-26T01:45:56"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-26T01:45:00"
+          "value": "2026-08-26T01:45:56"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T12:50:40"
         },
         "alarm_enabled": false,
         "result": "",
@@ -7508,22 +7576,22 @@
         "day_offset_explicit": false,
         "clock_hours": 14,
         "clock_minutes": 1,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "14:01 라이노르",
+        "clock_seconds": 49,
+        "precision": "second",
+        "source_text": "14:01:49 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-26T02:01:00"
+          "value": "2026-08-26T02:01:49"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-26T02:01:00"
+          "value": "2026-08-26T02:01:49"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-20T10:22:59"
+          "value": "2026-08-21T13:27:30"
         },
         "alarm_enabled": false,
         "result": "",
@@ -7567,5 +7635,5 @@
     "schedule_control_events": [],
     "schedule_second_precision_offsets": {}
   },
-  "contentHash": "477532222ac34572741fb6d91a3184108218ad5c"
+  "contentHash": "9bce3e1c58b4237325792fb402d60f54b16d7324"
 }
