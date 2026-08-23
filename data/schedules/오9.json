@@ -1,13 +1,13 @@
 {
   "appMinVersion": "4.0.2",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.08.24.008",
+  "dataVersion": "2026.08.24.011",
   "kind": "schedule",
   "payload": {
     "version": 1,
     "exported_at": {
       "__type__": "datetime",
-      "value": "2026-08-24T08:07:09"
+      "value": "2026-08-24T08:07:56"
     },
     "season_no": "17",
     "season_started_at": "2026-07-01 02:09:00",
@@ -4458,13 +4458,13 @@
         "is_invasion": false,
         "raw_key": "normal:수드리",
         "state": "scheduled",
-        "source_text": "080505 수드리 컷",
+        "source_text": "080504 수드리 컷",
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": true,
         "clock_hours": 8,
         "clock_minutes": 5,
-        "clock_seconds": 5,
+        "clock_seconds": 4,
         "precision": "second",
         "scheduled_at": {
           "__type__": "datetime",
@@ -4478,18 +4478,18 @@
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T08:05:05"
+          "value": "2026-08-24T08:07:49"
         },
         "alarm_enabled": false,
         "result": "",
         "note": "",
         "second_precision_origin_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T08:05:05"
+          "value": "2026-08-24T08:05:04"
         },
         "cut_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T08:05:05"
+          "value": "2026-08-24T08:05:04"
         }
       },
       {
@@ -4971,34 +4971,34 @@
         "is_invasion": false,
         "raw_key": "normal:수드리",
         "state": "scheduled",
-        "source_text": "080505 수드리 컷",
+        "source_text": "080504 수드리 컷",
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": true,
         "clock_hours": 8,
         "clock_minutes": 5,
-        "clock_seconds": 5,
+        "clock_seconds": 4,
         "precision": "second",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T20:05:06"
+          "value": "2026-08-24T20:05:05"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T20:05:05"
+          "value": "2026-08-24T20:05:04"
         },
         "cycle_offset_direction": 1,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T08:05:05"
+          "value": "2026-08-24T08:07:49"
         },
         "alarm_enabled": false,
         "result": "",
         "note": "",
         "second_precision_origin_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T08:05:05"
+          "value": "2026-08-24T08:05:04"
         }
       },
       {
@@ -5521,34 +5521,34 @@
         "is_invasion": false,
         "raw_key": "normal:수드리",
         "state": "scheduled",
-        "source_text": "080505 수드리 컷",
+        "source_text": "080504 수드리 컷",
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": true,
         "clock_hours": 8,
         "clock_minutes": 5,
-        "clock_seconds": 5,
+        "clock_seconds": 4,
         "precision": "second",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T08:05:07"
+          "value": "2026-08-25T08:05:06"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T08:05:05"
+          "value": "2026-08-25T08:05:04"
         },
         "cycle_offset_direction": 2,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T08:05:05"
+          "value": "2026-08-24T08:07:49"
         },
         "alarm_enabled": false,
         "result": "",
         "note": "",
         "second_precision_origin_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T08:05:05"
+          "value": "2026-08-24T08:05:04"
         }
       },
       {
@@ -6030,34 +6030,34 @@
         "is_invasion": false,
         "raw_key": "normal:수드리",
         "state": "scheduled",
-        "source_text": "080505 수드리 컷",
+        "source_text": "080504 수드리 컷",
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": true,
         "clock_hours": 8,
         "clock_minutes": 5,
-        "clock_seconds": 5,
+        "clock_seconds": 4,
         "precision": "second",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T20:05:08"
+          "value": "2026-08-25T20:05:07"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-08-25T20:05:05"
+          "value": "2026-08-25T20:05:04"
         },
         "cycle_offset_direction": 3,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T08:05:05"
+          "value": "2026-08-24T08:07:49"
         },
         "alarm_enabled": false,
         "result": "",
         "note": "",
         "second_precision_origin_at": {
           "__type__": "datetime",
-          "value": "2026-08-24T08:05:05"
+          "value": "2026-08-24T08:05:04"
         }
       },
       {
@@ -6593,5 +6593,5 @@
     ],
     "schedule_second_precision_offsets": {}
   },
-  "contentHash": "b4c2260f0bdf36d76481ac5808176f6c78baf6d4"
+  "contentHash": "771801defeb81f8a975687eb1f67e5fec07bfda0"
 }
