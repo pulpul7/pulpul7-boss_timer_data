@@ -1,13 +1,13 @@
 {
   "appMinVersion": "4.2.0",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.09.05.052",
+  "dataVersion": "2026.09.05.061",
   "kind": "schedule",
   "payload": {
     "version": 1,
     "exported_at": {
       "__type__": "datetime",
-      "value": "2026-09-05T16:08:00"
+      "value": "2026-09-05T23:03:00"
     },
     "season_no": "1",
     "season_started_at": "2026-07-01 00:00:00",
@@ -19328,28 +19328,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 0,
-        "clock_seconds": 42,
+        "clock_seconds": 43,
         "precision": "second",
-        "source_text": "11:00:42 수드리",
+        "source_text": "23:00:43 수드리",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T23:00:43"
+          "value": "2026-09-05T23:00:43.600000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T23:00:42"
+          "value": "2026-09-05T23:00:43"
         },
-        "cycle_offset_direction": 1,
+        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:수드리:2026-09-05T23:00:43:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-05T23:00:43"
+        },
+        "second_precision_offset_ticks": 6
       },
       {
         "raw_name": "브륀힐드",
@@ -19361,28 +19367,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 0,
-        "clock_seconds": 56,
+        "clock_seconds": 57,
         "precision": "second",
-        "source_text": "11:00:56 브륀힐드",
+        "source_text": "23:00:57 브륀힐드",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T23:00:57"
+          "value": "2026-09-05T23:00:57.900000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T23:00:56"
+          "value": "2026-09-05T23:00:57"
         },
-        "cycle_offset_direction": 1,
+        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:브륀힐드:2026-09-05T23:00:57:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-05T23:00:57"
+        },
+        "second_precision_offset_ticks": 9
       },
       {
         "raw_name": "야른",
@@ -19394,28 +19406,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 0,
-        "clock_seconds": 57,
+        "clock_seconds": 58,
         "precision": "second",
-        "source_text": "11:00:57 야른",
+        "source_text": "23:00:58 야른",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T23:00:57"
+          "value": "2026-09-05T23:00:58.600000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T23:00:57"
+          "value": "2026-09-05T23:00:58"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:야른:2026-09-05T23:00:58:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-05T23:00:58"
+        },
+        "second_precision_offset_ticks": 6
       },
       {
         "raw_name": "라타토스크",
@@ -19427,28 +19445,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 1,
-        "clock_seconds": 6,
+        "clock_seconds": 7,
         "precision": "second",
-        "source_text": "11:01:06 라타토스크",
+        "source_text": "23:01:07 라타토스크",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T23:01:07"
+          "value": "2026-09-05T23:01:07.500000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T23:01:06"
+          "value": "2026-09-05T23:01:07"
         },
-        "cycle_offset_direction": 1,
+        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:라타토스크:2026-09-05T23:01:07:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-05T23:01:07"
+        },
+        "second_precision_offset_ticks": 5
       },
       {
         "raw_name": "페티",
@@ -19460,28 +19484,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 1,
-        "clock_seconds": 11,
+        "clock_seconds": 13,
         "precision": "second",
-        "source_text": "11:01:11 페티",
+        "source_text": "23:01:13 페티",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T23:01:11"
+          "value": "2026-09-05T23:01:13.600000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T23:01:11"
+          "value": "2026-09-05T23:01:13"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:페티:2026-09-05T23:01:13:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-05T23:01:13"
+        },
+        "second_precision_offset_ticks": 6
       },
       {
         "raw_name": "셀로비아",
@@ -19493,28 +19523,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 1,
-        "clock_seconds": 21,
+        "clock_seconds": 23,
         "precision": "second",
-        "source_text": "11:01:21 셀로비아",
+        "source_text": "23:01:23 셀로비아",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T23:01:21"
+          "value": "2026-09-05T23:01:23.700000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T23:01:21"
+          "value": "2026-09-05T23:01:23"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:셀로비아:2026-09-05T23:01:23:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-05T23:01:23"
+        },
+        "second_precision_offset_ticks": 7
       },
       {
         "raw_name": "라이노르",
@@ -19526,28 +19562,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 16,
-        "clock_seconds": 42,
+        "clock_seconds": 43,
         "precision": "second",
-        "source_text": "11:16:42 라이노르",
+        "source_text": "23:16:43 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T23:16:43"
+          "value": "2026-09-05T23:16:43.400000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T23:16:42"
+          "value": "2026-09-05T23:16:43"
         },
-        "cycle_offset_direction": 1,
+        "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:라이노르:2026-09-05T23:16:43:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-05T23:16:43"
+        },
+        "second_precision_offset_ticks": 4
       },
       {
         "raw_name": "바우티",
@@ -19900,28 +19942,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 0,
-        "clock_seconds": 42,
+        "clock_seconds": 43,
         "precision": "second",
-        "source_text": "11:00:42 수드리",
+        "source_text": "23:00:43 수드리",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-06T11:00:44"
+          "value": "2026-09-06T11:00:44.600000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-06T11:00:42"
+          "value": "2026-09-06T11:00:43"
         },
-        "cycle_offset_direction": 2,
+        "cycle_offset_direction": 1,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:수드리:2026-09-05T23:00:43:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-06T11:00:44"
+        },
+        "second_precision_offset_ticks": 6
       },
       {
         "raw_name": "야른",
@@ -19933,28 +19981,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 0,
-        "clock_seconds": 57,
+        "clock_seconds": 58,
         "precision": "second",
-        "source_text": "11:00:57 야른",
+        "source_text": "23:00:58 야른",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-06T11:00:57"
+          "value": "2026-09-06T11:00:58.600000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-06T11:00:57"
+          "value": "2026-09-06T11:00:58"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:야른:2026-09-05T23:00:58:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-06T11:00:58"
+        },
+        "second_precision_offset_ticks": 6
       },
       {
         "raw_name": "브륀힐드",
@@ -19966,28 +20020,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 0,
-        "clock_seconds": 56,
+        "clock_seconds": 57,
         "precision": "second",
-        "source_text": "11:00:56 브륀힐드",
+        "source_text": "23:00:57 브륀힐드",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-06T11:00:58"
+          "value": "2026-09-06T11:00:58.900000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-06T11:00:56"
+          "value": "2026-09-06T11:00:57"
         },
-        "cycle_offset_direction": 2,
+        "cycle_offset_direction": 1,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:브륀힐드:2026-09-05T23:00:57:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-06T11:00:58"
+        },
+        "second_precision_offset_ticks": 9
       },
       {
         "raw_name": "라타토스크",
@@ -19999,28 +20059,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 1,
-        "clock_seconds": 6,
+        "clock_seconds": 7,
         "precision": "second",
-        "source_text": "11:01:06 라타토스크",
+        "source_text": "23:01:07 라타토스크",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-06T11:01:08"
+          "value": "2026-09-06T11:01:08.500000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-06T11:01:06"
+          "value": "2026-09-06T11:01:07"
         },
-        "cycle_offset_direction": 2,
+        "cycle_offset_direction": 1,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:라타토스크:2026-09-05T23:01:07:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-06T11:01:08"
+        },
+        "second_precision_offset_ticks": 5
       },
       {
         "raw_name": "페티",
@@ -20032,28 +20098,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 1,
-        "clock_seconds": 11,
+        "clock_seconds": 13,
         "precision": "second",
-        "source_text": "11:01:11 페티",
+        "source_text": "23:01:13 페티",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-06T11:01:11"
+          "value": "2026-09-06T11:01:13.600000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-06T11:01:11"
+          "value": "2026-09-06T11:01:13"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:페티:2026-09-05T23:01:13:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-06T11:01:13"
+        },
+        "second_precision_offset_ticks": 6
       },
       {
         "raw_name": "셀로비아",
@@ -20065,28 +20137,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 1,
-        "clock_seconds": 21,
+        "clock_seconds": 23,
         "precision": "second",
-        "source_text": "11:01:21 셀로비아",
+        "source_text": "23:01:23 셀로비아",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-06T11:01:21"
+          "value": "2026-09-06T11:01:23.700000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-06T11:01:21"
+          "value": "2026-09-06T11:01:23"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:셀로비아:2026-09-05T23:01:23:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-06T11:01:23"
+        },
+        "second_precision_offset_ticks": 7
       },
       {
         "raw_name": "라이노르",
@@ -20098,28 +20176,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 16,
-        "clock_seconds": 42,
+        "clock_seconds": 43,
         "precision": "second",
-        "source_text": "11:16:42 라이노르",
+        "source_text": "23:16:43 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-06T11:16:44"
+          "value": "2026-09-06T11:16:44.400000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-06T11:16:42"
+          "value": "2026-09-06T11:16:43"
         },
-        "cycle_offset_direction": 2,
+        "cycle_offset_direction": 1,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:라이노르:2026-09-05T23:16:43:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-06T11:16:44"
+        },
+        "second_precision_offset_ticks": 4
       },
       {
         "raw_name": "바우티",
@@ -20615,28 +20699,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 0,
-        "clock_seconds": 42,
+        "clock_seconds": 43,
         "precision": "second",
-        "source_text": "11:00:42 수드리",
+        "source_text": "23:00:43 수드리",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-06T23:00:45"
+          "value": "2026-09-06T23:00:45.600000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-06T23:00:42"
+          "value": "2026-09-06T23:00:43"
         },
-        "cycle_offset_direction": 3,
+        "cycle_offset_direction": 2,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:수드리:2026-09-05T23:00:43:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-06T23:00:45"
+        },
+        "second_precision_offset_ticks": 6
       },
       {
         "raw_name": "야른",
@@ -20648,28 +20738,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 0,
-        "clock_seconds": 57,
+        "clock_seconds": 58,
         "precision": "second",
-        "source_text": "11:00:57 야른",
+        "source_text": "23:00:58 야른",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-06T23:00:57"
+          "value": "2026-09-06T23:00:58.600000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-06T23:00:57"
+          "value": "2026-09-06T23:00:58"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:야른:2026-09-05T23:00:58:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-06T23:00:58"
+        },
+        "second_precision_offset_ticks": 6
       },
       {
         "raw_name": "브륀힐드",
@@ -20681,28 +20777,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 0,
-        "clock_seconds": 56,
+        "clock_seconds": 57,
         "precision": "second",
-        "source_text": "11:00:56 브륀힐드",
+        "source_text": "23:00:57 브륀힐드",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-06T23:00:59"
+          "value": "2026-09-06T23:00:59.900000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-06T23:00:56"
+          "value": "2026-09-06T23:00:57"
         },
-        "cycle_offset_direction": 3,
+        "cycle_offset_direction": 2,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:브륀힐드:2026-09-05T23:00:57:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-06T23:00:59"
+        },
+        "second_precision_offset_ticks": 9
       },
       {
         "raw_name": "라타토스크",
@@ -20714,28 +20816,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 1,
-        "clock_seconds": 6,
+        "clock_seconds": 7,
         "precision": "second",
-        "source_text": "11:01:06 라타토스크",
+        "source_text": "23:01:07 라타토스크",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-06T23:01:09"
+          "value": "2026-09-06T23:01:09.500000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-06T23:01:06"
+          "value": "2026-09-06T23:01:07"
         },
-        "cycle_offset_direction": 3,
+        "cycle_offset_direction": 2,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:라타토스크:2026-09-05T23:01:07:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-06T23:01:09"
+        },
+        "second_precision_offset_ticks": 5
       },
       {
         "raw_name": "페티",
@@ -20747,28 +20855,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 1,
-        "clock_seconds": 11,
+        "clock_seconds": 13,
         "precision": "second",
-        "source_text": "11:01:11 페티",
+        "source_text": "23:01:13 페티",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-06T23:01:11"
+          "value": "2026-09-06T23:01:13.600000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-06T23:01:11"
+          "value": "2026-09-06T23:01:13"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:페티:2026-09-05T23:01:13:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-06T23:01:13"
+        },
+        "second_precision_offset_ticks": 6
       },
       {
         "raw_name": "셀로비아",
@@ -20780,28 +20894,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 1,
-        "clock_seconds": 21,
+        "clock_seconds": 23,
         "precision": "second",
-        "source_text": "11:01:21 셀로비아",
+        "source_text": "23:01:23 셀로비아",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-06T23:01:21"
+          "value": "2026-09-06T23:01:23.700000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-06T23:01:21"
+          "value": "2026-09-06T23:01:23"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:셀로비아:2026-09-05T23:01:23:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-06T23:01:23"
+        },
+        "second_precision_offset_ticks": 7
       },
       {
         "raw_name": "라이노르",
@@ -20813,28 +20933,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 16,
-        "clock_seconds": 42,
+        "clock_seconds": 43,
         "precision": "second",
-        "source_text": "11:16:42 라이노르",
+        "source_text": "23:16:43 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-06T23:16:45"
+          "value": "2026-09-06T23:16:45.400000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-06T23:16:42"
+          "value": "2026-09-06T23:16:43"
         },
-        "cycle_offset_direction": 3,
+        "cycle_offset_direction": 2,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:라이노르:2026-09-05T23:16:43:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-06T23:16:45"
+        },
+        "second_precision_offset_ticks": 4
       },
       {
         "raw_name": "바우티",
@@ -21159,28 +21285,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 0,
-        "clock_seconds": 42,
+        "clock_seconds": 43,
         "precision": "second",
-        "source_text": "11:00:42 수드리",
+        "source_text": "23:00:43 수드리",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-07T11:00:46"
+          "value": "2026-09-07T11:00:46.600000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-07T11:00:42"
+          "value": "2026-09-07T11:00:43"
         },
-        "cycle_offset_direction": 4,
+        "cycle_offset_direction": 3,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:수드리:2026-09-05T23:00:43:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-07T11:00:46"
+        },
+        "second_precision_offset_ticks": 6
       },
       {
         "raw_name": "야른",
@@ -21192,28 +21324,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 0,
-        "clock_seconds": 57,
+        "clock_seconds": 58,
         "precision": "second",
-        "source_text": "11:00:57 야른",
+        "source_text": "23:00:58 야른",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-07T11:00:57"
+          "value": "2026-09-07T11:00:58.600000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-07T11:00:57"
+          "value": "2026-09-07T11:00:58"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:야른:2026-09-05T23:00:58:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-07T11:00:58"
+        },
+        "second_precision_offset_ticks": 6
       },
       {
         "raw_name": "브륀힐드",
@@ -21225,28 +21363,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 0,
-        "clock_seconds": 56,
+        "clock_seconds": 57,
         "precision": "second",
-        "source_text": "11:00:56 브륀힐드",
+        "source_text": "23:00:57 브륀힐드",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-07T11:01:00"
+          "value": "2026-09-07T11:01:00.900000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-07T11:00:56"
+          "value": "2026-09-07T11:00:57"
         },
-        "cycle_offset_direction": 4,
+        "cycle_offset_direction": 3,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:브륀힐드:2026-09-05T23:00:57:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-07T11:01:00"
+        },
+        "second_precision_offset_ticks": 9
       },
       {
         "raw_name": "라타토스크",
@@ -21258,28 +21402,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 1,
-        "clock_seconds": 6,
+        "clock_seconds": 7,
         "precision": "second",
-        "source_text": "11:01:06 라타토스크",
+        "source_text": "23:01:07 라타토스크",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-07T11:01:10"
+          "value": "2026-09-07T11:01:10.500000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-07T11:01:06"
+          "value": "2026-09-07T11:01:07"
         },
-        "cycle_offset_direction": 4,
+        "cycle_offset_direction": 3,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:라타토스크:2026-09-05T23:01:07:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-07T11:01:10"
+        },
+        "second_precision_offset_ticks": 5
       },
       {
         "raw_name": "페티",
@@ -21291,28 +21441,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 1,
-        "clock_seconds": 11,
+        "clock_seconds": 13,
         "precision": "second",
-        "source_text": "11:01:11 페티",
+        "source_text": "23:01:13 페티",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-07T11:01:11"
+          "value": "2026-09-07T11:01:13.600000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-07T11:01:11"
+          "value": "2026-09-07T11:01:13"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:페티:2026-09-05T23:01:13:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-07T11:01:13"
+        },
+        "second_precision_offset_ticks": 6
       },
       {
         "raw_name": "셀로비아",
@@ -21324,28 +21480,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 1,
-        "clock_seconds": 21,
+        "clock_seconds": 23,
         "precision": "second",
-        "source_text": "11:01:21 셀로비아",
+        "source_text": "23:01:23 셀로비아",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-07T11:01:21"
+          "value": "2026-09-07T11:01:23.700000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-07T11:01:21"
+          "value": "2026-09-07T11:01:23"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:셀로비아:2026-09-05T23:01:23:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-07T11:01:23"
+        },
+        "second_precision_offset_ticks": 7
       },
       {
         "raw_name": "라이노르",
@@ -21357,28 +21519,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 16,
-        "clock_seconds": 42,
+        "clock_seconds": 43,
         "precision": "second",
-        "source_text": "11:16:42 라이노르",
+        "source_text": "23:16:43 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-07T11:16:46"
+          "value": "2026-09-07T11:16:46.400000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-07T11:16:42"
+          "value": "2026-09-07T11:16:43"
         },
-        "cycle_offset_direction": 4,
+        "cycle_offset_direction": 3,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:라이노르:2026-09-05T23:16:43:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-07T11:16:46"
+        },
+        "second_precision_offset_ticks": 4
       },
       {
         "raw_name": "바우티",
@@ -21841,28 +22009,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 0,
-        "clock_seconds": 42,
+        "clock_seconds": 43,
         "precision": "second",
-        "source_text": "11:00:42 수드리",
+        "source_text": "23:00:43 수드리",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-07T23:00:47"
+          "value": "2026-09-07T23:00:47.600000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-07T23:00:42"
+          "value": "2026-09-07T23:00:43"
         },
-        "cycle_offset_direction": 5,
+        "cycle_offset_direction": 4,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:수드리:2026-09-05T23:00:43:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-07T23:00:47"
+        },
+        "second_precision_offset_ticks": 6
       },
       {
         "raw_name": "야른",
@@ -21874,28 +22048,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 0,
-        "clock_seconds": 57,
+        "clock_seconds": 58,
         "precision": "second",
-        "source_text": "11:00:57 야른",
+        "source_text": "23:00:58 야른",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-07T23:00:57"
+          "value": "2026-09-07T23:00:58.600000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-07T23:00:57"
+          "value": "2026-09-07T23:00:58"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:야른:2026-09-05T23:00:58:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-07T23:00:58"
+        },
+        "second_precision_offset_ticks": 6
       },
       {
         "raw_name": "브륀힐드",
@@ -21907,28 +22087,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 0,
-        "clock_seconds": 56,
+        "clock_seconds": 57,
         "precision": "second",
-        "source_text": "11:00:56 브륀힐드",
+        "source_text": "23:00:57 브륀힐드",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-07T23:01:01"
+          "value": "2026-09-07T23:01:01.900000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-07T23:00:56"
+          "value": "2026-09-07T23:00:57"
         },
-        "cycle_offset_direction": 5,
+        "cycle_offset_direction": 4,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:브륀힐드:2026-09-05T23:00:57:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-07T23:01:01"
+        },
+        "second_precision_offset_ticks": 9
       },
       {
         "raw_name": "라타토스크",
@@ -21940,28 +22126,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 1,
-        "clock_seconds": 6,
+        "clock_seconds": 7,
         "precision": "second",
-        "source_text": "11:01:06 라타토스크",
+        "source_text": "23:01:07 라타토스크",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-07T23:01:11"
+          "value": "2026-09-07T23:01:11.500000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-07T23:01:06"
+          "value": "2026-09-07T23:01:07"
         },
-        "cycle_offset_direction": 5,
+        "cycle_offset_direction": 4,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:라타토스크:2026-09-05T23:01:07:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-07T23:01:11"
+        },
+        "second_precision_offset_ticks": 5
       },
       {
         "raw_name": "페티",
@@ -21973,28 +22165,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 1,
-        "clock_seconds": 11,
+        "clock_seconds": 13,
         "precision": "second",
-        "source_text": "11:01:11 페티",
+        "source_text": "23:01:13 페티",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-07T23:01:11"
+          "value": "2026-09-07T23:01:13.600000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-07T23:01:11"
+          "value": "2026-09-07T23:01:13"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:페티:2026-09-05T23:01:13:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-07T23:01:13"
+        },
+        "second_precision_offset_ticks": 6
       },
       {
         "raw_name": "셀로비아",
@@ -22006,28 +22204,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 1,
-        "clock_seconds": 21,
+        "clock_seconds": 23,
         "precision": "second",
-        "source_text": "11:01:21 셀로비아",
+        "source_text": "23:01:23 셀로비아",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-07T23:01:21"
+          "value": "2026-09-07T23:01:23.700000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-07T23:01:21"
+          "value": "2026-09-07T23:01:23"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:셀로비아:2026-09-05T23:01:23:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-07T23:01:23"
+        },
+        "second_precision_offset_ticks": 7
       },
       {
         "raw_name": "라이노르",
@@ -22039,28 +22243,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 16,
-        "clock_seconds": 42,
+        "clock_seconds": 43,
         "precision": "second",
-        "source_text": "11:16:42 라이노르",
+        "source_text": "23:16:43 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-07T23:16:47"
+          "value": "2026-09-07T23:16:47.400000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-07T23:16:42"
+          "value": "2026-09-07T23:16:43"
         },
-        "cycle_offset_direction": 5,
+        "cycle_offset_direction": 4,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:라이노르:2026-09-05T23:16:43:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-07T23:16:47"
+        },
+        "second_precision_offset_ticks": 4
       },
       {
         "raw_name": "바우티",
@@ -22385,28 +22595,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 0,
-        "clock_seconds": 42,
+        "clock_seconds": 43,
         "precision": "second",
-        "source_text": "11:00:42 수드리",
+        "source_text": "23:00:43 수드리",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-08T11:00:48"
+          "value": "2026-09-08T11:00:48.600000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-08T11:00:42"
+          "value": "2026-09-08T11:00:43"
         },
-        "cycle_offset_direction": 6,
+        "cycle_offset_direction": 5,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:수드리:2026-09-05T23:00:43:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-08T11:00:48"
+        },
+        "second_precision_offset_ticks": 6
       },
       {
         "raw_name": "야른",
@@ -22418,28 +22634,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 0,
-        "clock_seconds": 57,
+        "clock_seconds": 58,
         "precision": "second",
-        "source_text": "11:00:57 야른",
+        "source_text": "23:00:58 야른",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-08T11:00:57"
+          "value": "2026-09-08T11:00:58.600000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-08T11:00:57"
+          "value": "2026-09-08T11:00:58"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:야른:2026-09-05T23:00:58:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-08T11:00:58"
+        },
+        "second_precision_offset_ticks": 6
       },
       {
         "raw_name": "브륀힐드",
@@ -22451,61 +22673,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 0,
-        "clock_seconds": 56,
+        "clock_seconds": 57,
         "precision": "second",
-        "source_text": "11:00:56 브륀힐드",
+        "source_text": "23:00:57 브륀힐드",
         "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-09-08T11:01:02.900000"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-09-08T11:00:57"
+        },
+        "cycle_offset_direction": 5,
+        "respawn_seconds": 43200,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-09-05T22:52:25"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": "",
+        "second_precision_offset_key": "event:normal:브륀힐드:2026-09-05T23:00:57:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
           "__type__": "datetime",
           "value": "2026-09-08T11:01:02"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-09-08T11:00:56"
-        },
-        "cycle_offset_direction": 6,
-        "respawn_seconds": 43200,
-        "created_at": {
-          "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
-        },
-        "alarm_enabled": false,
-        "result": "",
-        "note": ""
-      },
-      {
-        "raw_name": "페티",
-        "boss_name": "페티",
-        "display_name": "페티",
-        "is_invasion": false,
-        "raw_key": "normal:페티",
-        "state": "scheduled",
-        "mode": "clock",
-        "day_offset": 0,
-        "day_offset_explicit": false,
-        "clock_hours": 11,
-        "clock_minutes": 1,
-        "clock_seconds": 11,
-        "precision": "second",
-        "source_text": "11:01:11 페티",
-        "scheduled_at": {
-          "__type__": "datetime",
-          "value": "2026-09-08T11:01:11"
-        },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-09-08T11:01:11"
-        },
-        "cycle_offset_direction": 0,
-        "respawn_seconds": 43200,
-        "created_at": {
-          "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
-        },
-        "alarm_enabled": false,
-        "result": "",
-        "note": ""
+        "second_precision_offset_ticks": 9
       },
       {
         "raw_name": "라타토스크",
@@ -22517,28 +22712,73 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 1,
-        "clock_seconds": 6,
+        "clock_seconds": 7,
         "precision": "second",
-        "source_text": "11:01:06 라타토스크",
+        "source_text": "23:01:07 라타토스크",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-08T11:01:12"
+          "value": "2026-09-08T11:01:12.500000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-08T11:01:06"
+          "value": "2026-09-08T11:01:07"
         },
-        "cycle_offset_direction": 6,
+        "cycle_offset_direction": 5,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:라타토스크:2026-09-05T23:01:07:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-08T11:01:12"
+        },
+        "second_precision_offset_ticks": 5
+      },
+      {
+        "raw_name": "페티",
+        "boss_name": "페티",
+        "display_name": "페티",
+        "is_invasion": false,
+        "raw_key": "normal:페티",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 23,
+        "clock_minutes": 1,
+        "clock_seconds": 13,
+        "precision": "second",
+        "source_text": "23:01:13 페티",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-09-08T11:01:13.600000"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-09-08T11:01:13"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 43200,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-09-05T22:52:25"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": "",
+        "second_precision_offset_key": "event:normal:페티:2026-09-05T23:01:13:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-08T11:01:13"
+        },
+        "second_precision_offset_ticks": 6
       },
       {
         "raw_name": "셀로비아",
@@ -22550,28 +22790,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 1,
-        "clock_seconds": 21,
+        "clock_seconds": 23,
         "precision": "second",
-        "source_text": "11:01:21 셀로비아",
+        "source_text": "23:01:23 셀로비아",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-08T11:01:21"
+          "value": "2026-09-08T11:01:23.700000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-08T11:01:21"
+          "value": "2026-09-08T11:01:23"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:셀로비아:2026-09-05T23:01:23:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-08T11:01:23"
+        },
+        "second_precision_offset_ticks": 7
       },
       {
         "raw_name": "라이노르",
@@ -22583,28 +22829,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 16,
-        "clock_seconds": 42,
+        "clock_seconds": 43,
         "precision": "second",
-        "source_text": "11:16:42 라이노르",
+        "source_text": "23:16:43 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-08T11:16:48"
+          "value": "2026-09-08T11:16:48.400000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-08T11:16:42"
+          "value": "2026-09-08T11:16:43"
         },
-        "cycle_offset_direction": 6,
+        "cycle_offset_direction": 5,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:라이노르:2026-09-05T23:16:43:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-08T11:16:48"
+        },
+        "second_precision_offset_ticks": 4
       },
       {
         "raw_name": "바우티",
@@ -23161,28 +23413,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 0,
-        "clock_seconds": 42,
+        "clock_seconds": 43,
         "precision": "second",
-        "source_text": "11:00:42 수드리",
+        "source_text": "23:00:43 수드리",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-08T23:00:49"
+          "value": "2026-09-08T23:00:49.600000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-08T23:00:42"
+          "value": "2026-09-08T23:00:43"
         },
-        "cycle_offset_direction": 7,
+        "cycle_offset_direction": 6,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:수드리:2026-09-05T23:00:43:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-08T23:00:49"
+        },
+        "second_precision_offset_ticks": 6
       },
       {
         "raw_name": "야른",
@@ -23194,28 +23452,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 0,
-        "clock_seconds": 57,
+        "clock_seconds": 58,
         "precision": "second",
-        "source_text": "11:00:57 야른",
+        "source_text": "23:00:58 야른",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-08T23:00:57"
+          "value": "2026-09-08T23:00:58.600000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-08T23:00:57"
+          "value": "2026-09-08T23:00:58"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:야른:2026-09-05T23:00:58:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-08T23:00:58"
+        },
+        "second_precision_offset_ticks": 6
       },
       {
         "raw_name": "브륀힐드",
@@ -23227,61 +23491,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 0,
-        "clock_seconds": 56,
+        "clock_seconds": 57,
         "precision": "second",
-        "source_text": "11:00:56 브륀힐드",
+        "source_text": "23:00:57 브륀힐드",
         "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-09-08T23:01:03.900000"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-09-08T23:00:57"
+        },
+        "cycle_offset_direction": 6,
+        "respawn_seconds": 43200,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-09-05T22:52:25"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": "",
+        "second_precision_offset_key": "event:normal:브륀힐드:2026-09-05T23:00:57:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
           "__type__": "datetime",
           "value": "2026-09-08T23:01:03"
         },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-09-08T23:00:56"
-        },
-        "cycle_offset_direction": 7,
-        "respawn_seconds": 43200,
-        "created_at": {
-          "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
-        },
-        "alarm_enabled": false,
-        "result": "",
-        "note": ""
-      },
-      {
-        "raw_name": "페티",
-        "boss_name": "페티",
-        "display_name": "페티",
-        "is_invasion": false,
-        "raw_key": "normal:페티",
-        "state": "scheduled",
-        "mode": "clock",
-        "day_offset": 0,
-        "day_offset_explicit": false,
-        "clock_hours": 11,
-        "clock_minutes": 1,
-        "clock_seconds": 11,
-        "precision": "second",
-        "source_text": "11:01:11 페티",
-        "scheduled_at": {
-          "__type__": "datetime",
-          "value": "2026-09-08T23:01:11"
-        },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-09-08T23:01:11"
-        },
-        "cycle_offset_direction": 0,
-        "respawn_seconds": 43200,
-        "created_at": {
-          "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
-        },
-        "alarm_enabled": false,
-        "result": "",
-        "note": ""
+        "second_precision_offset_ticks": 9
       },
       {
         "raw_name": "라타토스크",
@@ -23293,28 +23530,73 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 1,
-        "clock_seconds": 6,
+        "clock_seconds": 7,
         "precision": "second",
-        "source_text": "11:01:06 라타토스크",
+        "source_text": "23:01:07 라타토스크",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-08T23:01:13"
+          "value": "2026-09-08T23:01:13.500000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-08T23:01:06"
+          "value": "2026-09-08T23:01:07"
         },
-        "cycle_offset_direction": 7,
+        "cycle_offset_direction": 6,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:라타토스크:2026-09-05T23:01:07:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-08T23:01:13"
+        },
+        "second_precision_offset_ticks": 5
+      },
+      {
+        "raw_name": "페티",
+        "boss_name": "페티",
+        "display_name": "페티",
+        "is_invasion": false,
+        "raw_key": "normal:페티",
+        "state": "scheduled",
+        "mode": "clock",
+        "day_offset": 0,
+        "day_offset_explicit": false,
+        "clock_hours": 23,
+        "clock_minutes": 1,
+        "clock_seconds": 13,
+        "precision": "second",
+        "source_text": "23:01:13 페티",
+        "scheduled_at": {
+          "__type__": "datetime",
+          "value": "2026-09-08T23:01:13.600000"
+        },
+        "cycle_anchor_at": {
+          "__type__": "datetime",
+          "value": "2026-09-08T23:01:13"
+        },
+        "cycle_offset_direction": 0,
+        "respawn_seconds": 43200,
+        "created_at": {
+          "__type__": "datetime",
+          "value": "2026-09-05T22:52:25"
+        },
+        "alarm_enabled": false,
+        "result": "",
+        "note": "",
+        "second_precision_offset_key": "event:normal:페티:2026-09-05T23:01:13:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-08T23:01:13"
+        },
+        "second_precision_offset_ticks": 6
       },
       {
         "raw_name": "셀로비아",
@@ -23326,28 +23608,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 1,
-        "clock_seconds": 21,
+        "clock_seconds": 23,
         "precision": "second",
-        "source_text": "11:01:21 셀로비아",
+        "source_text": "23:01:23 셀로비아",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-08T23:01:21"
+          "value": "2026-09-08T23:01:23.700000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-08T23:01:21"
+          "value": "2026-09-08T23:01:23"
         },
         "cycle_offset_direction": 0,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:셀로비아:2026-09-05T23:01:23:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-08T23:01:23"
+        },
+        "second_precision_offset_ticks": 7
       },
       {
         "raw_name": "라이노르",
@@ -23359,28 +23647,34 @@
         "mode": "clock",
         "day_offset": 0,
         "day_offset_explicit": false,
-        "clock_hours": 11,
+        "clock_hours": 23,
         "clock_minutes": 16,
-        "clock_seconds": 42,
+        "clock_seconds": 43,
         "precision": "second",
-        "source_text": "11:16:42 라이노르",
+        "source_text": "23:16:43 라이노르",
         "scheduled_at": {
           "__type__": "datetime",
-          "value": "2026-09-08T23:16:49"
+          "value": "2026-09-08T23:16:49.400000"
         },
         "cycle_anchor_at": {
           "__type__": "datetime",
-          "value": "2026-09-08T23:16:42"
+          "value": "2026-09-08T23:16:43"
         },
-        "cycle_offset_direction": 7,
+        "cycle_offset_direction": 6,
         "respawn_seconds": 43200,
         "created_at": {
           "__type__": "datetime",
-          "value": "2026-09-05T10:57:40"
+          "value": "2026-09-05T22:52:25"
         },
         "alarm_enabled": false,
         "result": "",
-        "note": ""
+        "note": "",
+        "second_precision_offset_key": "event:normal:라이노르:2026-09-05T23:16:43:2026-09-05T22:52:25",
+        "second_precision_offset_base_at": {
+          "__type__": "datetime",
+          "value": "2026-09-08T23:16:49"
+        },
+        "second_precision_offset_ticks": 4
       },
       {
         "raw_name": "바우티",
@@ -23715,8 +24009,15 @@
     ],
     "schedule_second_precision_offsets": {
       "event:normal:헤르모드:2026-09-05T14:19:30:2026-09-05T13:34:06": 0.9,
-      "event:normal:드라우그:2026-09-05T14:34:59:2026-09-05T13:35:30": 0.9
+      "event:normal:드라우그:2026-09-05T14:34:59:2026-09-05T13:35:30": 0.9,
+      "event:normal:수드리:2026-09-05T23:00:43:2026-09-05T22:52:25": 0.6,
+      "event:normal:브륀힐드:2026-09-05T23:00:57:2026-09-05T22:52:25": 0.9,
+      "event:normal:야른:2026-09-05T23:00:58:2026-09-05T22:52:25": 0.6,
+      "event:normal:라타토스크:2026-09-05T23:01:07:2026-09-05T22:52:25": 0.5,
+      "event:normal:페티:2026-09-05T23:01:13:2026-09-05T22:52:25": 0.6,
+      "event:normal:셀로비아:2026-09-05T23:01:23:2026-09-05T22:52:25": 0.7,
+      "event:normal:라이노르:2026-09-05T23:16:43:2026-09-05T22:52:25": 0.4
     }
   },
-  "contentHash": "a6628ba9aef41908f538ad3a390ca0841205251f"
+  "contentHash": "c77341e2cc22588b78a48e964d413bfbd6ed0bbd"
 }
