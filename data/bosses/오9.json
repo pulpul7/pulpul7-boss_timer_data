@@ -1,7 +1,7 @@
 {
-  "appMinVersion": "4.0.2",
+  "appMinVersion": "4.2.0",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.08.20.029",
+  "dataVersion": "2026.09.05.023",
   "kind": "boss_config",
   "payload": {
     "boss_definitions": [
@@ -434,7 +434,7 @@
         ],
         "repeat_mode": "biweekly_next",
         "anchor_date": "2026-07-11",
-        "enabled": false
+        "enabled": true
       },
       {
         "boss_name": "공성전 입찰시작",
@@ -444,7 +444,7 @@
         ],
         "repeat_mode": "biweekly_next",
         "anchor_date": "2026-07-08",
-        "enabled": false
+        "enabled": true
       },
       {
         "boss_name": "길드 쟁탈전 신청마감",
@@ -464,7 +464,7 @@
         ],
         "repeat_mode": "weekly",
         "anchor_date": "",
-        "enabled": false
+        "enabled": true
       },
       {
         "boss_name": "닻",
@@ -474,7 +474,7 @@
         ],
         "repeat_mode": "weekly",
         "anchor_date": "",
-        "enabled": false
+        "enabled": true
       },
       {
         "boss_name": "닻",
@@ -484,7 +484,7 @@
         ],
         "repeat_mode": "weekly",
         "anchor_date": "",
-        "enabled": false
+        "enabled": true
       },
       {
         "boss_name": "발할라 대전",
@@ -552,17 +552,17 @@
         ],
         "repeat_mode": "weekly",
         "anchor_date": "",
-        "enabled": false
+        "enabled": true
       },
       {
         "boss_name": "방어전 신청마감",
-        "time_text": "18:00:00",
+        "time_text": "17:59:50",
         "days": [
           "월"
         ],
         "repeat_mode": "weekly",
         "anchor_date": "",
-        "enabled": false
+        "enabled": true
       },
       {
         "boss_name": "성채",
@@ -635,17 +635,17 @@
         ],
         "repeat_mode": "weekly",
         "anchor_date": "",
-        "enabled": false
+        "enabled": true
       },
       {
         "boss_name": "점령전 신청마감",
-        "time_text": "18:00:00",
+        "time_text": "17:59:50",
         "days": [
           "금"
         ],
         "repeat_mode": "weekly",
         "anchor_date": "",
-        "enabled": false
+        "enabled": true
       },
       {
         "boss_name": "지옥 성채",
@@ -737,7 +737,7 @@
         ],
         "repeat_mode": "weekly",
         "anchor_date": "",
-        "enabled": false
+        "enabled": true
       },
       {
         "boss_name": "황금고블린",
@@ -753,7 +753,7 @@
         ],
         "repeat_mode": "weekly",
         "anchor_date": "",
-        "enabled": false
+        "enabled": true
       },
       {
         "boss_name": "황금고블린",
@@ -769,9 +769,9 @@
         ],
         "repeat_mode": "weekly",
         "anchor_date": "",
-        "enabled": false
+        "enabled": true
       }
     ]
   },
-  "contentHash": "854c79fb01d2750bf233f981cc517d3629e0e18b"
+  "contentHash": "baeb8cd3a7e4cb8cc7393f4a9269a82fcba59579"
 }
