@@ -1,7 +1,7 @@
 {
   "appMinVersion": "5.2.2",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.09.11.009",
+  "dataVersion": "2026.09.12.002",
   "kind": "boss_config",
   "payload": {
     "boss_definitions": [
@@ -604,6 +604,24 @@
       },
       {
         "boss_name": "발할라 대전",
+        "time_text": "03:41:30",
+        "days": [
+          "월",
+          "화",
+          "수",
+          "목",
+          "금",
+          "토",
+          "일"
+        ],
+        "repeat_mode": "weekly",
+        "anchor_date": "",
+        "enabled": true,
+        "text_color": "#FFFFFF",
+        "bg_color": "#09A2A6"
+      },
+      {
+        "boss_name": "발할라 대전",
         "time_text": "13:00:00",
         "days": [
           "월",
@@ -935,5 +953,5 @@
       }
     ]
   },
-  "contentHash": "3bdf5bd435c58f0b865ac36ece15421c67100140"
+  "contentHash": "d3384e566476993742fc614f8a10a79e13853315"
 }
