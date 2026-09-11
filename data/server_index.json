@@ -1,7 +1,7 @@
 {
   "appMinVersion": "1.2.0",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.09.11.009",
+  "dataVersion": "2026.09.12.002",
   "servers": [
     {
       "id": "오8",
@@ -25,11 +25,11 @@
       "config": "data/config/오9.json",
       "notices": "data/notices/오9.json",
       "scheduleVersion": "2026.09.11.004",
-      "dataVersion": "2026.09.11.009",
+      "dataVersion": "2026.09.12.002",
       "scheduleHash": "26a5de64908fa8fc535081defab6dfa5b0a42130",
-      "bossConfigVersion": "2026.09.11.009",
-      "bossConfigHash": "3bdf5bd435c58f0b865ac36ece15421c67100140",
-      "updatedAt": "2026-09-11 21:57:58"
+      "bossConfigVersion": "2026.09.12.002",
+      "bossConfigHash": "d3384e566476993742fc614f8a10a79e13853315",
+      "updatedAt": "2026-09-12 04:05:35"
     }
   ]
 }
