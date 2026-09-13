@@ -1,19 +1,19 @@
 {
-  "appMinVersion": "5.0.0",
+  "appMinVersion": "5.3.1",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.09.07.014",
+  "dataVersion": "2026.09.13.001",
   "kind": "schedule",
   "payload": {
     "version": 1,
     "exported_at": {
       "__type__": "datetime",
-      "value": "2026-09-13T18:19:49"
+      "value": "2026-09-13T19:09:34"
     },
-    "season_no": "17",
-    "season_started_at": "2026-09-13 18:17:00",
-    "season_label": "오8 아제 17차 시즌",
+    "season_no": "18",
+    "season_started_at": "2026-09-13 10:20:00",
+    "season_label": "오9 딸기 18차 시즌",
     "server_name": "오8",
-    "guild_name": "아제",
+    "guild_name": "딸기",
     "share_prefix": "오8",
     "base_datetime": {
       "__type__": "datetime",
@@ -6909,39 +6909,6 @@
         "note": ""
       },
       {
-        "raw_name": "굴베이그",
-        "boss_name": "굴베이그",
-        "display_name": "굴베이그",
-        "is_invasion": false,
-        "raw_key": "normal:굴베이그",
-        "state": "scheduled",
-        "mode": "clock",
-        "day_offset": 0,
-        "day_offset_explicit": false,
-        "clock_hours": 21,
-        "clock_minutes": 59,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "21:59 굴베이그",
-        "scheduled_at": {
-          "__type__": "datetime",
-          "value": "2026-09-13T21:59:00"
-        },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-09-13T21:59:00"
-        },
-        "cycle_offset_direction": 0,
-        "respawn_seconds": 86400,
-        "created_at": {
-          "__type__": "datetime",
-          "value": "2026-09-13T11:51:27.477887"
-        },
-        "alarm_enabled": false,
-        "result": "",
-        "note": ""
-      },
-      {
         "raw_name": "메기르",
         "boss_name": "메기르",
         "display_name": "메기르",
@@ -8499,39 +8466,6 @@
         "note": ""
       },
       {
-        "raw_name": "굴베이그",
-        "boss_name": "굴베이그",
-        "display_name": "굴베이그",
-        "is_invasion": false,
-        "raw_key": "normal:굴베이그",
-        "state": "scheduled",
-        "mode": "clock",
-        "day_offset": 0,
-        "day_offset_explicit": false,
-        "clock_hours": 21,
-        "clock_minutes": 59,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "21:59 굴베이그",
-        "scheduled_at": {
-          "__type__": "datetime",
-          "value": "2026-09-14T21:59:02"
-        },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-09-14T21:59:00"
-        },
-        "cycle_offset_direction": 1,
-        "respawn_seconds": 86400,
-        "created_at": {
-          "__type__": "datetime",
-          "value": "2026-09-13T11:51:27.477887"
-        },
-        "alarm_enabled": false,
-        "result": "",
-        "note": ""
-      },
-      {
         "raw_name": "흐니르",
         "boss_name": "흐니르",
         "display_name": "흐니르",
@@ -9726,7 +9660,7 @@
         "clock_hours": 16,
         "clock_minutes": 29,
         "clock_seconds": 49,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "16:29:49.793021 야른",
         "clock_microsecond": 793021,
         "scheduled_at": {
@@ -9788,7 +9722,7 @@
         "clock_hours": 16,
         "clock_minutes": 43,
         "clock_seconds": 15,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "16:43:15.800052 파르바",
         "clock_microsecond": 800052,
         "scheduled_at": {
@@ -10036,39 +9970,6 @@
         "note": ""
       },
       {
-        "raw_name": "굴베이그",
-        "boss_name": "굴베이그",
-        "display_name": "굴베이그",
-        "is_invasion": false,
-        "raw_key": "normal:굴베이그",
-        "state": "scheduled",
-        "mode": "clock",
-        "day_offset": 0,
-        "day_offset_explicit": false,
-        "clock_hours": 21,
-        "clock_minutes": 59,
-        "clock_seconds": 0,
-        "precision": "minute",
-        "source_text": "21:59 굴베이그",
-        "scheduled_at": {
-          "__type__": "datetime",
-          "value": "2026-09-15T21:59:04"
-        },
-        "cycle_anchor_at": {
-          "__type__": "datetime",
-          "value": "2026-09-15T21:59:00"
-        },
-        "cycle_offset_direction": 2,
-        "respawn_seconds": 86400,
-        "created_at": {
-          "__type__": "datetime",
-          "value": "2026-09-13T11:51:27.477887"
-        },
-        "alarm_enabled": false,
-        "result": "",
-        "note": ""
-      },
-      {
         "raw_name": "최하층굴베",
         "boss_name": "최하층굴베",
         "display_name": "최하층굴베",
@@ -10180,7 +10081,7 @@
         "clock_hours": 23,
         "clock_minutes": 31,
         "clock_seconds": 0,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "23:31:00.807578 흐니르",
         "clock_microsecond": 807578,
         "scheduled_at": {
@@ -10209,7 +10110,7 @@
         "clock_hours": 23,
         "clock_minutes": 31,
         "clock_seconds": 23,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "23:31:23.819498 셀로비아",
         "clock_microsecond": 819498,
         "scheduled_at": {
@@ -10238,7 +10139,7 @@
         "clock_hours": 23,
         "clock_minutes": 46,
         "clock_seconds": 20,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "23:46:20.652732 페티",
         "clock_microsecond": 652732,
         "scheduled_at": {
@@ -10296,7 +10197,7 @@
         "clock_hours": 12,
         "clock_minutes": 6,
         "clock_seconds": 55,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "12:06:55 헤르모드",
         "scheduled_at": {
           "__type__": "datetime",
@@ -10362,7 +10263,7 @@
         "clock_hours": 12,
         "clock_minutes": 43,
         "clock_seconds": 30,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "12:43:30.761725 니드호그",
         "clock_microsecond": 761725,
         "scheduled_at": {
@@ -10391,7 +10292,7 @@
         "clock_hours": 12,
         "clock_minutes": 44,
         "clock_seconds": 6,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "12:44:06.744217 바우티",
         "clock_microsecond": 744217,
         "scheduled_at": {
@@ -10618,7 +10519,7 @@
         "clock_hours": 16,
         "clock_minutes": 29,
         "clock_seconds": 49,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "16:29:49.793021 야른",
         "clock_microsecond": 793021,
         "scheduled_at": {
@@ -10647,7 +10548,7 @@
         "clock_hours": 16,
         "clock_minutes": 43,
         "clock_seconds": 15,
-        "precision": "second",
+        "precision": "minute",
         "source_text": "16:43:15.800052 파르바",
         "clock_microsecond": 800052,
         "scheduled_at": {
@@ -10847,5 +10748,5 @@
     "schedule_control_events": [],
     "schedule_second_precision_offsets": {}
   },
-  "contentHash": "10fbb36dfbcb3897ad3322655df50d56f0935fe2"
+  "contentHash": "af3e5387c6c2130f4e7e62977172306e48dbb0e9"
 }
