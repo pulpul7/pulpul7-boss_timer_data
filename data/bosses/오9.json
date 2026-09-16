@@ -1,7 +1,7 @@
 {
   "appMinVersion": "5.3.1.fix",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.09.12.004",
+  "dataVersion": "2026.09.16.006",
   "kind": "boss_config",
   "payload": {
     "boss_definitions": [
