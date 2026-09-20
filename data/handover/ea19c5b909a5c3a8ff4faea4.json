@@ -5,14 +5,14 @@
     "server": "오9",
     "season": "15"
   },
-  "owner": "6bf9c4fc5bc1481695efb2dded49d975",
+  "owner": "",
   "receiver": "6bf9c4fc5bc1481695efb2dded49d975",
   "request": "5562cb104f4444d6b3e6998319baaa5c",
-  "phase": "active",
+  "phase": "idle",
   "deadline": 1789938502.43519,
-  "updated": 1789938337.538331,
+  "updated": 1789938358.4498658,
   "released": true,
-  "message": "인계 완료 · 운영 시작",
+  "message": "담당 관리자 종료",
   "artifact": null,
   "connection": "완료",
   "sync": "완료"
