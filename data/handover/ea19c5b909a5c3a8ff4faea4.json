@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "scope": {
+    "guild": "1386707538908676267",
+    "server": "오9",
+    "season": "18"
+  },
+  "owner": "c341709b321e4593b11e9146f5752f6f",
+  "receiver": "c341709b321e4593b11e9146f5752f6f",
+  "request": "66f0d21d29214e18a60cb03305f7b10d",
+  "phase": "joining",
+  "deadline": 1790540250.4730957,
+  "updated": 1790540070.4730957,
+  "released": true,
+  "message": "접속 준비",
+  "artifact": null,
+  "connection": "대기",
+  "sync": "기존 로컬 자료 유지"
+}
