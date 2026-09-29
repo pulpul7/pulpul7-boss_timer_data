@@ -3,17 +3,17 @@
   "scope": {
     "guild": "1386707538908676267",
     "server": "오9",
-    "season": "22"
+    "season": "23"
   },
-  "owner": "",
-  "receiver": "",
-  "request": "c3d43074b0754426a110842ea11340ff",
-  "phase": "idle",
-  "deadline": 1790680712.1152651,
-  "updated": 1790680565.2352662,
+  "owner": "c341709b321e4593b11e9146f5752f6f",
+  "receiver": "c341709b321e4593b11e9146f5752f6f",
+  "request": "cc26ee83284840c38489e37811750403",
+  "phase": "joining",
+  "deadline": 1790680748.4262676,
+  "updated": 1790680568.4262676,
   "released": true,
-  "message": "담당 관리자 종료",
+  "message": "접속 준비",
   "artifact": null,
-  "connection": "완료",
-  "sync": "완료"
+  "connection": "대기",
+  "sync": "기존 로컬 자료 유지"
 }
