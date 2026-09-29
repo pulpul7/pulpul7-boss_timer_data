@@ -5,15 +5,15 @@
     "server": "오9",
     "season": "18"
   },
-  "owner": "",
+  "owner": "c341709b321e4593b11e9146f5752f6f",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
-  "request": "6f323c4ac93848da852ba816c4791dbb",
-  "phase": "idle",
-  "deadline": 1790672271.6161993,
-  "updated": 1790672125.0761495,
+  "request": "8f96c31dcd4f4110ba7c16ea31049092",
+  "phase": "joining",
+  "deadline": 1790672315.106116,
+  "updated": 1790672135.106116,
   "released": true,
-  "message": "담당 관리자 종료",
+  "message": "접속 준비",
   "artifact": null,
-  "connection": "완료",
-  "sync": "완료"
+  "connection": "대기",
+  "sync": "기존 로컬 자료 유지"
 }
