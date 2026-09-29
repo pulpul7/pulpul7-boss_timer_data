@@ -7,13 +7,13 @@
   },
   "owner": "c341709b321e4593b11e9146f5752f6f",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
-  "request": "e1b3e72e0c8b4125a3a8fef50b04d8fa",
-  "phase": "failed",
-  "deadline": 1790672432.0486932,
-  "updated": 1790672261.6310053,
+  "request": "0851df42f1d84db9b3bc375a5adb76a8",
+  "phase": "joining",
+  "deadline": 1790672525.5330276,
+  "updated": 1790672345.5330276,
   "released": true,
-  "message": "봇 토큰과 Application ID가 일치하지 않습니다. 새 봇을 사용하려면 해당 봇의 토큰과 Application ID를 함께 입력한 뒤 봇을 다시 실행하세요.",
+  "message": "접속 준비",
   "artifact": null,
-  "connection": "연결 중",
-  "sync": "완료 (기존 담당자 없음 · 로컬 자료 유지)"
+  "connection": "대기",
+  "sync": "기존 로컬 자료 유지"
 }
