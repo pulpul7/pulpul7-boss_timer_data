@@ -8,12 +8,12 @@
   "owner": "c341709b321e4593b11e9146f5752f6f",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
   "request": "e304577cc3ab472f80277307611c4068",
-  "phase": "joining",
+  "phase": "active",
   "deadline": 1790815694.6690571,
-  "updated": 1790815529.3620455,
+  "updated": 1790815530.664909,
   "released": true,
-  "message": "봇 접속과 스케줄 동기화를 병행합니다.",
+  "message": "인계 완료 · 운영 시작",
   "artifact": null,
-  "connection": "완료 (동기화 완료까지 송출 잠금)",
-  "sync": "완료 (기존 담당자 없음 · 로컬 자료 유지)"
+  "connection": "완료",
+  "sync": "완료"
 }
