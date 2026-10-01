@@ -10,10 +10,10 @@
   "request": "c0c0c0eb38114fc9b2d8f058e236a1d6",
   "phase": "joining",
   "deadline": 1790845773.6685688,
-  "updated": 1790845595.3040159,
+  "updated": 1790845596.568471,
   "released": true,
   "message": "봇 접속과 스케줄 동기화를 병행합니다.",
   "artifact": null,
   "connection": "대기",
-  "sync": "기존 로컬 자료 유지"
+  "sync": "완료 (기존 담당자 없음 · 로컬 자료 유지)"
 }
