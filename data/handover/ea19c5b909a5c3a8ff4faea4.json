@@ -3,17 +3,17 @@
   "scope": {
     "guild": "1386707538908676267",
     "server": "오9",
-    "season": "26"
+    "season": "30"
   },
-  "owner": "",
-  "receiver": "",
-  "request": "da5fdbb3f9c94e6aaa9d2784c035b38a",
-  "phase": "idle",
-  "deadline": 1790823250.6116126,
-  "updated": 1790845419.3512337,
+  "owner": "c341709b321e4593b11e9146f5752f6f",
+  "receiver": "c341709b321e4593b11e9146f5752f6f",
+  "request": "4626e62b9c44455fabddeb28b82acb70",
+  "phase": "joining",
+  "deadline": 1790845600.41731,
+  "updated": 1790845420.41731,
   "released": true,
-  "message": "동일 담당자의 이전 시즌 봇 종료 확인",
+  "message": "접속 준비",
   "artifact": null,
-  "connection": "완료",
-  "sync": "완료"
+  "connection": "대기",
+  "sync": "기존 로컬 자료 유지"
 }
