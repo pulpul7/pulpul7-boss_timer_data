@@ -9,7 +9,18 @@
   "owner_runtime": "",
   "generation": 0,
   "phase": "idle",
-  "members": {},
+  "members": {
+    "c341709b321e4593b11e9146f5752f6f": {
+      "name": "나츠",
+      "server": "오9",
+      "season": "22",
+      "online": true,
+      "runtime": "3b6a20b7bcd64b458df909008f083f6c",
+      "seen": 1790953889.5989122,
+      "protocol": 2
+    }
+  },
   "request": "",
-  "receiver": ""
+  "receiver": "",
+  "updated": 1790953889.5989122
 }
