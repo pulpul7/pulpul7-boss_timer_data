@@ -5,10 +5,10 @@
     "server": "오9",
     "season": "22"
   },
-  "owner": "c341709b321e4593b11e9146f5752f6f",
-  "owner_runtime": "3b6a20b7bcd64b458df909008f083f6c",
-  "generation": 1,
-  "phase": "active",
+  "owner": "",
+  "owner_runtime": "",
+  "generation": 2,
+  "phase": "idle",
   "members": {
     "c341709b321e4593b11e9146f5752f6f": {
       "name": "나츠",
@@ -21,8 +21,8 @@
     }
   },
   "request": "9083c32830d54517ba0080e0539c49cb",
-  "receiver": "c341709b321e4593b11e9146f5752f6f",
-  "updated": 1790953894.905839,
+  "receiver": "",
+  "updated": 1790953904.4301457,
   "receiver_runtime": "3b6a20b7bcd64b458df909008f083f6c",
   "deadline": 1790953921.9291282,
   "released": true,
