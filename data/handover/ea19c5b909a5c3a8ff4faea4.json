@@ -22,14 +22,16 @@
         "id": "1555639133202817034",
         "runtime": "90295c77dd784ab0960387cd726f0c80",
         "channel": "1386707540108251200",
-        "state": "accepted",
-        "expires": 1790963683.6463733
+        "state": "done",
+        "expires": 1790963683.6463733,
+        "ok": true,
+        "message": "관리자 · 송출 중 (로컬 스케줄 유지 · 동기화는 수동)"
       }
     }
   },
   "request": "91f0f61f69c24c0bb5af457f32084cab",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
-  "updated": 1790963680.1228766,
+  "updated": 1790963681.525849,
   "receiver_runtime": "90295c77dd784ab0960387cd726f0c80",
   "deadline": 1790963705.3993375,
   "released": true,
