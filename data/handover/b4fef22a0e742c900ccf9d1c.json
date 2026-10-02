@@ -6,14 +6,14 @@
     "season": "19"
   },
   "owner": "12f05e163dd34f3b9d3744466dcca66d",
-  "receiver": "c341709b321e4593b11e9146f5752f6f",
-  "request": "4b46e89c01614ce7977c943b0db0ae13",
-  "phase": "failed",
-  "deadline": 1790928821.3717046,
-  "updated": 1790928822.5157638,
-  "released": false,
-  "message": "기존 관리자 응답 또는 업로드 완료를 기다리다 제한시간을 초과했습니다.",
+  "receiver": "12f05e163dd34f3b9d3744466dcca66d",
+  "request": "c8fa14eef15c4681bfba5c0f535ba294",
+  "phase": "joining",
+  "deadline": 1790929149.1783738,
+  "updated": 1790928969.1783738,
+  "released": true,
+  "message": "접속 준비",
   "artifact": null,
   "connection": "대기",
-  "sync": "대기"
+  "sync": "기존 로컬 자료 유지"
 }
