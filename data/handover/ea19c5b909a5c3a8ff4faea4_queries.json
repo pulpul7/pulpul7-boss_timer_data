@@ -75,6 +75,17 @@
         "connected_at": 1790966597.256693,
         "sending": false
       }
+    },
+    "1555651620833071135": {
+      "query": "help",
+      "created": 1790966650.4236312,
+      "state": "opening",
+      "offers": {
+        "c341709b321e4593b11e9146f5752f6f": {
+          "runtime": "168c1606bc60463a837bbaceddc2c7f9",
+          "at": 1790966650.1436918
+        }
+      }
     }
   },
   "responder": {},
