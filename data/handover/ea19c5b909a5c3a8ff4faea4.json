@@ -7,13 +7,13 @@
   },
   "owner": "c341709b321e4593b11e9146f5752f6f",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
-  "request": "0064914b9ad24890a3bb5e5364fd723a",
-  "phase": "active",
-  "deadline": 1790936921.1333108,
-  "updated": 1790936754.364265,
+  "request": "5876e2fa1b594356952dbce02cdaff19",
+  "phase": "joining",
+  "deadline": 1790942606.1641543,
+  "updated": 1790942426.1641543,
   "released": true,
-  "message": "인계 완료 · 운영 시작",
+  "message": "접속 준비",
   "artifact": null,
-  "connection": "완료",
-  "sync": "완료"
+  "connection": "대기",
+  "sync": "기존 로컬 자료 유지"
 }
