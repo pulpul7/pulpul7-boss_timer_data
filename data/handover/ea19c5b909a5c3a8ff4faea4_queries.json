@@ -21,7 +21,12 @@
       "state": "pending",
       "deadline": 1790966956.665142,
       "retries": [],
-      "offers": {},
+      "offers": {
+        "c341709b321e4593b11e9146f5752f6f": {
+          "runtime": "b0e124e52dcf43f49692d88670f743ca",
+          "at": 1790966953.1398325
+        }
+      },
       "routing_generation": 0
     }
   },
