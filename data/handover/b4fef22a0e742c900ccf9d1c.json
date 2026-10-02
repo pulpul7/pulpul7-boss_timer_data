@@ -6,14 +6,14 @@
     "season": "19"
   },
   "owner": "12f05e163dd34f3b9d3744466dcca66d",
-  "receiver": "c341709b321e4593b11e9146f5752f6f",
-  "request": "82ae11fc6ea444849ac51119a9e18fc3",
-  "phase": "failed",
-  "deadline": 1790931521.9957142,
-  "updated": 1790931353.9693086,
-  "released": false,
-  "message": "업로드가 생략되었거나 현재 스케줄과 서버 자료가 다릅니다. 기존 운영을 유지합니다.",
+  "receiver": "12f05e163dd34f3b9d3744466dcca66d",
+  "request": "461a49a14f4e48aa93fb35b2c916b7fa",
+  "phase": "joining",
+  "deadline": 1790952296.105226,
+  "updated": 1790952116.105226,
+  "released": true,
+  "message": "접속 준비",
   "artifact": null,
-  "connection": "기존 관리자 연결 유지",
-  "sync": "업로드 중"
+  "connection": "대기",
+  "sync": "기존 로컬 자료 유지"
 }
