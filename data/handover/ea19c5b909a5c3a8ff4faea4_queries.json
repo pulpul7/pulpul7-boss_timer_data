@@ -2,153 +2,27 @@
   "schema": 1,
   "guild": "1386707538908676267",
   "requests": {
-    "1555651526842646629": {
-      "query": "help",
-      "created": 1790966628.4422925,
+    "1555652892546039819": {
+      "query": "schedule",
+      "created": 1790966953.665142,
       "candidates": [
         {
           "client_id": "c341709b321e4593b11e9146f5752f6f",
           "display_id": "c341709b",
-          "runtime": "168c1606bc60463a837bbaceddc2c7f9",
+          "runtime": "b0e124e52dcf43f49692d88670f743ca",
           "name": "나츠",
           "server": "오9",
           "season": "22",
-          "connected_at": 1790966597.256693,
-          "sending": false
-        }
-      ],
-      "index": 0,
-      "state": "ready",
-      "deadline": 1790966633.1016572,
-      "retries": [],
-      "offers": {
-        "c341709b321e4593b11e9146f5752f6f": {
-          "runtime": "168c1606bc60463a837bbaceddc2c7f9",
-          "at": 1790966628.144441
-        }
-      },
-      "routing_generation": 0,
-      "source": {
-        "client_id": "c341709b321e4593b11e9146f5752f6f",
-        "display_id": "c341709b",
-        "runtime": "168c1606bc60463a837bbaceddc2c7f9",
-        "name": "나츠",
-        "server": "오9",
-        "season": "22",
-        "connected_at": 1790966597.256693,
-        "sending": false
-      }
-    },
-    "1555651620833071135": {
-      "query": "help",
-      "created": 1790966650.4236312,
-      "candidates": [
-        {
-          "client_id": "c341709b321e4593b11e9146f5752f6f",
-          "display_id": "c341709b",
-          "runtime": "168c1606bc60463a837bbaceddc2c7f9",
-          "name": "나츠",
-          "server": "오9",
-          "season": "22",
-          "connected_at": 1790966597.256693,
+          "connected_at": 1790966920.1169178,
           "sending": true
         }
       ],
       "index": 0,
-      "state": "ready",
-      "deadline": 1790966655.1187527,
+      "state": "pending",
+      "deadline": 1790966956.665142,
       "retries": [],
-      "offers": {
-        "c341709b321e4593b11e9146f5752f6f": {
-          "runtime": "168c1606bc60463a837bbaceddc2c7f9",
-          "at": 1790966650.1436918
-        }
-      },
-      "routing_generation": 0,
-      "source": {
-        "client_id": "c341709b321e4593b11e9146f5752f6f",
-        "display_id": "c341709b",
-        "runtime": "168c1606bc60463a837bbaceddc2c7f9",
-        "name": "나츠",
-        "server": "오9",
-        "season": "22",
-        "connected_at": 1790966597.256693,
-        "sending": true
-      }
-    },
-    "1555651821165477919": {
-      "query": "schedule",
-      "created": 1790966698.41693,
-      "candidates": [
-        {
-          "client_id": "c341709b321e4593b11e9146f5752f6f",
-          "display_id": "c341709b",
-          "runtime": "168c1606bc60463a837bbaceddc2c7f9",
-          "name": "나츠",
-          "server": "오9",
-          "season": "22",
-          "connected_at": 1790966597.256693,
-          "sending": false
-        }
-      ],
-      "index": 0,
-      "state": "ready",
-      "deadline": 1790966704.7181375,
-      "retries": [],
-      "offers": {
-        "c341709b321e4593b11e9146f5752f6f": {
-          "runtime": "168c1606bc60463a837bbaceddc2c7f9",
-          "at": 1790966698.1352687
-        }
-      },
-      "routing_generation": 0,
-      "source": {
-        "client_id": "c341709b321e4593b11e9146f5752f6f",
-        "display_id": "c341709b",
-        "runtime": "168c1606bc60463a837bbaceddc2c7f9",
-        "name": "나츠",
-        "server": "오9",
-        "season": "22",
-        "connected_at": 1790966597.256693,
-        "sending": false
-      }
-    },
-    "1555651991399825529": {
-      "query": "schedule",
-      "created": 1790966738.4184182,
-      "candidates": [
-        {
-          "client_id": "c341709b321e4593b11e9146f5752f6f",
-          "display_id": "c341709b",
-          "runtime": "168c1606bc60463a837bbaceddc2c7f9",
-          "name": "나츠",
-          "server": "오9",
-          "season": "22",
-          "connected_at": 1790966597.256693,
-          "sending": true
-        }
-      ],
-      "index": 0,
-      "state": "ready",
-      "deadline": 1790966743.0706348,
-      "retries": [],
-      "offers": {
-        "c341709b321e4593b11e9146f5752f6f": {
-          "runtime": "168c1606bc60463a837bbaceddc2c7f9",
-          "at": 1790966738.1358922
-        }
-      },
-      "routing_generation": 0,
-      "source": {
-        "client_id": "c341709b321e4593b11e9146f5752f6f",
-        "display_id": "c341709b",
-        "runtime": "168c1606bc60463a837bbaceddc2c7f9",
-        "name": "나츠",
-        "server": "오9",
-        "season": "22",
-        "connected_at": 1790966597.256693,
-        "sending": true
-      }
+      "offers": {},
+      "routing_generation": 0
     }
   },
   "responder": {},
