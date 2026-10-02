@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "guild": "1386707538908676267",
+  "requests": {
+    "1555651421838385314": {
+      "query": "help",
+      "created": 1790966603.4306598,
+      "state": "opening",
+      "offers": {
+        "c341709b321e4593b11e9146f5752f6f": {
+          "runtime": "168c1606bc60463a837bbaceddc2c7f9",
+          "at": 1790966603.1364021
+        }
+      }
+    }
+  },
+  "responder": {},
+  "routing_generation": 0
+}
