@@ -14,15 +14,15 @@
       "name": "나츠",
       "server": "오9",
       "season": "22",
-      "online": false,
+      "online": true,
       "runtime": "3ab058318a014e98816f152ca37a6808",
-      "seen": 1790958229.801795,
+      "seen": 1790958234.8562288,
       "protocol": 2
     }
   },
   "request": "fc7455627cb14d1d90a60e10d7717324",
   "receiver": "",
-  "updated": 1790958229.801795,
+  "updated": 1790958234.8562288,
   "receiver_runtime": "826d130b40ef4d0185695304a632b4d7",
   "deadline": 1790958195.717282,
   "released": true,
