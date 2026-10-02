@@ -7,13 +7,13 @@
   },
   "owner": "12f05e163dd34f3b9d3744466dcca66d",
   "receiver": "12f05e163dd34f3b9d3744466dcca66d",
-  "request": "461a49a14f4e48aa93fb35b2c916b7fa",
-  "phase": "failed",
-  "deadline": 1790952296.105226,
-  "updated": 1790952296.407411,
+  "request": "694f54381ade4a7db10b8bd67cff7c37",
+  "phase": "joining",
+  "deadline": 1790952836.5995996,
+  "updated": 1790952656.5995996,
   "released": true,
-  "message": "봇 접속 제한시간을 초과했습니다.",
+  "message": "접속 준비",
   "artifact": null,
-  "connection": "연결 중",
-  "sync": "완료 (기존 담당자 없음 · 로컬 자료 유지)"
+  "connection": "대기",
+  "sync": "기존 로컬 자료 유지"
 }
