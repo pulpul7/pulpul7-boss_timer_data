@@ -19,19 +19,17 @@
       "seen": 1790963643.194038,
       "protocol": 2,
       "call": {
-        "id": "1555638543957626881",
+        "id": "1555639024281059358",
         "runtime": "90295c77dd784ab0960387cd726f0c80",
-        "channel": "1386707540108251200",
-        "state": "done",
-        "expires": 1790963542.6587894,
-        "ok": true,
-        "message": "관리자 · 송출 중 (로컬 스케줄 유지 · 동기화는 수동)"
+        "channel": "1544513766614372392",
+        "state": "pending",
+        "expires": 1790963657.6901045
       }
     }
   },
   "request": "f8e3b1a333ad4991b3eebc0f69fd1ebb",
   "receiver": "",
-  "updated": 1790963643.194038,
+  "updated": 1790963647.6901045,
   "receiver_runtime": "90295c77dd784ab0960387cd726f0c80",
   "deadline": 1790963564.9180381,
   "released": true,
