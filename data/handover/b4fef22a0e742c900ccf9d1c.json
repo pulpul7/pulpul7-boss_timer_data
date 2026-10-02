@@ -8,12 +8,12 @@
   "owner": "12f05e163dd34f3b9d3744466dcca66d",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
   "request": "7e49cac9a51745c2a8a8ffd24a4335d6",
-  "phase": "requested",
+  "phase": "uploading",
   "deadline": 1790928805.7843063,
-  "updated": 1790928625.7843063,
+  "updated": 1790928628.1948748,
   "released": false,
-  "message": "기존 관리자 응답 대기",
+  "message": "기존 관리자 스케줄 업로드 중",
   "artifact": null,
-  "connection": "대기",
-  "sync": "대기"
+  "connection": "기존 관리자 연결 유지",
+  "sync": "업로드 중"
 }
