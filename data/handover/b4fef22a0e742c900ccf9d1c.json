@@ -7,13 +7,13 @@
   },
   "owner": "12f05e163dd34f3b9d3744466dcca66d",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
-  "request": "eabbc2919c464e19b66c0b893caf0756",
-  "phase": "failed",
-  "deadline": 1790928479.624356,
-  "updated": 1790928304.8272786,
+  "request": "35c3509640ee40a195b3aeff98ba97cf",
+  "phase": "requested",
+  "deadline": 1790928573.087886,
+  "updated": 1790928393.087886,
   "released": false,
-  "message": "업로드가 생략되었거나 현재 스케줄과 서버 자료가 다릅니다. 기존 운영을 유지합니다.",
+  "message": "기존 관리자 응답 대기",
   "artifact": null,
-  "connection": "기존 관리자 연결 유지",
-  "sync": "업로드 중"
+  "connection": "대기",
+  "sync": "대기"
 }
