@@ -14,9 +14,9 @@
       "name": "나츠",
       "server": "오9",
       "season": "18",
-      "online": false,
-      "runtime": "",
-      "seen": 1790982987.6462922,
+      "online": true,
+      "runtime": "0a18fbbed233499c8bbf10d2dc658881",
+      "seen": 1790982992.5334635,
       "protocol": 2,
       "call": {
         "id": "1555660566532464861",
@@ -27,12 +27,12 @@
         "ok": true,
         "message": "관리자 · 송출 중 (로컬 스케줄 유지 · 동기화는 수동)"
       },
-      "connected_at": 0.0
+      "connected_at": 1790982991.2793572
     }
   },
   "request": "9e0d2507e2c845c1972e3ebfb16eed36",
   "receiver": "",
-  "updated": 1790982987.6462922,
+  "updated": 1790982992.5334635,
   "receiver_runtime": "5cf3c77c44724921ae34fb514714bb62",
   "deadline": 1790981819.0854044,
   "released": true,
