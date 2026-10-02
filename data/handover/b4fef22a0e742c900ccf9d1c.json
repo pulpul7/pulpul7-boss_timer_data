@@ -6,14 +6,14 @@
     "season": "19"
   },
   "owner": "12f05e163dd34f3b9d3744466dcca66d",
-  "receiver": "12f05e163dd34f3b9d3744466dcca66d",
-  "request": "c8fa14eef15c4681bfba5c0f535ba294",
-  "phase": "active",
-  "deadline": 1790929149.1783738,
-  "updated": 1790928982.8488157,
-  "released": true,
-  "message": "인계 완료 · 운영 시작",
+  "receiver": "c341709b321e4593b11e9146f5752f6f",
+  "request": "019263787603437a9dea092fd4dd6f2e",
+  "phase": "requested",
+  "deadline": 1790929177.7627552,
+  "updated": 1790928997.7627552,
+  "released": false,
+  "message": "기존 관리자 응답 대기",
   "artifact": null,
-  "connection": "완료",
-  "sync": "완료"
+  "connection": "대기",
+  "sync": "대기"
 }
