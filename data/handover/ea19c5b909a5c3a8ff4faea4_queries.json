@@ -79,13 +79,29 @@
     "1555651620833071135": {
       "query": "help",
       "created": 1790966650.4236312,
-      "state": "opening",
+      "candidates": [
+        {
+          "client_id": "c341709b321e4593b11e9146f5752f6f",
+          "display_id": "c341709b",
+          "runtime": "168c1606bc60463a837bbaceddc2c7f9",
+          "name": "나츠",
+          "server": "오9",
+          "season": "22",
+          "connected_at": 1790966597.256693,
+          "sending": true
+        }
+      ],
+      "index": 0,
+      "state": "pending",
+      "deadline": 1790966655.1187527,
+      "retries": [],
       "offers": {
         "c341709b321e4593b11e9146f5752f6f": {
           "runtime": "168c1606bc60463a837bbaceddc2c7f9",
           "at": 1790966650.1436918
         }
-      }
+      },
+      "routing_generation": 0
     }
   },
   "responder": {},
