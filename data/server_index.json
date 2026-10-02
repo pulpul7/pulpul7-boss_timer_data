@@ -1,7 +1,7 @@
 {
   "appMinVersion": "1.2.0",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.10.02.001",
+  "dataVersion": "2026.10.02.002",
   "servers": [
     {
       "id": "오8",
@@ -30,20 +30,6 @@
       "bossConfigVersion": "2026.09.16.006",
       "bossConfigHash": "130debb265b51ea52eb389e65f3c460ae7f890d3",
       "updatedAt": "2026-10-01 20:46:51"
-    },
-    {
-      "id": "오딘8",
-      "name": "오딘8",
-      "schedule": "data/schedules/오딘8.json",
-      "bosses": "data/bosses/오딘8.json",
-      "config": "data/config/오딘8.json",
-      "notices": "data/notices/오딘8.json",
-      "scheduleVersion": "2026.09.30.012",
-      "bossConfigVersion": "2026.09.10.009",
-      "scheduleHash": "059308635d842945348ce3b2b05bcfa0b0a8f1da",
-      "bossConfigHash": "489dab10dbd73323da6f1506cd0a7e5b693daf7f",
-      "dataVersion": "2026.10.01.007",
-      "updatedAt": "2026-10-01 22:13:45"
     }
   ]
 }
