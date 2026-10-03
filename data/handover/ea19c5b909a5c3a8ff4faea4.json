@@ -42,12 +42,12 @@
   },
   "request": "3cb838a735104b83a127e0ef39e94ae1",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
-  "updated": 1790988532.6253126,
+  "updated": 1790988535.238228,
   "receiver_runtime": "a5ec4c95d24841af86f7ea84fb177fd6",
   "deadline": 1790988542.6253126,
-  "released": false,
+  "released": true,
   "channel": "1386707540108251200",
-  "upload": "대기",
+  "upload": "성공",
   "query_responder": {},
   "query_routing_generation": 0
 }
