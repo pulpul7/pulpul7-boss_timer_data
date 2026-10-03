@@ -9,7 +9,19 @@
   "owner_runtime": "",
   "generation": 0,
   "phase": "idle",
-  "members": {},
+  "members": {
+    "a574e2ff860d463b8a727643047feac7": {
+      "name": "접속",
+      "server": "오딘8",
+      "season": "1",
+      "online": true,
+      "runtime": "a6748f43d69c4db48df17f23cc213295",
+      "connected_at": 1791012559.340641,
+      "seen": 1791012582.2559054,
+      "protocol": 2
+    }
+  },
   "request": "",
-  "receiver": ""
+  "receiver": "",
+  "updated": 1791012582.2559054
 }
