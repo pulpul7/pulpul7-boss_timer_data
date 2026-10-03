@@ -25,15 +25,15 @@
       "server": "오8",
       "season": "19",
       "online": false,
-      "runtime": "",
+      "runtime": "ba23a36af1f54cbca7c20b27b9fff2f3",
       "connected_at": 0.0,
-      "seen": 1791040641.8974295,
+      "seen": 1791040646.6093373,
       "protocol": 2
     }
   },
   "request": "0cc331972633476599dbc85d0a46607c",
   "receiver": "",
-  "updated": 1791040641.8974295,
+  "updated": 1791040646.6093373,
   "receiver_runtime": "7dbb52d105cc4177b85c23e7bd3434df",
   "deadline": 1791012914.5150383,
   "released": true,
