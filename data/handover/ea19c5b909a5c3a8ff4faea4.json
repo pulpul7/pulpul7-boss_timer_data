@@ -5,10 +5,10 @@
     "server": "오9",
     "season": "18"
   },
-  "owner": "",
-  "owner_runtime": "",
-  "generation": 90,
-  "phase": "idle",
+  "owner": "c341709b321e4593b11e9146f5752f6f",
+  "owner_runtime": "02e4f8812e434795832d9f5da54076ab",
+  "generation": 91,
+  "phase": "joining",
   "members": {
     "c341709b321e4593b11e9146f5752f6f": {
       "name": "나츠",
@@ -40,14 +40,14 @@
       "protocol": 2
     }
   },
-  "request": "cf512ea315f64b638356d418ef8a74b4",
-  "receiver": "",
-  "updated": 1790998644.5187364,
-  "receiver_runtime": "186c95b5661848af894b3c5f4b57621e",
-  "deadline": 1790991322.8692648,
+  "request": "54113d1699be42fc85171930f9d82df4",
+  "receiver": "c341709b321e4593b11e9146f5752f6f",
+  "updated": 1790998654.5353916,
+  "receiver_runtime": "02e4f8812e434795832d9f5da54076ab",
+  "deadline": 1790998684.5353916,
   "released": true,
   "channel": "1386707540108251200",
-  "upload": "실패: 오9: 서버에 더 최신 버전이 있어 업로드하지 않았습니다. 먼저 동기화하세요. (스케쥴 서버=2026.10.03.013, PC=2026.10.03.012)",
+  "upload": "대기",
   "query_responder": {},
   "query_routing_generation": 0
 }
