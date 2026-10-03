@@ -36,13 +36,13 @@
       "online": true,
       "runtime": "186c95b5661848af894b3c5f4b57621e",
       "connected_at": 1790988178.085429,
-      "seen": 1790991118.064235,
+      "seen": 1790991143.0964417,
       "protocol": 2
     }
   },
   "request": "a3e11b04ede1417f9cea091d3bc96c02",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
-  "updated": 1790991140.0863113,
+  "updated": 1790991143.0964417,
   "receiver_runtime": "ad2ce7c894454d668fbcb21ddd32d2b9",
   "deadline": 1790991163.5236075,
   "released": true,
