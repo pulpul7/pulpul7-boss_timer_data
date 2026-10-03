@@ -7,8 +7,8 @@
   },
   "owner": "c341709b321e4593b11e9146f5752f6f",
   "owner_runtime": "36b4431535a145959ab754cc53515da0",
-  "generation": 106,
-  "phase": "active",
+  "generation": 107,
+  "phase": "requested",
   "members": {
     "c341709b321e4593b11e9146f5752f6f": {
       "name": "나츠",
@@ -40,14 +40,14 @@
       "protocol": 2
     }
   },
-  "request": "17d94927022c4a9e9ae3d734ca652d56",
-  "receiver": "c341709b321e4593b11e9146f5752f6f",
-  "updated": 1791014543.5906198,
-  "receiver_runtime": "36b4431535a145959ab754cc53515da0",
-  "deadline": 1791014545.156505,
-  "released": true,
+  "request": "527b76f85ddb471cb63d268f1b3a7d23",
+  "receiver": "ef9115177ec84ec796aa32d22292ab59",
+  "updated": 1791014547.9895132,
+  "receiver_runtime": "201053237eec4a408b1d669abff8d430",
+  "deadline": 1791014557.9895132,
+  "released": false,
   "channel": "1386707540108251200",
-  "upload": "오9 스케쥴/보스설정을 GitHub에 업로드했습니다. schedule=2026.10.03.014, boss=2026.09.16.006",
+  "upload": "대기",
   "query_responder": {},
   "query_routing_generation": 0
 }
