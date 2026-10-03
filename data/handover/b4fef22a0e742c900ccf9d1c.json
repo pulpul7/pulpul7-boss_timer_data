@@ -5,10 +5,10 @@
     "server": "오딘8",
     "season": "1"
   },
-  "owner": "a574e2ff860d463b8a727643047feac7",
-  "owner_runtime": "a6748f43d69c4db48df17f23cc213295",
-  "generation": 1,
-  "phase": "active",
+  "owner": "",
+  "owner_runtime": "",
+  "generation": 2,
+  "phase": "idle",
   "members": {
     "a574e2ff860d463b8a727643047feac7": {
       "name": "접속",
@@ -22,8 +22,8 @@
     }
   },
   "request": "b8c2f991cace4de8b45591e37da6d0c3",
-  "receiver": "a574e2ff860d463b8a727643047feac7",
-  "updated": 1791012587.2543378,
+  "receiver": "",
+  "updated": 1791012599.827164,
   "receiver_runtime": "a6748f43d69c4db48df17f23cc213295",
   "deadline": 1791012613.5384347,
   "released": true,
