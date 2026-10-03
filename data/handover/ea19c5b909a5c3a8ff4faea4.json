@@ -16,7 +16,7 @@
       "season": "18",
       "online": true,
       "runtime": "a5ec4c95d24841af86f7ea84fb177fd6",
-      "seen": 1790988201.937652,
+      "seen": 1790988219.0345325,
       "protocol": 2,
       "call": {
         "id": "1555660566532464861",
@@ -42,7 +42,7 @@
   },
   "request": "c0a475a3deb140a9b964115d72f0257c",
   "receiver": "ef9115177ec84ec796aa32d22292ab59",
-  "updated": 1790988212.9551272,
+  "updated": 1790988219.0345325,
   "receiver_runtime": "186c95b5661848af894b3c5f4b57621e",
   "deadline": 1790988238.9116766,
   "released": true,
