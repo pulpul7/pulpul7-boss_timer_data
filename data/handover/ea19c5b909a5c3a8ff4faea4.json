@@ -42,12 +42,12 @@
   },
   "request": "b4c3e0b1c8bf420db5184af562ae553c",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
-  "updated": 1791012249.7649384,
+  "updated": 1791012251.6450875,
   "receiver_runtime": "36b4431535a145959ab754cc53515da0",
   "deadline": 1791012255.170332,
-  "released": false,
+  "released": true,
   "channel": "1386707540108251200",
-  "upload": "대기",
+  "upload": "실패: GitHub API 오류 409: is at a39979a486371203b1f92bc6b7b38526782f48a2 but expected faecaa1931667f71186483d02a0ae4b32a667b0c",
   "query_responder": {},
   "query_routing_generation": 0
 }
