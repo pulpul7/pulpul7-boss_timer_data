@@ -1,19 +1,15 @@
 {
-  "schema": 1,
+  "schema": 2,
   "scope": {
     "guild": "969555578215075860",
-    "server": "오8",
-    "season": "19"
+    "server": "오딘8",
+    "season": "1"
   },
-  "owner": "12f05e163dd34f3b9d3744466dcca66d",
-  "receiver": "12f05e163dd34f3b9d3744466dcca66d",
-  "request": "694f54381ade4a7db10b8bd67cff7c37",
-  "phase": "active",
-  "deadline": 1790952836.5995996,
-  "updated": 1790952671.6312304,
-  "released": true,
-  "message": "인계 완료 · 운영 시작",
-  "artifact": null,
-  "connection": "완료",
-  "sync": "완료"
+  "owner": "",
+  "owner_runtime": "",
+  "generation": 0,
+  "phase": "idle",
+  "members": {},
+  "request": "",
+  "receiver": ""
 }
