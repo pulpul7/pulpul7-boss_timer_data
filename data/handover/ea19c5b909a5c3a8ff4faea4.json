@@ -7,8 +7,8 @@
   },
   "owner": "c341709b321e4593b11e9146f5752f6f",
   "owner_runtime": "a5ec4c95d24841af86f7ea84fb177fd6",
-  "generation": 71,
-  "phase": "active",
+  "generation": 72,
+  "phase": "requested",
   "members": {
     "c341709b321e4593b11e9146f5752f6f": {
       "name": "나츠",
@@ -40,14 +40,14 @@
       "protocol": 2
     }
   },
-  "request": "3cb838a735104b83a127e0ef39e94ae1",
-  "receiver": "c341709b321e4593b11e9146f5752f6f",
-  "updated": 1790988559.193034,
-  "receiver_runtime": "a5ec4c95d24841af86f7ea84fb177fd6",
-  "deadline": 1790988567.0491717,
-  "released": true,
+  "request": "c0852b151a84420699f299985a4624b1",
+  "receiver": "ef9115177ec84ec796aa32d22292ab59",
+  "updated": 1790988571.8485281,
+  "receiver_runtime": "186c95b5661848af894b3c5f4b57621e",
+  "deadline": 1790988581.8485281,
+  "released": false,
   "channel": "1386707540108251200",
-  "upload": "성공",
+  "upload": "대기",
   "query_responder": {},
   "query_routing_generation": 0
 }
