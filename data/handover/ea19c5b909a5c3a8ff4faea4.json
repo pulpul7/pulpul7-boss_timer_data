@@ -42,12 +42,12 @@
   },
   "request": "527b76f85ddb471cb63d268f1b3a7d23",
   "receiver": "ef9115177ec84ec796aa32d22292ab59",
-  "updated": 1791014547.9895132,
+  "updated": 1791014553.7256954,
   "receiver_runtime": "201053237eec4a408b1d669abff8d430",
   "deadline": 1791014557.9895132,
-  "released": false,
+  "released": true,
   "channel": "1386707540108251200",
-  "upload": "대기",
+  "upload": "실패: 업로드할 스케쥴 데이터가 없습니다.",
   "query_responder": {},
   "query_routing_generation": 0
 }
