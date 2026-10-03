@@ -42,12 +42,12 @@
   },
   "request": "7a55da0e773040ecb49171ff6ab1d14e",
   "receiver": "ef9115177ec84ec796aa32d22292ab59",
-  "updated": 1791012191.287877,
+  "updated": 1791012193.5838404,
   "receiver_runtime": "bde93c4ca4ea434e953e5b4c1ef7253d",
   "deadline": 1791012200.0936563,
-  "released": false,
+  "released": true,
   "channel": "1386707540108251200",
-  "upload": "대기",
+  "upload": "실패: 오9: 서버에 더 최신 버전이 있어 업로드하지 않았습니다. 먼저 동기화하세요. (스케쥴 서버=2026.10.03.013, PC=2026.10.03.012)",
   "query_responder": {},
   "query_routing_generation": 0
 }
