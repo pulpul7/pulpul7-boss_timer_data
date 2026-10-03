@@ -12,18 +12,18 @@
   "members": {
     "a574e2ff860d463b8a727643047feac7": {
       "name": "접속",
-      "server": "오딘8",
+      "server": "오8",
       "season": "18",
       "online": true,
       "runtime": "7dbb52d105cc4177b85c23e7bd3434df",
       "connected_at": 1791012852.9028084,
-      "seen": 1791012854.5125532,
+      "seen": 1791012879.218876,
       "protocol": 2
     }
   },
   "request": "b8c2f991cace4de8b45591e37da6d0c3",
   "receiver": "",
-  "updated": 1791012854.5125532,
+  "updated": 1791012879.218876,
   "receiver_runtime": "a6748f43d69c4db48df17f23cc213295",
   "deadline": 1791012613.5384347,
   "released": true,
