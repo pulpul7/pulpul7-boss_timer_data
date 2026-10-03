@@ -23,10 +23,12 @@
   },
   "request": "b8c2f991cace4de8b45591e37da6d0c3",
   "receiver": "a574e2ff860d463b8a727643047feac7",
-  "updated": 1791012583.5384347,
+  "updated": 1791012585.8584516,
   "receiver_runtime": "a6748f43d69c4db48df17f23cc213295",
   "deadline": 1791012613.5384347,
   "released": true,
   "channel": "1189925955049885808",
-  "upload": "대기"
+  "upload": "대기",
+  "query_responder": {},
+  "query_routing_generation": 0
 }
