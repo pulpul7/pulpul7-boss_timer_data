@@ -27,7 +27,7 @@
       "online": true,
       "runtime": "ba23a36af1f54cbca7c20b27b9fff2f3",
       "connected_at": 1791106208.1782203,
-      "seen": 1791118757.4425757,
+      "seen": 1791118777.468323,
       "protocol": 2,
       "call": {
         "id": "1556284319348166747",
@@ -42,7 +42,7 @@
   },
   "request": "4ed5d3908fde4930967e245d18f23286",
   "receiver": "12f05e163dd34f3b9d3744466dcca66d",
-  "updated": 1791118757.4425757,
+  "updated": 1791118777.468323,
   "receiver_runtime": "ba23a36af1f54cbca7c20b27b9fff2f3",
   "deadline": 1791117529.0953755,
   "released": true,
