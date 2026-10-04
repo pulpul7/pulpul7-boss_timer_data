@@ -22,12 +22,25 @@
       "protocol": 3,
       "presence_mode": "event",
       "seen": 1791134743.6995926
+    },
+    "ef9115177ec84ec796aa32d22292ab59": {
+      "name": "승아",
+      "server": "오9",
+      "season": "18",
+      "application_id": "1318071729083650089",
+      "bot_user_id": "1318071729083650089",
+      "online": true,
+      "runtime": "6d023101b53f4f6f8a2bf8a54490fc76",
+      "connected_at": 1791134985.5213494,
+      "protocol": 3,
+      "presence_mode": "event",
+      "seen": 1791134987.648007
     }
   },
   "request": "d106f2891740429796732cb7117d1820",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1791134762.2147887,
+  "updated": 1791134987.648007,
   "receiver_runtime": "6ec7e0e5f7a14dd8bd51b485dab7cc02",
   "deadline": 1791134788.6712353,
   "released": true,
