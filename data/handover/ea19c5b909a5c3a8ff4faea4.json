@@ -1,5 +1,5 @@
 {
-  "schema": 2,
+  "schema": 3,
   "scope": {
     "guild": "1386707538908676267",
     "server": "오9",
@@ -7,47 +7,9 @@
   },
   "owner": "",
   "owner_runtime": "",
-  "generation": 121,
+  "generation": 0,
   "phase": "idle",
-  "members": {
-    "c341709b321e4593b11e9146f5752f6f": {
-      "name": "나츠",
-      "server": "오9",
-      "season": "18",
-      "online": false,
-      "runtime": "",
-      "seen": 1791126216.8418136,
-      "protocol": 2,
-      "call": {
-        "id": "1555855706224205844",
-        "runtime": "36b4431535a145959ab754cc53515da0",
-        "channel": "1386707540108251200",
-        "state": "done",
-        "expires": 1791015318.7060277,
-        "ok": true,
-        "message": "관리자 · 송출 중 (로컬 스케줄 유지 · 동기화는 수동)"
-      },
-      "connected_at": 0.0
-    },
-    "ef9115177ec84ec796aa32d22292ab59": {
-      "name": "승아",
-      "server": "오9",
-      "season": "18",
-      "online": true,
-      "runtime": "201053237eec4a408b1d669abff8d430",
-      "connected_at": 1791013010.1038687,
-      "seen": 1791014708.5153956,
-      "protocol": 2
-    }
-  },
-  "request": "afd73f9e245647f5a4440c57762f6951",
-  "receiver": "",
-  "updated": 1791126224.881622,
-  "receiver_runtime": "dffb044a30d54844b5cad69991a0ca9d",
-  "deadline": 1791100110.9712198,
-  "released": true,
-  "channel": "1386707540108251200",
-  "upload": "대기",
-  "query_responder": {},
-  "query_routing_generation": 0
+  "members": {},
+  "request": "",
+  "receiver": ""
 }
