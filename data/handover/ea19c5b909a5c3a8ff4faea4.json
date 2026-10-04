@@ -39,15 +39,17 @@
         "id": "1556360340378493191",
         "runtime": "6d023101b53f4f6f8a2bf8a54490fc76",
         "channel": "1386707540108251200",
-        "state": "accepted",
-        "expires": 1791135654.521023
+        "state": "done",
+        "expires": 1791135654.521023,
+        "ok": true,
+        "message": "관리자 · 송출 중 (로컬 스케줄 유지 · 동기화는 수동)"
       }
     }
   },
   "request": "336ac8f56ef14e639180763b69d3c8c4",
   "receiver": "ef9115177ec84ec796aa32d22292ab59",
   "control_channel": "1544243856525230132",
-  "updated": 1791135638.1521,
+  "updated": 1791135639.735631,
   "receiver_runtime": "6d023101b53f4f6f8a2bf8a54490fc76",
   "deadline": 1791135664.4347863,
   "released": true,
