@@ -8,7 +8,7 @@
   "owner": "12f05e163dd34f3b9d3744466dcca66d",
   "owner_runtime": "79711305d51442019de0cc4dd7a6ff41",
   "generation": 8,
-  "phase": "joining",
+  "phase": "active",
   "members": {
     "a574e2ff860d463b8a727643047feac7": {
       "name": "접속",
@@ -42,7 +42,7 @@
   },
   "request": "e08d6fe6a4934260923cb683c1c4a41d",
   "receiver": "12f05e163dd34f3b9d3744466dcca66d",
-  "updated": 1791121778.487953,
+  "updated": 1791121781.083734,
   "receiver_runtime": "79711305d51442019de0cc4dd7a6ff41",
   "deadline": 1791121808.487953,
   "released": true,
