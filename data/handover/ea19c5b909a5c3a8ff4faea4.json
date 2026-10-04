@@ -27,7 +27,7 @@
   "request": "bed5754710234b9ebe8b7894a4112a2a",
   "receiver": "",
   "control_channel": "1544243856525230132",
-  "updated": 1791133559.8064394,
+  "updated": 1791133561.496675,
   "receiver_runtime": "cfa5a2f2d3124f9890c2c907575979a4",
   "deadline": 1791132621.6856542,
   "released": true,
@@ -43,5 +43,7 @@
   "failure_request": "",
   "release_proof": {},
   "owner_application_id": "",
-  "owner_bot_user_id": ""
+  "owner_bot_user_id": "",
+  "query_responder": {},
+  "query_routing_generation": 0
 }
