@@ -28,12 +28,19 @@
       "runtime": "ba23a36af1f54cbca7c20b27b9fff2f3",
       "connected_at": 1791106208.1782203,
       "seen": 1791117480.6629372,
-      "protocol": 2
+      "protocol": 2,
+      "call": {
+        "id": "1556284319348166747",
+        "runtime": "ba23a36af1f54cbca7c20b27b9fff2f3",
+        "channel": "",
+        "state": "pending",
+        "expires": 1791117507.6052191
+      }
     }
   },
   "request": "66d1e2ff7709497a949cbdce5c165d1a",
   "receiver": "12f05e163dd34f3b9d3744466dcca66d",
-  "updated": 1791117480.6629372,
+  "updated": 1791117497.6052191,
   "receiver_runtime": "ba23a36af1f54cbca7c20b27b9fff2f3",
   "deadline": 1791040813.5426052,
   "released": true,
