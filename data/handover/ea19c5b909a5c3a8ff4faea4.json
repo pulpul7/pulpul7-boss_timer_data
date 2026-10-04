@@ -21,7 +21,14 @@
       "connected_at": 1791134743.1066196,
       "protocol": 3,
       "presence_mode": "event",
-      "seen": 1791134743.6995926
+      "seen": 1791134743.6995926,
+      "call": {
+        "id": "1556360935944224808",
+        "runtime": "6ec7e0e5f7a14dd8bd51b485dab7cc02",
+        "channel": "1386707540108251200",
+        "state": "pending",
+        "expires": 1791135796.5741205
+      }
     },
     "ef9115177ec84ec796aa32d22292ab59": {
       "name": "승아",
@@ -49,7 +56,7 @@
   "request": "336ac8f56ef14e639180763b69d3c8c4",
   "receiver": "ef9115177ec84ec796aa32d22292ab59",
   "control_channel": "1544243856525230132",
-  "updated": 1791135639.735631,
+  "updated": 1791135766.5741205,
   "receiver_runtime": "6d023101b53f4f6f8a2bf8a54490fc76",
   "deadline": 1791135664.4347863,
   "released": true,
