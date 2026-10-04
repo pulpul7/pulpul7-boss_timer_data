@@ -34,13 +34,20 @@
       "connected_at": 1791134985.5213494,
       "protocol": 3,
       "presence_mode": "event",
-      "seen": 1791134987.648007
+      "seen": 1791134987.648007,
+      "call": {
+        "id": "1556360340378493191",
+        "runtime": "6d023101b53f4f6f8a2bf8a54490fc76",
+        "channel": "1386707540108251200",
+        "state": "pending",
+        "expires": 1791135654.521023
+      }
     }
   },
   "request": "cb60fee6446c4cad9dfb46a88a9e59b5",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1791135158.5218844,
+  "updated": 1791135624.521023,
   "receiver_runtime": "6ec7e0e5f7a14dd8bd51b485dab7cc02",
   "deadline": 1791135184.8126998,
   "released": true,
