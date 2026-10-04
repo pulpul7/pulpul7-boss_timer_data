@@ -7,8 +7,8 @@
   },
   "owner": "12f05e163dd34f3b9d3744466dcca66d",
   "owner_runtime": "ba23a36af1f54cbca7c20b27b9fff2f3",
-  "generation": 5,
-  "phase": "active",
+  "generation": 6,
+  "phase": "joining",
   "members": {
     "a574e2ff860d463b8a727643047feac7": {
       "name": "접속",
@@ -33,16 +33,16 @@
         "id": "1556284319348166747",
         "runtime": "ba23a36af1f54cbca7c20b27b9fff2f3",
         "channel": "",
-        "state": "pending",
+        "state": "accepted",
         "expires": 1791117507.6052191
       }
     }
   },
-  "request": "66d1e2ff7709497a949cbdce5c165d1a",
+  "request": "4ed5d3908fde4930967e245d18f23286",
   "receiver": "12f05e163dd34f3b9d3744466dcca66d",
-  "updated": 1791117497.6052191,
+  "updated": 1791117499.0953755,
   "receiver_runtime": "ba23a36af1f54cbca7c20b27b9fff2f3",
-  "deadline": 1791040813.5426052,
+  "deadline": 1791117529.0953755,
   "released": true,
   "channel": "1189925955049885808",
   "upload": "대기",
