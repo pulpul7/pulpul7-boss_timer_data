@@ -9,7 +9,23 @@
   "owner_runtime": "",
   "generation": 0,
   "phase": "idle",
-  "members": {},
+  "members": {
+    "c341709b321e4593b11e9146f5752f6f": {
+      "name": "나츠",
+      "server": "오9",
+      "season": "18",
+      "application_id": "1318071729083650089",
+      "bot_user_id": "1318071729083650089",
+      "online": true,
+      "runtime": "cfa5a2f2d3124f9890c2c907575979a4",
+      "connected_at": 1791132561.2324288,
+      "protocol": 3,
+      "presence_mode": "event",
+      "seen": 1791132588.4749212
+    }
+  },
   "request": "",
-  "receiver": ""
+  "receiver": "",
+  "control_channel": "1544243856525230132",
+  "updated": 1791132588.4749212
 }
