@@ -5,10 +5,10 @@
     "server": "오8",
     "season": "19"
   },
-  "owner": "12f05e163dd34f3b9d3744466dcca66d",
-  "owner_runtime": "ba23a36af1f54cbca7c20b27b9fff2f3",
-  "generation": 6,
-  "phase": "active",
+  "owner": "",
+  "owner_runtime": "",
+  "generation": 7,
+  "phase": "idle",
   "members": {
     "a574e2ff860d463b8a727643047feac7": {
       "name": "접속",
@@ -41,8 +41,8 @@
     }
   },
   "request": "4ed5d3908fde4930967e245d18f23286",
-  "receiver": "12f05e163dd34f3b9d3744466dcca66d",
-  "updated": 1791121731.5240169,
+  "receiver": "",
+  "updated": 1791121742.8553643,
   "receiver_runtime": "ba23a36af1f54cbca7c20b27b9fff2f3",
   "deadline": 1791117529.0953755,
   "released": true,
