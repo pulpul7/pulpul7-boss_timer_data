@@ -1,5 +1,5 @@
 {
-  "schema": 2,
+  "schema": 3,
   "scope": {
     "guild": "969555578215075860",
     "server": "오8",
@@ -7,47 +7,9 @@
   },
   "owner": "",
   "owner_runtime": "",
-  "generation": 9,
+  "generation": 0,
   "phase": "idle",
-  "members": {
-    "a574e2ff860d463b8a727643047feac7": {
-      "name": "접속",
-      "server": "오8",
-      "season": "18",
-      "online": true,
-      "runtime": "d9808a2df76f49aa9cff663d9b32221f",
-      "connected_at": 1791019132.6823635,
-      "seen": 1791019479.214668,
-      "protocol": 2
-    },
-    "12f05e163dd34f3b9d3744466dcca66d": {
-      "name": "듬직",
-      "server": "오8",
-      "season": "18",
-      "online": true,
-      "runtime": "79711305d51442019de0cc4dd7a6ff41",
-      "connected_at": 1791237983.247848,
-      "seen": 1791239518.3998706,
-      "protocol": 2,
-      "call": {
-        "id": "1556284319348166747",
-        "runtime": "ba23a36af1f54cbca7c20b27b9fff2f3",
-        "channel": "",
-        "state": "done",
-        "expires": 1791117507.6052191,
-        "ok": true,
-        "message": "관리자 · 송출 중 (로컬 스케줄 유지 · 동기화는 수동)"
-      }
-    }
-  },
-  "request": "e08d6fe6a4934260923cb683c1c4a41d",
-  "receiver": "",
-  "updated": 1791239537.4822812,
-  "receiver_runtime": "79711305d51442019de0cc4dd7a6ff41",
-  "deadline": 1791121808.487953,
-  "released": true,
-  "channel": "1189925955049885808",
-  "upload": "대기",
-  "query_responder": {},
-  "query_routing_generation": 0
+  "members": {},
+  "request": "",
+  "receiver": ""
 }
