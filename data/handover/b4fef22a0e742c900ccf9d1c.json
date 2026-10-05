@@ -9,7 +9,23 @@
   "owner_runtime": "",
   "generation": 0,
   "phase": "idle",
-  "members": {},
+  "members": {
+    "12f05e163dd34f3b9d3744466dcca66d": {
+      "name": "듬직",
+      "server": "오8",
+      "season": "18",
+      "application_id": "1542441650746302505",
+      "bot_user_id": "1542441650746302505",
+      "online": true,
+      "runtime": "858100ee92dd4188b1d0f9d9733b3f4f",
+      "connected_at": 1791239592.1788251,
+      "protocol": 3,
+      "presence_mode": "event",
+      "seen": 1791239609.1179142
+    }
+  },
   "request": "",
-  "receiver": ""
+  "receiver": "",
+  "control_channel": "969555578215075864",
+  "updated": 1791239609.1179142
 }
