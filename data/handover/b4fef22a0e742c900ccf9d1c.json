@@ -5,10 +5,10 @@
     "server": "오8",
     "season": "18"
   },
-  "owner": "12f05e163dd34f3b9d3744466dcca66d",
-  "owner_runtime": "858100ee92dd4188b1d0f9d9733b3f4f",
-  "generation": 9,
-  "phase": "active",
+  "owner": "",
+  "owner_runtime": "",
+  "generation": 10,
+  "phase": "idle",
   "members": {
     "12f05e163dd34f3b9d3744466dcca66d": {
       "name": "듬직",
@@ -16,7 +16,7 @@
       "season": "18",
       "application_id": "1542441650746302505",
       "bot_user_id": "1542441650746302505",
-      "online": true,
+      "online": false,
       "runtime": "858100ee92dd4188b1d0f9d9733b3f4f",
       "connected_at": 1791239592.1788251,
       "protocol": 3,
@@ -25,9 +25,9 @@
     }
   },
   "request": "c09c7db48de34b008a5482eb23082521",
-  "receiver": "12f05e163dd34f3b9d3744466dcca66d",
+  "receiver": "",
   "control_channel": "969555578215075864",
-  "updated": 1791247501.9934106,
+  "updated": 1791278907.0458674,
   "receiver_runtime": "858100ee92dd4188b1d0f9d9733b3f4f",
   "deadline": 1791239642.258282,
   "released": true,
@@ -42,8 +42,8 @@
   "failure": "",
   "failure_request": "",
   "release_proof": {},
-  "owner_application_id": "1542441650746302505",
-  "owner_bot_user_id": "1542441650746302505",
+  "owner_application_id": "",
+  "owner_bot_user_id": "",
   "query_responder": {},
   "query_routing_generation": 0
 }
