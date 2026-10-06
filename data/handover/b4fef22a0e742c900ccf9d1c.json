@@ -16,18 +16,18 @@
       "season": "18",
       "application_id": "1542441650746302505",
       "bot_user_id": "1542441650746302505",
-      "online": false,
-      "runtime": "858100ee92dd4188b1d0f9d9733b3f4f",
-      "connected_at": 1791239592.1788251,
+      "online": true,
+      "runtime": "50cebce8465446108636e8a59f404087",
+      "connected_at": 1791279139.5283186,
       "protocol": 3,
       "presence_mode": "event",
-      "seen": 1791239609.1179142
+      "seen": 1791279140.7664993
     }
   },
   "request": "c09c7db48de34b008a5482eb23082521",
   "receiver": "",
   "control_channel": "969555578215075864",
-  "updated": 1791278907.0458674,
+  "updated": 1791279140.7664993,
   "receiver_runtime": "858100ee92dd4188b1d0f9d9733b3f4f",
   "deadline": 1791239642.258282,
   "released": true,
