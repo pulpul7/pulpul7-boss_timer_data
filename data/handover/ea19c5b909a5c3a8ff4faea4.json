@@ -16,12 +16,12 @@
       "season": "18",
       "application_id": "1318071729083650089",
       "bot_user_id": "1318071729083650089",
-      "online": false,
-      "runtime": "992ce080042d4370a8ef1e5695b9b219",
-      "connected_at": 1791742432.683375,
+      "online": true,
+      "runtime": "5a9aac7bb93045ccb37df0684639286f",
+      "connected_at": 1791745722.078345,
       "protocol": 3,
       "presence_mode": "event",
-      "seen": 1791742442.4982204,
+      "seen": 1791745730.3470156,
       "call": {
         "id": "1556360935944224808",
         "runtime": "6ec7e0e5f7a14dd8bd51b485dab7cc02",
@@ -30,7 +30,8 @@
         "expires": 1791135796.5741205,
         "ok": true,
         "message": "관리자 · 송출 중 (로컬 스케줄 유지 · 동기화는 수동)"
-      }
+      },
+      "web_delegate_protocol": 1
     },
     "ef9115177ec84ec796aa32d22292ab59": {
       "name": "승아",
@@ -58,7 +59,7 @@
   "request": "89341cebace6420b87e6f8f969afe5d6",
   "receiver": "",
   "control_channel": "1544243856525230132",
-  "updated": 1791745622.2473714,
+  "updated": 1791745730.3470156,
   "receiver_runtime": "992ce080042d4370a8ef1e5695b9b219",
   "deadline": 1791742477.2740147,
   "released": true,
