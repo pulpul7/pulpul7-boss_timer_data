@@ -7,8 +7,8 @@
   },
   "owner": "ef9115177ec84ec796aa32d22292ab59",
   "owner_runtime": "140d5e4819544d4f9af0be2c50da3fc6",
-  "generation": 259,
-  "phase": "active",
+  "generation": 260,
+  "phase": "requested",
   "members": {
     "c341709b321e4593b11e9146f5752f6f": {
       "name": "나츠",
@@ -57,43 +57,30 @@
       "web_delegate_protocol": 1
     }
   },
-  "request": "e79110d378a044aa9dda24beb313418f",
-  "receiver": "ef9115177ec84ec796aa32d22292ab59",
+  "request": "b33678f0b20d4c079ae148b1d6f3447c",
+  "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1791762557.1089597,
-  "receiver_runtime": "140d5e4819544d4f9af0be2c50da3fc6",
-  "deadline": 1791762581.1756315,
-  "released": true,
+  "updated": 1791762714.133593,
+  "receiver_runtime": "7e42354e9d944aaa8927d142d9e52acb",
+  "deadline": 1791762744.133593,
+  "released": false,
   "channel": "1386707540108251200",
   "upload": "대기",
   "previous_owner": [
-    "c341709b321e4593b11e9146f5752f6f",
-    "7e42354e9d944aaa8927d142d9e52acb",
-    257,
-    "3c22b3eaa1df48dbbc5c5a1acee35691"
+    "ef9115177ec84ec796aa32d22292ab59",
+    "140d5e4819544d4f9af0be2c50da3fc6",
+    259,
+    "e79110d378a044aa9dda24beb313418f"
   ],
   "failure": "",
   "failure_request": "",
-  "release_proof": {
-    "kind": "voice_stopped",
-    "client": "c341709b321e4593b11e9146f5752f6f",
-    "runtime": "7e42354e9d944aaa8927d142d9e52acb",
-    "request": "e79110d378a044aa9dda24beb313418f"
-  },
+  "release_proof": {},
   "owner_application_id": "1318071729083650089",
   "owner_bot_user_id": "1318071729083650089",
   "query_responder": {},
   "query_routing_generation": 0,
   "web_transfer": {
-    "request": "e79110d378a044aa9dda24beb313418f",
-    "state": "ready",
-    "web_state_path": "",
-    "entry": {
-      "id": "오9",
-      "name": "오9",
-      "schedule": "data/schedules/오9.json"
-    },
-    "content_hash": "c6bde343095733df9df3726d86598a80efe4d719",
-    "source_season": "18"
+    "request": "b33678f0b20d4c079ae148b1d6f3447c",
+    "state": "pending"
   }
 }
