@@ -5,10 +5,10 @@
     "server": "오9",
     "season": "18"
   },
-  "owner": "",
-  "owner_runtime": "",
-  "generation": 268,
-  "phase": "idle",
+  "owner": "c341709b321e4593b11e9146f5752f6f",
+  "owner_runtime": "4756803541614e4cbe64deacddde6ad8",
+  "generation": 269,
+  "phase": "joining",
   "members": {
     "c341709b321e4593b11e9146f5752f6f": {
       "name": "나츠",
@@ -59,43 +59,30 @@
       "web_public_available": false
     }
   },
-  "request": "c47c20fd1b124e33a1bff80c42941ef4",
-  "receiver": "",
+  "request": "142e5b8e79a742ca878c264103dba215",
+  "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1791765736.5986495,
-  "receiver_runtime": "b6f0b0bd95724821953f9a197a3d9209",
-  "deadline": 1791765264.2960145,
+  "updated": 1791765758.132599,
+  "receiver_runtime": "4756803541614e4cbe64deacddde6ad8",
+  "deadline": 1791765788.132599,
   "released": true,
   "channel": "1386707540108251200",
   "upload": "대기",
   "previous_owner": [
-    "ef9115177ec84ec796aa32d22292ab59",
-    "f46380ce1f544fa5af6888291f53d97a",
-    265,
-    "275e5f38d1d341419eea3451fd2a6251"
+    "",
+    "",
+    268,
+    "c47c20fd1b124e33a1bff80c42941ef4"
   ],
   "failure": "",
   "failure_request": "",
-  "release_proof": {
-    "kind": "voice_stopped",
-    "client": "ef9115177ec84ec796aa32d22292ab59",
-    "runtime": "f46380ce1f544fa5af6888291f53d97a",
-    "request": "c47c20fd1b124e33a1bff80c42941ef4"
-  },
-  "owner_application_id": "",
-  "owner_bot_user_id": "",
+  "release_proof": {},
+  "owner_application_id": "1318071729083650089",
+  "owner_bot_user_id": "1318071729083650089",
   "query_responder": {},
   "query_routing_generation": 0,
   "web_transfer": {
-    "request": "c47c20fd1b124e33a1bff80c42941ef4",
-    "state": "ready",
-    "web_state_path": "",
-    "entry": {
-      "id": "오9",
-      "name": "오9",
-      "schedule": "data/schedules/오9.json"
-    },
-    "content_hash": "a7b2a112ebc97f5b8c58d6b2d3c3ee65d326bb60",
-    "source_season": "18"
+    "request": "142e5b8e79a742ca878c264103dba215",
+    "state": "pending"
   }
 }
