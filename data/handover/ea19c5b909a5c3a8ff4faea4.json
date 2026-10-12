@@ -7,8 +7,8 @@
   },
   "owner": "c341709b321e4593b11e9146f5752f6f",
   "owner_runtime": "a4c6d23936214ed782c9bb01c12e41b8",
-  "generation": 352,
-  "phase": "active",
+  "generation": 353,
+  "phase": "requested",
   "members": {
     "c341709b321e4593b11e9146f5752f6f": {
       "name": "나츠",
@@ -83,35 +83,33 @@
       }
     }
   },
-  "request": "fb64816ebf384c0f8b7631624eb0dbf9",
-  "receiver": "c341709b321e4593b11e9146f5752f6f",
+  "request": "8968c078ad6f40ba9cf24ec1ae91de15",
+  "receiver": "ef9115177ec84ec796aa32d22292ab59",
   "control_channel": "1544243856525230132",
-  "updated": 1791779984.0802941,
-  "receiver_runtime": "a4c6d23936214ed782c9bb01c12e41b8",
-  "deadline": 1791779939.2788742,
-  "released": true,
+  "updated": 1791780069.146731,
+  "receiver_runtime": "696d66f5f6554792a3f806e7d1233e1d",
+  "deadline": 1791780099.146731,
+  "released": false,
   "channel": "1386707540108251200",
   "upload": "대기",
   "previous_owner": [
     "c341709b321e4593b11e9146f5752f6f",
-    "1d83a4d0ff314889a894f60ff2010214",
-    351,
-    "0287056602d64ec1b82faa4952cd3df5"
+    "a4c6d23936214ed782c9bb01c12e41b8",
+    352,
+    "fb64816ebf384c0f8b7631624eb0dbf9"
   ],
   "failure": "",
   "failure_request": "",
-  "release_proof": {
-    "kind": "operator_confirmed"
-  },
+  "release_proof": {},
   "owner_application_id": "1318071729083650089",
   "owner_bot_user_id": "1318071729083650089",
   "query_responder": {},
   "query_routing_generation": 0,
   "web_transfer": {
-    "request": "fb64816ebf384c0f8b7631624eb0dbf9",
+    "request": "8968c078ad6f40ba9cf24ec1ae91de15",
     "state": "pending"
   },
-  "web_standalone": {
+  "web_standalone_previous": {
     "protocol": 1,
     "id": "c51c3a6a25ea4d6ba7d2733e1d21e36d",
     "state": "active",
@@ -120,5 +118,20 @@
     "guild": "1386707538908676267",
     "server": "오9",
     "season": "18"
+  },
+  "web_delegate": {
+    "protocol": 1,
+    "id": "1a3de055de514dc69d28268b372d56a5",
+    "host": "c341709b321e4593b11e9146f5752f6f",
+    "host_runtime": "a4c6d23936214ed782c9bb01c12e41b8",
+    "source": "ef9115177ec84ec796aa32d22292ab59",
+    "source_runtime": "696d66f5f6554792a3f806e7d1233e1d",
+    "generation": 353,
+    "request": "8968c078ad6f40ba9cf24ec1ae91de15",
+    "guild": "1386707538908676267",
+    "server": "오9",
+    "season": "18",
+    "state": "active",
+    "keep_host": false
   }
 }
