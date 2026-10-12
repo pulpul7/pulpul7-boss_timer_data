@@ -76,8 +76,8 @@
         "id": "40177819606622782069627",
         "runtime": "26c10745bd444095aa1a5542f5deec50",
         "action": "stop",
-        "state": "pending",
-        "expires": 1791842998.3856602,
+        "state": "accepted",
+        "expires": 1791843061.4573934,
         "handover_operation": "f0c5b440a8b74d919c94f2866f2dfe5a"
       }
     }
@@ -85,7 +85,7 @@
   "request": "149607315efb48fb889d7a26bb551be5",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1791842989.9051504,
+  "updated": 1791842991.4573934,
   "receiver_runtime": "297f4024e9ab45b789207c7e56141ffa",
   "deadline": 1791843012.8305063,
   "released": true,
