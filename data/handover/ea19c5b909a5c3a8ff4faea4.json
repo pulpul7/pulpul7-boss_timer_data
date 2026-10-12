@@ -66,7 +66,7 @@
   "request": "4344ef50a4fd43079a9edbe8642f7d95",
   "receiver": "ef9115177ec84ec796aa32d22292ab59",
   "control_channel": "1544243856525230132",
-  "updated": 1791777456.8848033,
+  "updated": 1791777511.9464664,
   "receiver_runtime": "0b138efaa9934358ac860b91944f4f14",
   "deadline": 1791777481.9947915,
   "released": true,
@@ -125,5 +125,12 @@
     "season": "18",
     "state": "active",
     "keep_host": false
+  },
+  "web_operation": {
+    "id": "d81945aefa4442e6804ef13b117bdbc0",
+    "owner": "ef9115177ec84ec796aa32d22292ab59",
+    "runtime": "0b138efaa9934358ac860b91944f4f14",
+    "generation": 337,
+    "expires": 1791777661.9464664
   }
 }
