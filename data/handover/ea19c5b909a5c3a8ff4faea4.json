@@ -5,10 +5,10 @@
     "server": "오9",
     "season": "18"
   },
-  "owner": "",
-  "owner_runtime": "",
-  "generation": 322,
-  "phase": "idle",
+  "owner": "ef9115177ec84ec796aa32d22292ab59",
+  "owner_runtime": "cc3879346d274400bb3d28f1c3612781",
+  "generation": 323,
+  "phase": "joining",
   "members": {
     "c341709b321e4593b11e9146f5752f6f": {
       "name": "나츠",
@@ -61,45 +61,30 @@
       "web_recovery_protocol": 1
     }
   },
-  "request": "fa691fd71bfa4fefbe4a1a717e5536ac",
-  "receiver": "",
+  "request": "48caa564292d460b8c17f7b3da56584d",
+  "receiver": "ef9115177ec84ec796aa32d22292ab59",
   "control_channel": "1544243856525230132",
-  "updated": 1791773903.4711413,
-  "receiver_runtime": "413a90b9a9ef4e1c9728683a75d5fdbb",
-  "deadline": 1791773870.990932,
+  "updated": 1791773910.9671097,
+  "receiver_runtime": "cc3879346d274400bb3d28f1c3612781",
+  "deadline": 1791773940.9671097,
   "released": true,
   "channel": "1386707540108251200",
   "upload": "대기",
   "previous_owner": [
     "",
     "",
-    320,
-    "52df17934a1d4cc18b0a64f9f0a13085"
+    322,
+    "fa691fd71bfa4fefbe4a1a717e5536ac"
   ],
   "failure": "",
   "failure_request": "",
   "release_proof": {},
-  "owner_application_id": "",
-  "owner_bot_user_id": "",
+  "owner_application_id": "1318071729083650089",
+  "owner_bot_user_id": "1318071729083650089",
   "query_responder": {},
   "query_routing_generation": 0,
   "web_transfer": {
-    "request": "fa691fd71bfa4fefbe4a1a717e5536ac",
+    "request": "48caa564292d460b8c17f7b3da56584d",
     "state": "pending"
-  },
-  "web_delegate_previous": {
-    "protocol": 1,
-    "id": "b20359051f9d41e2b32020127a2face4",
-    "host": "c341709b321e4593b11e9146f5752f6f",
-    "host_runtime": "413a90b9a9ef4e1c9728683a75d5fdbb",
-    "source": "ef9115177ec84ec796aa32d22292ab59",
-    "source_runtime": "cc3879346d274400bb3d28f1c3612781",
-    "generation": 320,
-    "request": "52df17934a1d4cc18b0a64f9f0a13085",
-    "guild": "1386707538908676267",
-    "server": "오9",
-    "season": "18",
-    "state": "active",
-    "keep_host": false
   }
 }
