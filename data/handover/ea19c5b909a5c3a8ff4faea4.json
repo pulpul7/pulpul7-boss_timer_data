@@ -75,15 +75,15 @@
         "id": "47715051539518568518784",
         "runtime": "7d3d20cf40b34f42a8ac347d6908d7c5",
         "action": "stop",
-        "state": "pending",
-        "expires": 1791781796.9973083
+        "state": "accepted",
+        "expires": 1791781859.6949103
       }
     }
   },
   "request": "037a2e546577419bb508103006cd7038",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1791781786.9973083,
+  "updated": 1791781789.6949103,
   "receiver_runtime": "6a3d3e9f15ff40439ab21ca85257f99f",
   "deadline": 1791781600.8244016,
   "released": true,
