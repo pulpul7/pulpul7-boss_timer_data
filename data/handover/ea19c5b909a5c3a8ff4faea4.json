@@ -40,12 +40,12 @@
       "season": "18",
       "application_id": "1318071729083650089",
       "bot_user_id": "1318071729083650089",
-      "online": false,
-      "runtime": "140d5e4819544d4f9af0be2c50da3fc6",
-      "connected_at": 1791762458.0446353,
+      "online": true,
+      "runtime": "f46380ce1f544fa5af6888291f53d97a",
+      "connected_at": 1791764780.8667057,
       "protocol": 3,
       "presence_mode": "event",
-      "seen": 1791762461.728871,
+      "seen": 1791764781.823199,
       "call": {
         "id": "1556360340378493191",
         "runtime": "6d023101b53f4f6f8a2bf8a54490fc76",
@@ -55,13 +55,14 @@
         "ok": true,
         "message": "관리자 · 송출 중 (로컬 스케줄 유지 · 동기화는 수동)"
       },
-      "web_delegate_protocol": 1
+      "web_delegate_protocol": 1,
+      "web_public_available": false
     }
   },
   "request": "887b19acc10b4c949ce9c6cef196cc54",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1791764650.7070158,
+  "updated": 1791764781.823199,
   "receiver_runtime": "b6f0b0bd95724821953f9a197a3d9209",
   "deadline": 1791764677.1072798,
   "released": true,
