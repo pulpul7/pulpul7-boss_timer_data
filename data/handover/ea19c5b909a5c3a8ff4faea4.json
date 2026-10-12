@@ -5,10 +5,10 @@
     "server": "오9",
     "season": "18"
   },
-  "owner": "",
-  "owner_runtime": "",
-  "generation": 328,
-  "phase": "idle",
+  "owner": "c341709b321e4593b11e9146f5752f6f",
+  "owner_runtime": "413a90b9a9ef4e1c9728683a75d5fdbb",
+  "generation": 329,
+  "phase": "joining",
   "members": {
     "c341709b321e4593b11e9146f5752f6f": {
       "name": "나츠",
@@ -61,67 +61,30 @@
       "web_recovery_protocol": 1
     }
   },
-  "request": "2af14a6e01fe4c388d5a1b01f94b5d7e",
-  "receiver": "",
+  "request": "250c4e57deda4ad9b7f3ff19e16f7874",
+  "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1791774055.0769515,
+  "updated": 1791774063.47191,
   "receiver_runtime": "413a90b9a9ef4e1c9728683a75d5fdbb",
-  "deadline": 1791774067.8609338,
+  "deadline": 1791774093.47191,
   "released": true,
   "channel": "1386707540108251200",
   "upload": "대기",
   "previous_owner": [
     "",
     "",
-    326,
-    "cc43f4843289416cbaa2c66685cbeadf"
+    328,
+    "2af14a6e01fe4c388d5a1b01f94b5d7e"
   ],
   "failure": "",
   "failure_request": "",
   "release_proof": {},
-  "owner_application_id": "",
-  "owner_bot_user_id": "",
+  "owner_application_id": "1318071729083650089",
+  "owner_bot_user_id": "1318071729083650089",
   "query_responder": {},
   "query_routing_generation": 0,
   "web_transfer": {
-    "request": "2af14a6e01fe4c388d5a1b01f94b5d7e",
-    "state": "pending",
-    "web_state_path": "data/web/transfers/2af14a6e01fe4c388d5a1b01f94b5d7e.json"
-  },
-  "web_delegate_previous": {
-    "protocol": 1,
-    "id": "0de8c7ddc88144e2aa405295fbaeda87",
-    "host": "ef9115177ec84ec796aa32d22292ab59",
-    "host_runtime": "cc3879346d274400bb3d28f1c3612781",
-    "source": "c341709b321e4593b11e9146f5752f6f",
-    "source_runtime": "413a90b9a9ef4e1c9728683a75d5fdbb",
-    "generation": 326,
-    "request": "cc43f4843289416cbaa2c66685cbeadf",
-    "guild": "1386707538908676267",
-    "server": "오9",
-    "season": "18",
-    "state": "active",
-    "keep_host": false
-  },
-  "web_return_pending": {
-    "schema": 1,
-    "id": "451687503dc445d2a12cff894109c53b",
-    "backup": {
-      "protocol": 1,
-      "id": "83edd3388a124ae1a3e125d11caf9380",
-      "host": "ef9115177ec84ec796aa32d22292ab59",
-      "host_runtime": "cc3879346d274400bb3d28f1c3612781",
-      "source": "c341709b321e4593b11e9146f5752f6f",
-      "source_runtime": "413a90b9a9ef4e1c9728683a75d5fdbb",
-      "generation": 327,
-      "request": "2af14a6e01fe4c388d5a1b01f94b5d7e",
-      "guild": "1386707538908676267",
-      "server": "오9",
-      "season": "18",
-      "state": "active",
-      "keep_host": true
-    },
-    "started_at": 1791774053.7046735,
-    "deadline": 1791774173.7046735
+    "request": "250c4e57deda4ad9b7f3ff19e16f7874",
+    "state": "pending"
   }
 }
