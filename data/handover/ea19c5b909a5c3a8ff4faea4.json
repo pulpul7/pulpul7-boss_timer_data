@@ -5,10 +5,10 @@
     "server": "오9",
     "season": "18"
   },
-  "owner": "",
-  "owner_runtime": "",
-  "generation": 302,
-  "phase": "idle",
+  "owner": "c341709b321e4593b11e9146f5752f6f",
+  "owner_runtime": "4756803541614e4cbe64deacddde6ad8",
+  "generation": 303,
+  "phase": "joining",
   "members": {
     "c341709b321e4593b11e9146f5752f6f": {
       "name": "나츠",
@@ -59,43 +59,30 @@
       "web_public_available": true
     }
   },
-  "request": "5adeaf1357434686a06dcca6dc3a02fb",
-  "receiver": "",
+  "request": "60ed8a13efb04e1297c5c98c7cfdb79b",
+  "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1791767376.0946023,
-  "receiver_runtime": "f46380ce1f544fa5af6888291f53d97a",
-  "deadline": 1791767322.4240074,
+  "updated": 1791767381.3496447,
+  "receiver_runtime": "4756803541614e4cbe64deacddde6ad8",
+  "deadline": 1791767411.3496447,
   "released": true,
   "channel": "1386707540108251200",
   "upload": "대기",
   "previous_owner": [
-    "c341709b321e4593b11e9146f5752f6f",
-    "4756803541614e4cbe64deacddde6ad8",
-    299,
-    "99e05793b41c4e3b9b822dfe55253518"
+    "",
+    "",
+    302,
+    "5adeaf1357434686a06dcca6dc3a02fb"
   ],
   "failure": "",
   "failure_request": "",
-  "release_proof": {
-    "kind": "voice_stopped",
-    "client": "c341709b321e4593b11e9146f5752f6f",
-    "runtime": "4756803541614e4cbe64deacddde6ad8",
-    "request": "5adeaf1357434686a06dcca6dc3a02fb"
-  },
-  "owner_application_id": "",
-  "owner_bot_user_id": "",
+  "release_proof": {},
+  "owner_application_id": "1318071729083650089",
+  "owner_bot_user_id": "1318071729083650089",
   "query_responder": {},
   "query_routing_generation": 0,
   "web_transfer": {
-    "request": "5adeaf1357434686a06dcca6dc3a02fb",
-    "state": "failed",
-    "web_state_path": "data/web/transfers/5adeaf1357434686a06dcca6dc3a02fb.json",
-    "entry": {
-      "id": "오9",
-      "name": "오9",
-      "schedule": "data/schedules/오9.json"
-    },
-    "content_hash": "8f97fa7ac9887bf2cd810dcf4c62d006a565c215",
-    "source_season": "18"
+    "request": "60ed8a13efb04e1297c5c98c7cfdb79b",
+    "state": "pending"
   }
 }
