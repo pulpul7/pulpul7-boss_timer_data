@@ -88,7 +88,7 @@
   "request": "9571c43e9326490490ef61cfa74dc5c7",
   "receiver": "ef9115177ec84ec796aa32d22292ab59",
   "control_channel": "1544243856525230132",
-  "updated": 1791788298.645274,
+  "updated": 1791788319.8383603,
   "receiver_runtime": "09f3dc1af68040e9ba3b5a55cb5b6288",
   "deadline": 1791788312.4762614,
   "released": true,
@@ -149,5 +149,12 @@
     "state": "active",
     "keep_host": true,
     "restore_after_failure": true
+  },
+  "web_operation": {
+    "id": "225137ecf6ff47f78f135683b7068d54",
+    "owner": "ef9115177ec84ec796aa32d22292ab59",
+    "runtime": "09f3dc1af68040e9ba3b5a55cb5b6288",
+    "generation": 394,
+    "expires": 1791788469.8383603
   }
 }
