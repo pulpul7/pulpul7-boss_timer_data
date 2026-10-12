@@ -66,7 +66,7 @@
   "request": "ccbbf4e2d914432f914e07f4567515b4",
   "receiver": "ef9115177ec84ec796aa32d22292ab59",
   "control_channel": "1544243856525230132",
-  "updated": 1791777354.1066613,
+  "updated": 1791777357.4141145,
   "receiver_runtime": "0b138efaa9934358ac860b91944f4f14",
   "deadline": 1791777384.1066613,
   "released": true,
@@ -92,7 +92,24 @@
   "query_routing_generation": 0,
   "web_transfer": {
     "request": "ccbbf4e2d914432f914e07f4567515b4",
-    "state": "pending"
+    "state": "failed",
+    "web_state_path": "",
+    "entry": {
+      "id": "오9",
+      "name": "오9",
+      "schedule": "data/schedules/오9.json",
+      "bosses": "data/bosses/오9.json",
+      "config": "data/config/오9.json",
+      "notices": "data/notices/오9.json",
+      "scheduleVersion": "2026.10.12.008",
+      "dataVersion": "2026.10.12.008",
+      "scheduleHash": "a7b2a112ebc97f5b8c58d6b2d3c3ee65d326bb60",
+      "bossConfigVersion": "2026.09.16.006",
+      "bossConfigHash": "130debb265b51ea52eb389e65f3c460ae7f890d3",
+      "updatedAt": "2026-10-12 12:55:55"
+    },
+    "content_hash": "c82ffa4ed6e9619dd172af8f32710efb8e35a2b7",
+    "source_season": "18"
   },
   "web_delegate": {
     "protocol": 1,
