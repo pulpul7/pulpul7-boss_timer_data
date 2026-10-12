@@ -88,7 +88,7 @@
   "request": "13aea4987bac48909d8ee3ab71e2785d",
   "receiver": "ef9115177ec84ec796aa32d22292ab59",
   "control_channel": "1544243856525230132",
-  "updated": 1791789329.2528286,
+  "updated": 1791789331.3193119,
   "receiver_runtime": "a5a09acfd5894c5b9d66c6822bf7e805",
   "deadline": 1791789356.383541,
   "released": true,
@@ -146,7 +146,7 @@
     "guild": "1386707538908676267",
     "server": "오9",
     "season": "18",
-    "state": "active",
+    "state": "releasing",
     "keep_host": false
   }
 }
