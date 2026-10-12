@@ -5,10 +5,10 @@
     "server": "오9",
     "season": "18"
   },
-  "owner": "ef9115177ec84ec796aa32d22292ab59",
-  "owner_runtime": "f46380ce1f544fa5af6888291f53d97a",
-  "generation": 276,
-  "phase": "requested",
+  "owner": "c341709b321e4593b11e9146f5752f6f",
+  "owner_runtime": "4756803541614e4cbe64deacddde6ad8",
+  "generation": 277,
+  "phase": "joining",
   "members": {
     "c341709b321e4593b11e9146f5752f6f": {
       "name": "나츠",
@@ -62,9 +62,9 @@
   "request": "9eb9bffc7f9849e7bca152e2cb511f41",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1791765891.0944302,
+  "updated": 1791765892.7921693,
   "receiver_runtime": "4756803541614e4cbe64deacddde6ad8",
-  "deadline": 1791765917.850934,
+  "deadline": 1791765922.7921693,
   "released": true,
   "channel": "1386707540108251200",
   "upload": "대기",
@@ -89,19 +89,5 @@
   "web_transfer": {
     "request": "9eb9bffc7f9849e7bca152e2cb511f41",
     "state": "pending"
-  },
-  "web_delegate_previous": {
-    "protocol": 1,
-    "id": "86c029a2b15d471a9360192161b2c51c",
-    "host": "c341709b321e4593b11e9146f5752f6f",
-    "host_runtime": "4756803541614e4cbe64deacddde6ad8",
-    "source": "ef9115177ec84ec796aa32d22292ab59",
-    "source_runtime": "f46380ce1f544fa5af6888291f53d97a",
-    "generation": 275,
-    "request": "86720763d9054307b61bda6d89ae5ec1",
-    "guild": "1386707538908676267",
-    "server": "오9",
-    "season": "18",
-    "state": "active"
   }
 }
