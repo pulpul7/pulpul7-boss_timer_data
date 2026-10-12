@@ -7,8 +7,8 @@
   },
   "owner": "c341709b321e4593b11e9146f5752f6f",
   "owner_runtime": "6a3d3e9f15ff40439ab21ca85257f99f",
-  "generation": 362,
-  "phase": "active",
+  "generation": 363,
+  "phase": "requested",
   "members": {
     "c341709b321e4593b11e9146f5752f6f": {
       "name": "나츠",
@@ -83,55 +83,33 @@
       }
     }
   },
-  "request": "037a2e546577419bb508103006cd7038",
-  "receiver": "c341709b321e4593b11e9146f5752f6f",
+  "request": "d9d32e74f5c942dabb96f56654f3f25e",
+  "receiver": "ef9115177ec84ec796aa32d22292ab59",
   "control_channel": "1544243856525230132",
-  "updated": 1791781885.5727115,
-  "receiver_runtime": "6a3d3e9f15ff40439ab21ca85257f99f",
-  "deadline": 1791781600.8244016,
-  "released": true,
+  "updated": 1791781960.5628908,
+  "receiver_runtime": "7d3d20cf40b34f42a8ac347d6908d7c5",
+  "deadline": 1791781990.5628908,
+  "released": false,
   "channel": "1386707540108251200",
   "upload": "대기",
   "previous_owner": [
-    "ef9115177ec84ec796aa32d22292ab59",
-    "7d3d20cf40b34f42a8ac347d6908d7c5",
-    360,
-    "524bc53d2c7d4fd8b8f4902e8fe98f91"
+    "c341709b321e4593b11e9146f5752f6f",
+    "6a3d3e9f15ff40439ab21ca85257f99f",
+    362,
+    "037a2e546577419bb508103006cd7038"
   ],
   "failure": "",
   "failure_request": "",
-  "release_proof": {
-    "kind": "voice_stopped",
-    "client": "ef9115177ec84ec796aa32d22292ab59",
-    "runtime": "7d3d20cf40b34f42a8ac347d6908d7c5",
-    "request": "037a2e546577419bb508103006cd7038"
-  },
+  "release_proof": {},
   "owner_application_id": "1318071729083650089",
   "owner_bot_user_id": "1318071729083650089",
   "query_responder": {},
   "query_routing_generation": 0,
   "web_transfer": {
-    "request": "037a2e546577419bb508103006cd7038",
-    "state": "failed",
-    "web_state_path": "",
-    "entry": {
-      "id": "오9",
-      "name": "오9",
-      "schedule": "data/schedules/오9.json",
-      "bosses": "data/bosses/오9.json",
-      "config": "data/config/오9.json",
-      "notices": "data/notices/오9.json",
-      "scheduleVersion": "2026.10.12.008",
-      "dataVersion": "2026.10.12.008",
-      "scheduleHash": "a7b2a112ebc97f5b8c58d6b2d3c3ee65d326bb60",
-      "bossConfigVersion": "2026.09.16.006",
-      "bossConfigHash": "130debb265b51ea52eb389e65f3c460ae7f890d3",
-      "updatedAt": "2026-10-12 12:55:55"
-    },
-    "content_hash": "42100f438d73710d2ab35200a5b88bc57399e749",
-    "source_season": "18"
+    "request": "d9d32e74f5c942dabb96f56654f3f25e",
+    "state": "pending"
   },
-  "web_standalone": {
+  "web_standalone_previous": {
     "protocol": 1,
     "id": "a9097f1ca141457ca4b96f0050b0d1f9",
     "state": "active",
@@ -140,5 +118,20 @@
     "guild": "1386707538908676267",
     "server": "오9",
     "season": "18"
+  },
+  "web_delegate": {
+    "protocol": 1,
+    "id": "1e1a40e443f145cd9a44d00edae04414",
+    "host": "c341709b321e4593b11e9146f5752f6f",
+    "host_runtime": "6a3d3e9f15ff40439ab21ca85257f99f",
+    "source": "ef9115177ec84ec796aa32d22292ab59",
+    "source_runtime": "7d3d20cf40b34f42a8ac347d6908d7c5",
+    "generation": 363,
+    "request": "d9d32e74f5c942dabb96f56654f3f25e",
+    "guild": "1386707538908676267",
+    "server": "오9",
+    "season": "18",
+    "state": "active",
+    "keep_host": false
   }
 }
