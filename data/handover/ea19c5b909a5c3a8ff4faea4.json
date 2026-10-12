@@ -5,10 +5,10 @@
     "server": "오9",
     "season": "18"
   },
-  "owner": "c341709b321e4593b11e9146f5752f6f",
-  "owner_runtime": "b618c4e369b543c481fc83f0a11218cc",
-  "generation": 347,
-  "phase": "active",
+  "owner": "",
+  "owner_runtime": "",
+  "generation": 348,
+  "phase": "idle",
   "members": {
     "c341709b321e4593b11e9146f5752f6f": {
       "name": "나츠",
@@ -16,7 +16,7 @@
       "season": "18",
       "application_id": "1318071729083650089",
       "bot_user_id": "1318071729083650089",
-      "online": true,
+      "online": false,
       "runtime": "b618c4e369b543c481fc83f0a11218cc",
       "connected_at": 1791777223.4991534,
       "protocol": 3,
@@ -84,9 +84,9 @@
     }
   },
   "request": "459cf1dcd7ea42f9aac6023b1ec81ada",
-  "receiver": "c341709b321e4593b11e9146f5752f6f",
+  "receiver": "",
   "control_channel": "1544243856525230132",
-  "updated": 1791779345.9706745,
+  "updated": 1791779632.4033053,
   "receiver_runtime": "b618c4e369b543c481fc83f0a11218cc",
   "deadline": 1791778295.6630464,
   "released": true,
@@ -101,8 +101,8 @@
   "failure": "",
   "failure_request": "",
   "release_proof": {},
-  "owner_application_id": "1318071729083650089",
-  "owner_bot_user_id": "1318071729083650089",
+  "owner_application_id": "",
+  "owner_bot_user_id": "",
   "query_responder": {},
   "query_routing_generation": 0,
   "web_transfer": {
