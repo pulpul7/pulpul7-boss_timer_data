@@ -70,13 +70,20 @@
       "web_delegate_protocol": 1,
       "web_public_available": true,
       "web_recovery_protocol": 1,
-      "web_standalone_protocol": 1
+      "web_standalone_protocol": 1,
+      "web_call": {
+        "id": "13774736675811514797330",
+        "runtime": "0b138efaa9934358ac860b91944f4f14",
+        "action": "stop",
+        "state": "pending",
+        "expires": 1791777638.4424055
+      }
     }
   },
   "request": "17770e8f519e420d93eb824cdbcf1fdd",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1791777624.622889,
+  "updated": 1791777628.4424055,
   "receiver_runtime": "b618c4e369b543c481fc83f0a11218cc",
   "deadline": 1791777595.6362376,
   "released": true,
