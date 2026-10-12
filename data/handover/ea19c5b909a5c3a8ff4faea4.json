@@ -8,7 +8,7 @@
   "owner": "c341709b321e4593b11e9146f5752f6f",
   "owner_runtime": "413a90b9a9ef4e1c9728683a75d5fdbb",
   "generation": 305,
-  "phase": "joining",
+  "phase": "active",
   "members": {
     "c341709b321e4593b11e9146f5752f6f": {
       "name": "나츠",
@@ -63,7 +63,7 @@
   "request": "a42aced25cc040eca1d3fa6c3ce2b34e",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1791773136.5577054,
+  "updated": 1791773140.2783701,
   "receiver_runtime": "413a90b9a9ef4e1c9728683a75d5fdbb",
   "deadline": 1791773166.5566497,
   "released": true,
