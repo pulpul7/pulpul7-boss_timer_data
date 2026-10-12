@@ -88,7 +88,7 @@
   "request": "13aea4987bac48909d8ee3ab71e2785d",
   "receiver": "ef9115177ec84ec796aa32d22292ab59",
   "control_channel": "1544243856525230132",
-  "updated": 1791789331.3193119,
+  "updated": 1791789338.028799,
   "receiver_runtime": "a5a09acfd5894c5b9d66c6822bf7e805",
   "deadline": 1791789356.383541,
   "released": true,
@@ -116,7 +116,7 @@
     "request": "13aea4987bac48909d8ee3ab71e2785d",
     "state": "failed",
     "failure_reason": "오9: 서버에 더 최신 버전이 있어 업로드하지 않았습니다. 먼저 동기화하세요. (스케쥴 서버=2026.10.12.009, PC=2026.10.12.007)",
-    "web_state_path": "",
+    "web_state_path": "data/web/transfers/13aea4987bac48909d8ee3ab71e2785d.json",
     "entry": {
       "id": "오9",
       "name": "오9",
@@ -146,7 +146,7 @@
     "guild": "1386707538908676267",
     "server": "오9",
     "season": "18",
-    "state": "releasing",
+    "state": "stopped",
     "keep_host": false
   }
 }
