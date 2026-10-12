@@ -21,7 +21,7 @@
       "connected_at": 1791765697.0722053,
       "protocol": 3,
       "presence_mode": "event",
-      "seen": 1791765698.0411825,
+      "seen": 1791766006.1095033,
       "call": {
         "id": "1556360935944224808",
         "runtime": "6ec7e0e5f7a14dd8bd51b485dab7cc02",
@@ -32,7 +32,7 @@
         "message": "관리자 · 송출 중 (로컬 스케줄 유지 · 동기화는 수동)"
       },
       "web_delegate_protocol": 1,
-      "web_public_available": true
+      "web_public_available": false
     },
     "ef9115177ec84ec796aa32d22292ab59": {
       "name": "승아",
@@ -62,7 +62,7 @@
   "request": "aebf4616c2784a2fa38637ada233d19a",
   "receiver": "ef9115177ec84ec796aa32d22292ab59",
   "control_channel": "1544243856525230132",
-  "updated": 1791766004.1966982,
+  "updated": 1791766006.1095033,
   "receiver_runtime": "f46380ce1f544fa5af6888291f53d97a",
   "deadline": 1791765967.3954396,
   "released": true,
