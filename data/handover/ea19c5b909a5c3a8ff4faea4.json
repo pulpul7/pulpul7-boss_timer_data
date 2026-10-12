@@ -86,7 +86,7 @@
   "request": "885de9b989ad4346aff38503e3ddb454",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1791783666.4150252,
+  "updated": 1791783688.467103,
   "receiver_runtime": "f4757171ebff42ada009a8b5957cc06c",
   "deadline": 1791782976.3967307,
   "released": true,
@@ -140,5 +140,12 @@
     "guild": "1386707538908676267",
     "server": "오9",
     "season": "18"
+  },
+  "web_operation": {
+    "id": "967cb803f0d043f7915de5a3372ccfa2",
+    "owner": "c341709b321e4593b11e9146f5752f6f",
+    "runtime": "f4757171ebff42ada009a8b5957cc06c",
+    "generation": 374,
+    "expires": 1791783838.467103
   }
 }
