@@ -5,10 +5,10 @@
     "server": "오9",
     "season": "18"
   },
-  "owner": "",
-  "owner_runtime": "",
-  "generation": 346,
-  "phase": "idle",
+  "owner": "c341709b321e4593b11e9146f5752f6f",
+  "owner_runtime": "b618c4e369b543c481fc83f0a11218cc",
+  "generation": 347,
+  "phase": "joining",
   "members": {
     "c341709b321e4593b11e9146f5752f6f": {
       "name": "나츠",
@@ -83,53 +83,31 @@
       }
     }
   },
-  "request": "7328a79e68664e78b4f5a08506cafae6",
-  "receiver": "",
+  "request": "459cf1dcd7ea42f9aac6023b1ec81ada",
+  "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1791778259.4464996,
-  "receiver_runtime": "eedea1044024441a841f9c1b5252602d",
-  "deadline": 1791778235.2716284,
+  "updated": 1791778265.6630464,
+  "receiver_runtime": "b618c4e369b543c481fc83f0a11218cc",
+  "deadline": 1791778295.6630464,
   "released": true,
   "channel": "1386707540108251200",
   "upload": "대기",
   "previous_owner": [
-    "c341709b321e4593b11e9146f5752f6f",
-    "b618c4e369b543c481fc83f0a11218cc",
-    343,
-    "19faf688fd1a4549b66ab71386e84c15"
+    "",
+    "",
+    346,
+    "7328a79e68664e78b4f5a08506cafae6"
   ],
   "failure": "",
   "failure_request": "",
-  "release_proof": {
-    "kind": "voice_stopped",
-    "client": "c341709b321e4593b11e9146f5752f6f",
-    "runtime": "b618c4e369b543c481fc83f0a11218cc",
-    "request": "7328a79e68664e78b4f5a08506cafae6"
-  },
-  "owner_application_id": "",
-  "owner_bot_user_id": "",
+  "release_proof": {},
+  "owner_application_id": "1318071729083650089",
+  "owner_bot_user_id": "1318071729083650089",
   "query_responder": {},
   "query_routing_generation": 0,
   "web_transfer": {
-    "request": "7328a79e68664e78b4f5a08506cafae6",
-    "state": "failed",
-    "web_state_path": "",
-    "entry": {
-      "id": "오9",
-      "name": "오9",
-      "schedule": "data/schedules/오9.json",
-      "bosses": "data/bosses/오9.json",
-      "config": "data/config/오9.json",
-      "notices": "data/notices/오9.json",
-      "scheduleVersion": "2026.10.12.008",
-      "dataVersion": "2026.10.12.008",
-      "scheduleHash": "a7b2a112ebc97f5b8c58d6b2d3c3ee65d326bb60",
-      "bossConfigVersion": "2026.09.16.006",
-      "bossConfigHash": "130debb265b51ea52eb389e65f3c460ae7f890d3",
-      "updatedAt": "2026-10-12 12:55:55"
-    },
-    "content_hash": "c82ffa4ed6e9619dd172af8f32710efb8e35a2b7",
-    "source_season": "18"
+    "request": "459cf1dcd7ea42f9aac6023b1ec81ada",
+    "state": "pending"
   },
   "web_standalone": {
     "protocol": 1,
@@ -141,7 +119,7 @@
     "server": "오9",
     "season": "18"
   },
-  "web_delegate": {
+  "web_delegate_previous": {
     "protocol": 1,
     "id": "4fc16f4da17e42b38608972933d3cd0a",
     "host": "c341709b321e4593b11e9146f5752f6f",
