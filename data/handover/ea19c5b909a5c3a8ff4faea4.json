@@ -88,7 +88,7 @@
   "request": "73bf73760cee46cfa931ae59745e26ec",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1791788492.333105,
+  "updated": 1791788497.8899994,
   "receiver_runtime": "14c0a49ba8b448fc981dc16c4d3e9561",
   "deadline": 1791788514.0321147,
   "released": true,
@@ -116,7 +116,7 @@
     "request": "73bf73760cee46cfa931ae59745e26ec",
     "state": "ready",
     "failure_reason": "",
-    "web_state_path": "",
+    "web_state_path": "data/web/transfers/73bf73760cee46cfa931ae59745e26ec.json",
     "entry": {
       "id": "오9",
       "name": "오9",
@@ -146,7 +146,7 @@
     "guild": "1386707538908676267",
     "server": "오9",
     "season": "18",
-    "state": "releasing",
+    "state": "stopped",
     "keep_host": false
   }
 }
