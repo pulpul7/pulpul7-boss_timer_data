@@ -64,7 +64,7 @@
   "request": "cc43f4843289416cbaa2c66685cbeadf",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1791773956.030139,
+  "updated": 1791773957.6870754,
   "receiver_runtime": "413a90b9a9ef4e1c9728683a75d5fdbb",
   "deadline": 1791773986.030139,
   "released": true,
@@ -90,7 +90,15 @@
   "query_routing_generation": 0,
   "web_transfer": {
     "request": "cc43f4843289416cbaa2c66685cbeadf",
-    "state": "pending"
+    "state": "failed",
+    "web_state_path": "",
+    "entry": {
+      "id": "오9",
+      "name": "오9",
+      "schedule": "data/schedules/오9.json"
+    },
+    "content_hash": "4c93706e60e89369aea69bb726a8b81c117f29ac",
+    "source_season": "18"
   },
   "web_delegate": {
     "protocol": 1,
