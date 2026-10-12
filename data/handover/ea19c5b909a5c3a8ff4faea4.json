@@ -7,8 +7,8 @@
   },
   "owner": "ef9115177ec84ec796aa32d22292ab59",
   "owner_runtime": "f46380ce1f544fa5af6888291f53d97a",
-  "generation": 279,
-  "phase": "active",
+  "generation": 280,
+  "phase": "requested",
   "members": {
     "c341709b321e4593b11e9146f5752f6f": {
       "name": "나츠",
@@ -59,43 +59,44 @@
       "web_public_available": true
     }
   },
-  "request": "aebf4616c2784a2fa38637ada233d19a",
-  "receiver": "ef9115177ec84ec796aa32d22292ab59",
+  "request": "8afa7288a3c24cd7a531b916d0227af3",
+  "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1791766007.7619383,
-  "receiver_runtime": "f46380ce1f544fa5af6888291f53d97a",
-  "deadline": 1791765967.3954396,
-  "released": true,
+  "updated": 1791766050.3203604,
+  "receiver_runtime": "4756803541614e4cbe64deacddde6ad8",
+  "deadline": 1791766080.3203604,
+  "released": false,
   "channel": "1386707540108251200",
   "upload": "대기",
   "previous_owner": [
-    "c341709b321e4593b11e9146f5752f6f",
-    "4756803541614e4cbe64deacddde6ad8",
-    277,
-    "9eb9bffc7f9849e7bca152e2cb511f41"
+    "ef9115177ec84ec796aa32d22292ab59",
+    "f46380ce1f544fa5af6888291f53d97a",
+    279,
+    "aebf4616c2784a2fa38637ada233d19a"
   ],
   "failure": "",
   "failure_request": "",
-  "release_proof": {
-    "kind": "voice_stopped",
-    "client": "c341709b321e4593b11e9146f5752f6f",
-    "runtime": "4756803541614e4cbe64deacddde6ad8",
-    "request": "aebf4616c2784a2fa38637ada233d19a"
-  },
+  "release_proof": {},
   "owner_application_id": "1318071729083650089",
   "owner_bot_user_id": "1318071729083650089",
   "query_responder": {},
   "query_routing_generation": 0,
   "web_transfer": {
-    "request": "aebf4616c2784a2fa38637ada233d19a",
-    "state": "failed",
-    "web_state_path": "data/web/transfers/aebf4616c2784a2fa38637ada233d19a.json",
-    "entry": {
-      "id": "오9",
-      "name": "오9",
-      "schedule": "data/schedules/오9.json"
-    },
-    "content_hash": "8f97fa7ac9887bf2cd810dcf4c62d006a565c215",
-    "source_season": "18"
+    "request": "8afa7288a3c24cd7a531b916d0227af3",
+    "state": "pending"
+  },
+  "web_delegate": {
+    "protocol": 1,
+    "id": "edfea08ac56b45dba4583d632a0babae",
+    "host": "ef9115177ec84ec796aa32d22292ab59",
+    "host_runtime": "f46380ce1f544fa5af6888291f53d97a",
+    "source": "c341709b321e4593b11e9146f5752f6f",
+    "source_runtime": "4756803541614e4cbe64deacddde6ad8",
+    "generation": 280,
+    "request": "8afa7288a3c24cd7a531b916d0227af3",
+    "guild": "1386707538908676267",
+    "server": "오9",
+    "season": "18",
+    "state": "active"
   }
 }
