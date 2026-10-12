@@ -5,10 +5,10 @@
     "server": "오9",
     "season": "18"
   },
-  "owner": "",
-  "owner_runtime": "",
-  "generation": 326,
-  "phase": "idle",
+  "owner": "c341709b321e4593b11e9146f5752f6f",
+  "owner_runtime": "413a90b9a9ef4e1c9728683a75d5fdbb",
+  "generation": 327,
+  "phase": "joining",
   "members": {
     "c341709b321e4593b11e9146f5752f6f": {
       "name": "나츠",
@@ -61,46 +61,48 @@
       "web_recovery_protocol": 1
     }
   },
-  "request": "cc43f4843289416cbaa2c66685cbeadf",
-  "receiver": "",
+  "request": "2af14a6e01fe4c388d5a1b01f94b5d7e",
+  "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1791774030.7725558,
+  "updated": 1791774037.8609338,
   "receiver_runtime": "413a90b9a9ef4e1c9728683a75d5fdbb",
-  "deadline": 1791773986.030139,
+  "deadline": 1791774067.8609338,
   "released": true,
   "channel": "1386707540108251200",
   "upload": "대기",
   "previous_owner": [
-    "ef9115177ec84ec796aa32d22292ab59",
-    "cc3879346d274400bb3d28f1c3612781",
-    323,
-    "48caa564292d460b8c17f7b3da56584d"
+    "",
+    "",
+    326,
+    "cc43f4843289416cbaa2c66685cbeadf"
   ],
   "failure": "",
   "failure_request": "",
-  "release_proof": {
-    "kind": "voice_stopped",
-    "client": "ef9115177ec84ec796aa32d22292ab59",
-    "runtime": "cc3879346d274400bb3d28f1c3612781",
-    "request": "cc43f4843289416cbaa2c66685cbeadf"
-  },
-  "owner_application_id": "",
-  "owner_bot_user_id": "",
+  "release_proof": {},
+  "owner_application_id": "1318071729083650089",
+  "owner_bot_user_id": "1318071729083650089",
   "query_responder": {},
   "query_routing_generation": 0,
   "web_transfer": {
-    "request": "cc43f4843289416cbaa2c66685cbeadf",
-    "state": "failed",
-    "web_state_path": "",
-    "entry": {
-      "id": "오9",
-      "name": "오9",
-      "schedule": "data/schedules/오9.json"
-    },
-    "content_hash": "4c93706e60e89369aea69bb726a8b81c117f29ac",
-    "source_season": "18"
+    "request": "2af14a6e01fe4c388d5a1b01f94b5d7e",
+    "state": "pending"
   },
   "web_delegate": {
+    "protocol": 1,
+    "id": "83edd3388a124ae1a3e125d11caf9380",
+    "host": "ef9115177ec84ec796aa32d22292ab59",
+    "host_runtime": "cc3879346d274400bb3d28f1c3612781",
+    "source": "c341709b321e4593b11e9146f5752f6f",
+    "source_runtime": "413a90b9a9ef4e1c9728683a75d5fdbb",
+    "generation": 327,
+    "request": "2af14a6e01fe4c388d5a1b01f94b5d7e",
+    "guild": "1386707538908676267",
+    "server": "오9",
+    "season": "18",
+    "state": "active",
+    "keep_host": false
+  },
+  "web_delegate_previous": {
     "protocol": 1,
     "id": "0de8c7ddc88144e2aa405295fbaeda87",
     "host": "ef9115177ec84ec796aa32d22292ab59",
