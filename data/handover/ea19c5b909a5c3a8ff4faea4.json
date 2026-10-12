@@ -34,7 +34,14 @@
       "web_delegate_protocol": 1,
       "web_public_available": true,
       "web_recovery_protocol": 1,
-      "web_standalone_protocol": 1
+      "web_standalone_protocol": 1,
+      "web_call": {
+        "id": "10887743993390653847876",
+        "runtime": "b618c4e369b543c481fc83f0a11218cc",
+        "action": "stop",
+        "state": "pending",
+        "expires": 1791777529.6628525
+      }
     },
     "ef9115177ec84ec796aa32d22292ab59": {
       "name": "승아",
@@ -66,7 +73,7 @@
   "request": "4344ef50a4fd43079a9edbe8642f7d95",
   "receiver": "ef9115177ec84ec796aa32d22292ab59",
   "control_channel": "1544243856525230132",
-  "updated": 1791777511.9464664,
+  "updated": 1791777519.6628525,
   "receiver_runtime": "0b138efaa9934358ac860b91944f4f14",
   "deadline": 1791777481.9947915,
   "released": true,
