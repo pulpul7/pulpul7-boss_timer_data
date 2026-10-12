@@ -88,7 +88,7 @@
   "request": "149607315efb48fb889d7a26bb551be5",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1791843001.5970392,
+  "updated": 1791843009.54443,
   "receiver_runtime": "297f4024e9ab45b789207c7e56141ffa",
   "deadline": 1791843012.8305063,
   "released": true,
@@ -114,13 +114,22 @@
   "query_routing_generation": 0,
   "web_transfer": {
     "request": "149607315efb48fb889d7a26bb551be5",
-    "state": "failed",
+    "state": "ready",
     "failure_reason": "GitHub API 오류 409: is at bf8c423574ebf62b017ab9cb31544223e3711d23 but expected 26ef981db0f61c1cc0f800e2ec0413e15443027a",
     "web_state_path": "",
     "entry": {
       "id": "오9",
       "name": "오9",
-      "schedule": "data/schedules/오9.json"
+      "schedule": "data/schedules/오9.json",
+      "bosses": "data/bosses/오9.json",
+      "config": "data/config/오9.json",
+      "notices": "data/notices/오9.json",
+      "scheduleVersion": "2026.10.13.001",
+      "dataVersion": "2026.10.13.001",
+      "scheduleHash": "ef6ccbf7b4ab6ac9d2d87a1c6b78b32e4bf88014",
+      "bossConfigVersion": "2026.09.16.006",
+      "bossConfigHash": "130debb265b51ea52eb389e65f3c460ae7f890d3",
+      "updatedAt": "2026-10-13 07:10:04"
     },
     "content_hash": "ef6ccbf7b4ab6ac9d2d87a1c6b78b32e4bf88014",
     "source_season": "18"
