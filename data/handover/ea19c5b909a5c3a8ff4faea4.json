@@ -5,10 +5,10 @@
     "server": "오9",
     "season": "18"
   },
-  "owner": "",
-  "owner_runtime": "",
-  "generation": 417,
-  "phase": "idle",
+  "owner": "c341709b321e4593b11e9146f5752f6f",
+  "owner_runtime": "0900f114b68841b4a8c4ea7893d95cce",
+  "generation": 418,
+  "phase": "joining",
   "members": {
     "c341709b321e4593b11e9146f5752f6f": {
       "name": "나츠",
@@ -85,54 +85,31 @@
       }
     }
   },
-  "request": "a43c6661b1c04784be6fbec116b19998",
-  "receiver": "",
+  "request": "d69af3ebab424b3ebaaaaf4c20da6cc5",
+  "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1791843481.8992693,
-  "receiver_runtime": "297f4024e9ab45b789207c7e56141ffa",
-  "deadline": 1791843178.0721633,
+  "updated": 1791843486.2666376,
+  "receiver_runtime": "0900f114b68841b4a8c4ea7893d95cce",
+  "deadline": 1791843516.2666376,
   "released": true,
   "channel": "1386707540108251200",
   "upload": "대기",
   "previous_owner": [
-    "ef9115177ec84ec796aa32d22292ab59",
-    "26c10745bd444095aa1a5542f5deec50",
-    414,
-    "959f6414f1f94af9b9c706bfafbbd904"
+    "",
+    "",
+    417,
+    "a43c6661b1c04784be6fbec116b19998"
   ],
   "failure": "",
   "failure_request": "",
-  "release_proof": {
-    "kind": "voice_stopped",
-    "client": "ef9115177ec84ec796aa32d22292ab59",
-    "runtime": "26c10745bd444095aa1a5542f5deec50",
-    "request": "a43c6661b1c04784be6fbec116b19998"
-  },
-  "owner_application_id": "",
-  "owner_bot_user_id": "",
+  "release_proof": {},
+  "owner_application_id": "1318071729083650089",
+  "owner_bot_user_id": "1318071729083650089",
   "query_responder": {},
   "query_routing_generation": 0,
   "web_transfer": {
-    "request": "a43c6661b1c04784be6fbec116b19998",
-    "state": "ready",
-    "failure_reason": "",
-    "web_state_path": "",
-    "entry": {
-      "id": "오9",
-      "name": "오9",
-      "schedule": "data/schedules/오9.json",
-      "bosses": "data/bosses/오9.json",
-      "config": "data/config/오9.json",
-      "notices": "data/notices/오9.json",
-      "scheduleVersion": "2026.10.13.001",
-      "dataVersion": "2026.10.13.001",
-      "scheduleHash": "ef6ccbf7b4ab6ac9d2d87a1c6b78b32e4bf88014",
-      "bossConfigVersion": "2026.09.16.006",
-      "bossConfigHash": "130debb265b51ea52eb389e65f3c460ae7f890d3",
-      "updatedAt": "2026-10-13 07:10:04"
-    },
-    "content_hash": "ef6ccbf7b4ab6ac9d2d87a1c6b78b32e4bf88014",
-    "source_season": "18"
+    "request": "d69af3ebab424b3ebaaaaf4c20da6cc5",
+    "state": "pending"
   },
   "web_independent": true,
   "web_generation": 416,
