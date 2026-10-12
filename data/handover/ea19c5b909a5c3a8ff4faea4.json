@@ -86,7 +86,7 @@
   "request": "25b1effd700646028315fe06731654a8",
   "receiver": "ef9115177ec84ec796aa32d22292ab59",
   "control_channel": "1544243856525230132",
-  "updated": 1791785358.611427,
+  "updated": 1791785365.3631098,
   "receiver_runtime": "b948c05352bc487d9af611325fe774c9",
   "deadline": 1791785381.1753643,
   "released": true,
@@ -107,7 +107,8 @@
   "query_routing_generation": 0,
   "web_transfer": {
     "request": "25b1effd700646028315fe06731654a8",
-    "state": "pending"
+    "state": "pending",
+    "web_state_path": "data/web/transfers/25b1effd700646028315fe06731654a8.json"
   },
   "web_delegate": {
     "protocol": 1,
@@ -121,7 +122,7 @@
     "guild": "1386707538908676267",
     "server": "오9",
     "season": "18",
-    "state": "releasing",
+    "state": "stopped",
     "keep_host": false
   },
   "web_delegate_previous": {
