@@ -7,8 +7,8 @@
   },
   "owner": "ef9115177ec84ec796aa32d22292ab59",
   "owner_runtime": "f46380ce1f544fa5af6888291f53d97a",
-  "generation": 265,
-  "phase": "active",
+  "generation": 266,
+  "phase": "requested",
   "members": {
     "c341709b321e4593b11e9146f5752f6f": {
       "name": "나츠",
@@ -59,46 +59,33 @@
       "web_public_available": false
     }
   },
-  "request": "275e5f38d1d341419eea3451fd2a6251",
-  "receiver": "ef9115177ec84ec796aa32d22292ab59",
+  "request": "c47c20fd1b124e33a1bff80c42941ef4",
+  "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1791764797.891004,
-  "receiver_runtime": "f46380ce1f544fa5af6888291f53d97a",
-  "deadline": 1791764823.0277107,
-  "released": true,
+  "updated": 1791765229.0695384,
+  "receiver_runtime": "b6f0b0bd95724821953f9a197a3d9209",
+  "deadline": 1791765259.0695384,
+  "released": false,
   "channel": "1386707540108251200",
   "upload": "대기",
   "previous_owner": [
-    "c341709b321e4593b11e9146f5752f6f",
-    "b6f0b0bd95724821953f9a197a3d9209",
-    263,
-    "887b19acc10b4c949ce9c6cef196cc54"
+    "ef9115177ec84ec796aa32d22292ab59",
+    "f46380ce1f544fa5af6888291f53d97a",
+    265,
+    "275e5f38d1d341419eea3451fd2a6251"
   ],
   "failure": "",
   "failure_request": "",
-  "release_proof": {
-    "kind": "voice_stopped",
-    "client": "c341709b321e4593b11e9146f5752f6f",
-    "runtime": "b6f0b0bd95724821953f9a197a3d9209",
-    "request": "275e5f38d1d341419eea3451fd2a6251"
-  },
+  "release_proof": {},
   "owner_application_id": "1318071729083650089",
   "owner_bot_user_id": "1318071729083650089",
   "query_responder": {},
   "query_routing_generation": 0,
   "web_transfer": {
-    "request": "275e5f38d1d341419eea3451fd2a6251",
-    "state": "ready",
-    "web_state_path": "",
-    "entry": {
-      "id": "오9",
-      "name": "오9",
-      "schedule": "data/schedules/오9.json"
-    },
-    "content_hash": "c6bde343095733df9df3726d86598a80efe4d719",
-    "source_season": "18"
+    "request": "c47c20fd1b124e33a1bff80c42941ef4",
+    "state": "pending"
   },
-  "web_delegate": {
+  "web_delegate_previous": {
     "protocol": 1,
     "id": "789d1329ef004417b1aa1c64422b7278",
     "host": "c341709b321e4593b11e9146f5752f6f",
