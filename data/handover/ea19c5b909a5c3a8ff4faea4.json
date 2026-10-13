@@ -16,7 +16,7 @@
       "season": "18",
       "application_id": "1318071729083650089",
       "bot_user_id": "1318071729083650089",
-      "online": true,
+      "online": false,
       "runtime": "cc4573d540164085b186ccb20a166efe",
       "connected_at": 1791865758.3816352,
       "protocol": 3,
@@ -46,9 +46,9 @@
         "message": "웹 서버 종료 완료 · 외부 접근과 주소 갱신을 중지했습니다. 봇과 디코 송출은 유지합니다.",
         "stopped": true
       },
-      "disconnected_at": 1791865477.8974576,
-      "web_closed_runtime": "2803d6a79d1d4927aa21a64fd112401c",
-      "web_closed_at": 1791865477.897963
+      "disconnected_at": 1791865856.5314844,
+      "web_closed_runtime": "cc4573d540164085b186ccb20a166efe",
+      "web_closed_at": 1791865856.5334923
     },
     "ef9115177ec84ec796aa32d22292ab59": {
       "name": "승아",
@@ -91,7 +91,7 @@
   "request": "0e6c9aacb8584e308065b358466ecde9",
   "receiver": "",
   "control_channel": "1544243856525230132",
-  "updated": 1791865759.9153054,
+  "updated": 1791865856.5334923,
   "receiver_runtime": "2803d6a79d1d4927aa21a64fd112401c",
   "deadline": 1791854884.6458397,
   "released": true,
