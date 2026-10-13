@@ -5,10 +5,10 @@
     "server": "오9",
     "season": "18"
   },
-  "owner": "c341709b321e4593b11e9146f5752f6f",
-  "owner_runtime": "eec0774c2791452091dd7968835084a3",
-  "generation": 445,
-  "phase": "active",
+  "owner": "",
+  "owner_runtime": "",
+  "generation": 446,
+  "phase": "idle",
   "members": {
     "c341709b321e4593b11e9146f5752f6f": {
       "name": "나츠",
@@ -16,7 +16,7 @@
       "season": "18",
       "application_id": "1318071729083650089",
       "bot_user_id": "1318071729083650089",
-      "online": true,
+      "online": false,
       "runtime": "eec0774c2791452091dd7968835084a3",
       "connected_at": 1791886898.2830784,
       "protocol": 3,
@@ -46,7 +46,7 @@
         "message": "웹 서버 종료 완료 · 외부 접근과 주소 갱신을 중지했습니다. 봇과 디코 송출은 유지합니다.",
         "stopped": true
       },
-      "disconnected_at": 1791886851.9674718,
+      "disconnected_at": 1791891417.6582174,
       "web_closed_runtime": "bdf98dbb012d41a291f89a737d553539",
       "web_closed_at": 1791883913.2229588
     },
@@ -89,9 +89,9 @@
     }
   },
   "request": "df458a77fa6e442a8c8c34d1ef11690d",
-  "receiver": "c341709b321e4593b11e9146f5752f6f",
+  "receiver": "",
   "control_channel": "1544243856525230132",
-  "updated": 1791887477.212867,
+  "updated": 1791891417.6672904,
   "receiver_runtime": "eec0774c2791452091dd7968835084a3",
   "deadline": 1791887501.4867136,
   "released": true,
@@ -106,8 +106,8 @@
   "failure": "",
   "failure_request": "",
   "release_proof": {},
-  "owner_application_id": "1318071729083650089",
-  "owner_bot_user_id": "1318071729083650089",
+  "owner_application_id": "",
+  "owner_bot_user_id": "",
   "query_responder": {},
   "query_routing_generation": 0,
   "web_transfer": {
