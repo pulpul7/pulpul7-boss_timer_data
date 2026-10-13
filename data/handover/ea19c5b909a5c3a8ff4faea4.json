@@ -7,8 +7,8 @@
   },
   "owner": "ef9115177ec84ec796aa32d22292ab59",
   "owner_runtime": "c43f8a248e9448eb9e237a55e77b305d",
-  "generation": 438,
-  "phase": "active",
+  "generation": 439,
+  "phase": "requested",
   "members": {
     "c341709b321e4593b11e9146f5752f6f": {
       "name": "나츠",
@@ -88,54 +88,31 @@
       }
     }
   },
-  "request": "1ec9ac1c64c34a5381192405e4d175ba",
-  "receiver": "ef9115177ec84ec796aa32d22292ab59",
+  "request": "d5dbd28cc6b04da7a961577d5ae12c01",
+  "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1791881077.020766,
-  "receiver_runtime": "c43f8a248e9448eb9e237a55e77b305d",
-  "deadline": 1791874106.886945,
-  "released": true,
+  "updated": 1791881952.6063104,
+  "receiver_runtime": "676d66e4a3f646dca1cb84f17a7985bc",
+  "deadline": 1791881982.6063104,
+  "released": false,
   "channel": "1386707540108251200",
   "upload": "대기",
   "previous_owner": [
-    "c341709b321e4593b11e9146f5752f6f",
-    "176f4b2923ac4fa6b145d132af97cfa5",
-    436,
-    "82cdd36ea74c4bd78bad8d63fe3f77cb"
+    "ef9115177ec84ec796aa32d22292ab59",
+    "c43f8a248e9448eb9e237a55e77b305d",
+    438,
+    "1ec9ac1c64c34a5381192405e4d175ba"
   ],
   "failure": "",
   "failure_request": "",
-  "release_proof": {
-    "kind": "voice_stopped",
-    "client": "c341709b321e4593b11e9146f5752f6f",
-    "runtime": "176f4b2923ac4fa6b145d132af97cfa5",
-    "request": "1ec9ac1c64c34a5381192405e4d175ba"
-  },
+  "release_proof": {},
   "owner_application_id": "1318071729083650089",
   "owner_bot_user_id": "1318071729083650089",
   "query_responder": {},
   "query_routing_generation": 0,
   "web_transfer": {
-    "request": "1ec9ac1c64c34a5381192405e4d175ba",
-    "state": "failed",
-    "failure_reason": "오9: 서버에 더 최신 버전이 있어 업로드하지 않았습니다. 먼저 동기화하세요. (스케쥴 서버=2026.10.13.001, PC=2026.10.12.007)",
-    "web_state_path": "",
-    "entry": {
-      "id": "오9",
-      "name": "오9",
-      "schedule": "data/schedules/오9.json",
-      "bosses": "data/bosses/오9.json",
-      "config": "data/config/오9.json",
-      "notices": "data/notices/오9.json",
-      "scheduleVersion": "2026.10.13.001",
-      "dataVersion": "2026.10.13.001",
-      "scheduleHash": "ef6ccbf7b4ab6ac9d2d87a1c6b78b32e4bf88014",
-      "bossConfigVersion": "2026.09.16.006",
-      "bossConfigHash": "130debb265b51ea52eb389e65f3c460ae7f890d3",
-      "updatedAt": "2026-10-13 07:10:04"
-    },
-    "content_hash": "7da706238d67f1f9ab87f8add650135956f2f335",
-    "source_season": "18"
+    "request": "d5dbd28cc6b04da7a961577d5ae12c01",
+    "state": "pending"
   },
   "web_independent": true,
   "web_generation": 438,
