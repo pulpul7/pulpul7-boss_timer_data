@@ -5,10 +5,10 @@
     "server": "오9",
     "season": "18"
   },
-  "owner": "c341709b321e4593b11e9146f5752f6f",
-  "owner_runtime": "2803d6a79d1d4927aa21a64fd112401c",
-  "generation": 430,
-  "phase": "active",
+  "owner": "",
+  "owner_runtime": "",
+  "generation": 431,
+  "phase": "idle",
   "members": {
     "c341709b321e4593b11e9146f5752f6f": {
       "name": "나츠",
@@ -16,7 +16,7 @@
       "season": "18",
       "application_id": "1318071729083650089",
       "bot_user_id": "1318071729083650089",
-      "online": true,
+      "online": false,
       "runtime": "2803d6a79d1d4927aa21a64fd112401c",
       "connected_at": 1791854769.6003985,
       "protocol": 3,
@@ -46,9 +46,9 @@
         "message": "웹 서버 종료 완료 · 외부 접근과 주소 갱신을 중지했습니다. 봇과 디코 송출은 유지합니다.",
         "stopped": true
       },
-      "disconnected_at": 1791854323.078798,
-      "web_closed_runtime": "f6fda20f6f874c24b258d04d26eb7949",
-      "web_closed_at": 1791854323.0880253
+      "disconnected_at": 1791865477.8974576,
+      "web_closed_runtime": "2803d6a79d1d4927aa21a64fd112401c",
+      "web_closed_at": 1791865477.897963
     },
     "ef9115177ec84ec796aa32d22292ab59": {
       "name": "승아",
@@ -89,9 +89,9 @@
     }
   },
   "request": "0e6c9aacb8584e308065b358466ecde9",
-  "receiver": "c341709b321e4593b11e9146f5752f6f",
+  "receiver": "",
   "control_channel": "1544243856525230132",
-  "updated": 1791854860.4819562,
+  "updated": 1791865477.897963,
   "receiver_runtime": "2803d6a79d1d4927aa21a64fd112401c",
   "deadline": 1791854884.6458397,
   "released": true,
@@ -106,8 +106,8 @@
   "failure": "",
   "failure_request": "",
   "release_proof": {},
-  "owner_application_id": "1318071729083650089",
-  "owner_bot_user_id": "1318071729083650089",
+  "owner_application_id": "",
+  "owner_bot_user_id": "",
   "query_responder": {},
   "query_routing_generation": 0,
   "web_transfer": {
@@ -118,14 +118,12 @@
   "web_generation": 431,
   "web_standalone": {
     "protocol": 1,
-    "id": "674b03f1461f4823ac142230b9796df1",
-    "state": "active",
-    "generation": 431,
+    "id": "aece30f887e148a6a42796f048d4b9e5",
+    "state": "stopped",
     "owner": "c341709b321e4593b11e9146f5752f6f",
     "runtime": "2803d6a79d1d4927aa21a64fd112401c",
     "guild": "1386707538908676267",
     "server": "오9",
-    "season": "18",
-    "started_at": 1791854860.4819562
+    "season": "18"
   }
 }
