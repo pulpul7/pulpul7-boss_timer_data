@@ -88,7 +88,7 @@
   "request": "de4d19c4305046f48cec066c7be16519",
   "receiver": "",
   "control_channel": "1544243856525230132",
-  "updated": 1791851943.3214211,
+  "updated": 1791851955.9126985,
   "receiver_runtime": "f6fda20f6f874c24b258d04d26eb7949",
   "deadline": 1791851962.3109865,
   "released": true,
@@ -116,7 +116,7 @@
   "web_standalone": {
     "protocol": 1,
     "id": "ffd4e59519b04521a216aecff5ccd70b",
-    "state": "active",
+    "state": "stopped",
     "generation": 420,
     "owner": "ef9115177ec84ec796aa32d22292ab59",
     "runtime": "26c10745bd444095aa1a5542f5deec50",
