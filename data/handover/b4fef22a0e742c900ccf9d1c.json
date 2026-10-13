@@ -48,7 +48,7 @@
   "request": "6b3cab9993084003b035f807247bc249",
   "receiver": "12f05e163dd34f3b9d3744466dcca66d",
   "control_channel": "969555578215075864",
-  "updated": 1791868794.494962,
+  "updated": 1791868796.0911767,
   "receiver_runtime": "a491c489a8cd4bcab58d9a4c1bd531e2",
   "deadline": 1791868819.252044,
   "released": true,
@@ -75,19 +75,14 @@
   "web_generation": 24,
   "web_standalone": {
     "protocol": 1,
-    "id": "3d39d422d890418f8ce24c780989574f",
-    "state": "stopped",
+    "id": "b09a61a0d1cd4b768c31756fff9df67d",
+    "state": "active",
+    "generation": 24,
     "owner": "12f05e163dd34f3b9d3744466dcca66d",
     "runtime": "a491c489a8cd4bcab58d9a4c1bd531e2",
     "guild": "969555578215075860",
     "server": "오8",
-    "season": "18"
-  },
-  "web_operation": {
-    "id": "b09a61a0d1cd4b768c31756fff9df67d",
-    "owner": "12f05e163dd34f3b9d3744466dcca66d",
-    "runtime": "a491c489a8cd4bcab58d9a4c1bd531e2",
-    "web_generation": 24,
-    "expires": 1791868940.9263325
+    "season": "18",
+    "started_at": 1791868796.0911767
   }
 }
