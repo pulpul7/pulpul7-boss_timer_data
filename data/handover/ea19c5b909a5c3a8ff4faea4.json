@@ -5,10 +5,10 @@
     "server": "오9",
     "season": "18"
   },
-  "owner": "",
-  "owner_runtime": "",
-  "generation": 510,
-  "phase": "idle",
+  "owner": "c341709b321e4593b11e9146f5752f6f",
+  "owner_runtime": "a95f29f192c44c30919a46be96c04c46",
+  "generation": 511,
+  "phase": "joining",
   "members": {
     "c341709b321e4593b11e9146f5752f6f": {
       "name": "나츠",
@@ -88,30 +88,30 @@
       }
     }
   },
-  "request": "b69efeb2be4d4fb4ac640d7b705610f4",
-  "receiver": "",
+  "request": "a7f1acec123740008913cdb198387b42",
+  "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1792132241.0721083,
-  "receiver_runtime": "9bbf4d7a0b744311a7447c9fa430797c",
-  "deadline": 1792117510.3515568,
+  "updated": 1792134574.7898278,
+  "receiver_runtime": "a95f29f192c44c30919a46be96c04c46",
+  "deadline": 1792134604.7898278,
   "released": true,
   "channel": "1386707540108251200",
   "upload": "대기",
   "previous_owner": [
     "",
     "",
-    508,
-    "2195ff7e229443b1b014125c3325a76e"
+    510,
+    "b69efeb2be4d4fb4ac640d7b705610f4"
   ],
   "failure": "",
   "failure_request": "",
   "release_proof": {},
-  "owner_application_id": "",
-  "owner_bot_user_id": "",
+  "owner_application_id": "1318071729083650089",
+  "owner_bot_user_id": "1318071729083650089",
   "query_responder": {},
   "query_routing_generation": 0,
   "web_transfer": {
-    "request": "b69efeb2be4d4fb4ac640d7b705610f4",
+    "request": "a7f1acec123740008913cdb198387b42",
     "state": "pending"
   },
   "web_independent": true,
