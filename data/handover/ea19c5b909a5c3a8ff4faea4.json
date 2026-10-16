@@ -91,7 +91,7 @@
   "request": "a7f1acec123740008913cdb198387b42",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1792134574.7898278,
+  "updated": 1792134576.4635725,
   "receiver_runtime": "a95f29f192c44c30919a46be96c04c46",
   "deadline": 1792134604.7898278,
   "released": true,
@@ -115,7 +115,7 @@
     "state": "pending"
   },
   "web_independent": true,
-  "web_generation": 510,
+  "web_generation": 512,
   "web_standalone": {
     "protocol": 1,
     "id": "9de517c47a684ff3a567a8cead44b905",
@@ -127,5 +127,12 @@
     "server": "오9",
     "season": "18",
     "started_at": 1792117485.9678018
+  },
+  "web_operation": {
+    "id": "99b0f8611fbf42fdb7a1f940fd06630c",
+    "owner": "c341709b321e4593b11e9146f5752f6f",
+    "runtime": "a95f29f192c44c30919a46be96c04c46",
+    "web_generation": 512,
+    "expires": 1792134726.4635725
   }
 }
