@@ -16,7 +16,7 @@
       "season": "18",
       "application_id": "1318071729083650089",
       "bot_user_id": "1318071729083650089",
-      "online": true,
+      "online": false,
       "runtime": "636d4ddf69e545a183a605f82d79e5fb",
       "connected_at": 1792163400.324791,
       "protocol": 3,
@@ -46,9 +46,9 @@
         "message": "웹 서버 종료 완료 · 외부 접근과 주소 갱신을 중지했습니다. 봇과 디코 송출은 유지합니다.",
         "stopped": true
       },
-      "disconnected_at": 1792163346.7807834,
-      "web_closed_runtime": "0e5580440b264b1594a7d934d93643ff",
-      "web_closed_at": 1792137866.068683,
+      "disconnected_at": 1792165003.2184768,
+      "web_closed_runtime": "636d4ddf69e545a183a605f82d79e5fb",
+      "web_closed_at": 1792165003.2194862,
       "web_update_protocol": 1
     },
     "ef9115177ec84ec796aa32d22292ab59": {
@@ -92,7 +92,7 @@
   "request": "4771cfa271ee4dbaaa4c764068389b88",
   "receiver": "",
   "control_channel": "1544243856525230132",
-  "updated": 1792164918.8808289,
+  "updated": 1792165003.2194862,
   "receiver_runtime": "76c4846670d44c8aa0a5803e7f5b0397",
   "deadline": 1792152445.7065294,
   "released": true,
@@ -119,15 +119,13 @@
   "web_generation": 526,
   "web_standalone": {
     "protocol": 1,
-    "id": "cf51ff2b3c954cdc91c0e2cc26b422d2",
-    "state": "active",
-    "generation": 526,
+    "id": "aeddfb49190149f89961f1c0894f844f",
+    "state": "stopped",
     "owner": "c341709b321e4593b11e9146f5752f6f",
     "runtime": "636d4ddf69e545a183a605f82d79e5fb",
     "guild": "1386707538908676267",
     "server": "오9",
-    "season": "18",
-    "started_at": 1792164894.5750556
+    "season": "18"
   },
   "web_background": {
     "protocol": 1,
