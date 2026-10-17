@@ -36,15 +36,12 @@
       "web_recovery_protocol": 1,
       "web_standalone_protocol": 1,
       "web_call": {
-        "id": "15085901819876924867926",
+        "id": "17442433753585826350789",
         "runtime": "50f395777b494771bce6b240c8fda762",
         "action": "stop",
-        "state": "done",
-        "expires": 1792268599.7156363,
-        "handover_operation": "02220cdf1d284837a1e4226a3914b670",
-        "ok": true,
-        "message": "웹 서버 종료 완료 · 외부 접근과 주소 갱신을 중지했습니다. 봇과 디코 송출은 유지합니다.",
-        "stopped": true
+        "state": "pending",
+        "expires": 1792268758.596905,
+        "handover_operation": "cc316512a1284a568014be616396d331"
       },
       "disconnected_at": 1792266786.0920095,
       "web_closed_runtime": "c1a8a7d6b7af497f9e0d2cc89093d316",
@@ -98,7 +95,7 @@
   "request": "d70dc201eae5410f9dd1ff54eea4602d",
   "receiver": "ef9115177ec84ec796aa32d22292ab59",
   "control_channel": "1544243856525230132",
-  "updated": 1792268745.8216183,
+  "updated": 1792268748.596905,
   "receiver_runtime": "f0b42a97dfbe4b2496fdc03a69b37cdf",
   "deadline": 1792268550.1715019,
   "released": true,
