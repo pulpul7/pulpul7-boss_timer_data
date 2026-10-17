@@ -78,21 +78,11 @@
       "web_recovery_protocol": 1,
       "web_standalone_protocol": 1,
       "web_call": {
-        "id": "1561140709304705094",
-        "runtime": "f0b42a97dfbe4b2496fdc03a69b37cdf",
-        "action": "program_update",
-        "state": "done",
-        "expires": 1792275966.7375622,
-        "update_host": [
-          "ef9115177ec84ec796aa32d22292ab59",
-          "f0b42a97dfbe4b2496fdc03a69b37cdf",
-          "069594989c4a46c2b1253ede1a6e0cf2"
-        ],
-        "requester_runtime": "a850077c64c44be2b8a4f5d66ac74a16",
-        "ok": true,
-        "message": "전체 업데이트 검증 완료 · 안내 전달 확인 후 본체와 봇을 다시 시작합니다. 기존 웹서버는 유지합니다.",
-        "stopped": false,
-        "notified": true
+        "id": "1561141602594979960",
+        "runtime": "f13ae6ec32544c1c82a5867e9689662e",
+        "action": "retry",
+        "state": "pending",
+        "expires": 1792275575.619124
       },
       "web_update_protocol": 1,
       "program_update_protocol": 1,
@@ -104,7 +94,7 @@
   "request": "66310582a476481cba151eafd62771b4",
   "receiver": "ef9115177ec84ec796aa32d22292ab59",
   "control_channel": "1544243856525230132",
-  "updated": 1792275428.944347,
+  "updated": 1792275565.619124,
   "receiver_runtime": "f13ae6ec32544c1c82a5867e9689662e",
   "deadline": 1792275456.2622921,
   "released": true,
