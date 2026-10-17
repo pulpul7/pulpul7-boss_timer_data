@@ -20,10 +20,27 @@
           "joining": false
         }
       ],
-      "index": 0,
-      "state": "pending",
-      "deadline": 1792275125.7209773,
-      "retries": [],
+      "index": 1,
+      "state": "unavailable",
+      "deadline": 1792275129.390054,
+      "retries": [
+        {
+          "previous": {
+            "client_id": "ef9115177ec84ec796aa32d22292ab59",
+            "display_id": "ef911517",
+            "runtime": "f0b42a97dfbe4b2496fdc03a69b37cdf",
+            "application_id": "1318071729083650089",
+            "bot_user_id": "1318071729083650089",
+            "name": "승아",
+            "server": "오9",
+            "season": "18",
+            "connected_at": 1792268016.5854204,
+            "sending": false,
+            "joining": false
+          },
+          "next": null
+        }
+      ],
       "offers": {},
       "routing_generation": 0
     }
