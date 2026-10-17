@@ -78,15 +78,12 @@
       "web_recovery_protocol": 1,
       "web_standalone_protocol": 1,
       "web_call": {
-        "id": "22317295178106381212369",
+        "id": "14248027788990508353131",
         "runtime": "f13ae6ec32544c1c82a5867e9689662e",
         "action": "stop",
-        "state": "done",
-        "expires": 1792277744.9321475,
-        "handover_operation": "c987a418a21a4e1b8d0cf40f4713a29a",
-        "ok": false,
-        "message": "웹 인계 요청이 종료되어 이전 중지 명령을 취소했습니다.",
-        "stopped": false
+        "state": "pending",
+        "expires": 1792277697.2922633,
+        "handover_operation": "86b70341b9d94f46bf1e57c336543b79"
       },
       "web_update_protocol": 1,
       "program_update_protocol": 1,
@@ -98,7 +95,7 @@
   "request": "35ea7cffc2084437ab54f5f3117a8bd8",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1792277684.1656594,
+  "updated": 1792277687.2922633,
   "receiver_runtime": "2dfead866fc4482b9add0b2fd4a8091c",
   "deadline": 1792277697.4291313,
   "released": true,
