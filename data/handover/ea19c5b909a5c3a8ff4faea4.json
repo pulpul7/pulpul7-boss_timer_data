@@ -95,10 +95,10 @@
   "request": "01fe4ebeb72a4a468348fd36daaa5eea",
   "receiver": "ef9115177ec84ec796aa32d22292ab59",
   "control_channel": "1544243856525230132",
-  "updated": 1792265545.1836662,
+  "updated": 1792265545.9375467,
   "receiver_runtime": "8d2ac62177f2464cac9c126f64673d78",
   "deadline": 1792265573.6138046,
-  "released": false,
+  "released": true,
   "channel": "1386707540108251200",
   "upload": "대기",
   "previous_owner": [
@@ -109,7 +109,12 @@
   ],
   "failure": "",
   "failure_request": "",
-  "release_proof": {},
+  "release_proof": {
+    "kind": "voice_stopped",
+    "client": "c341709b321e4593b11e9146f5752f6f",
+    "runtime": "99ed2a84485744398ae54e9d67d317da",
+    "request": "01fe4ebeb72a4a468348fd36daaa5eea"
+  },
   "owner_application_id": "1318071729083650089",
   "owner_bot_user_id": "1318071729083650089",
   "query_responder": {},
