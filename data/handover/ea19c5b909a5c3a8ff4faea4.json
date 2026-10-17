@@ -78,14 +78,12 @@
       "web_recovery_protocol": 1,
       "web_standalone_protocol": 1,
       "web_call": {
-        "id": "1561141602594979960",
+        "id": "21665516674848393041789",
         "runtime": "f13ae6ec32544c1c82a5867e9689662e",
-        "action": "retry",
-        "state": "done",
-        "expires": 1792275638.7154305,
-        "ok": true,
-        "message": "웹 공개 준비 완료 · 대상 PC에서 1회 시도했습니다.\nhttps://bambi01.duckdns.org",
-        "stopped": false
+        "action": "stop",
+        "state": "pending",
+        "expires": 1792276206.3193202,
+        "handover_operation": "7a6f831b861f48fd984aef33d097331d"
       },
       "web_update_protocol": 1,
       "program_update_protocol": 1,
@@ -97,7 +95,7 @@
   "request": "bdb04c7dab014261805001b8eabc22b6",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1792276195.159012,
+  "updated": 1792276196.3193202,
   "receiver_runtime": "a850077c64c44be2b8a4f5d66ac74a16",
   "deadline": 1792276225.159012,
   "released": true,
