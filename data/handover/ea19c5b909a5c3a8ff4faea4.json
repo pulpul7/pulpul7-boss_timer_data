@@ -58,7 +58,7 @@
       "season": "18",
       "application_id": "1318071729083650089",
       "bot_user_id": "1318071729083650089",
-      "online": true,
+      "online": false,
       "runtime": "f13ae6ec32544c1c82a5867e9689662e",
       "connected_at": 1792275423.4094057,
       "protocol": 3,
@@ -90,15 +90,15 @@
       },
       "web_update_protocol": 1,
       "program_update_protocol": 1,
-      "disconnected_at": 1792275391.6423984,
-      "web_closed_runtime": "8d2ac62177f2464cac9c126f64673d78",
-      "web_closed_at": 1792266221.4237456
+      "disconnected_at": 1792279358.5405688,
+      "web_closed_runtime": "f13ae6ec32544c1c82a5867e9689662e",
+      "web_closed_at": 1792279358.5405688
     }
   },
   "request": "35ea7cffc2084437ab54f5f3117a8bd8",
   "receiver": "",
   "control_channel": "1544243856525230132",
-  "updated": 1792279354.221434,
+  "updated": 1792279358.5405688,
   "receiver_runtime": "2dfead866fc4482b9add0b2fd4a8091c",
   "deadline": 1792277697.4291313,
   "released": true,
