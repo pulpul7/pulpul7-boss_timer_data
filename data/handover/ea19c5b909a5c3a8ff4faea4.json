@@ -98,7 +98,7 @@
   "request": "2c0835460aed41409c8ee668fdc98533",
   "receiver": "ef9115177ec84ec796aa32d22292ab59",
   "control_channel": "1544243856525230132",
-  "updated": 1792269779.6042178,
+  "updated": 1792269783.045277,
   "receiver_runtime": "f0b42a97dfbe4b2496fdc03a69b37cdf",
   "deadline": 1792269797.649673,
   "released": true,
@@ -148,13 +148,80 @@
   "web_generation": 564,
   "web_standalone": {
     "protocol": 1,
-    "id": "531e399d9e17416692117c2f026c5f7f",
-    "state": "stopped",
-    "owner": "c341709b321e4593b11e9146f5752f6f",
-    "runtime": "f81e2fd8a6804c4cb3c6284a9ae4355a",
+    "id": "b4ef090247f74193b0a53472329a21c1",
+    "state": "active",
+    "generation": 564,
+    "owner": "ef9115177ec84ec796aa32d22292ab59",
+    "runtime": "f0b42a97dfbe4b2496fdc03a69b37cdf",
     "guild": "1386707538908676267",
     "server": "오9",
-    "season": "18"
+    "season": "18",
+    "started_at": 1792269783.045277,
+    "backup": {
+      "protocol": 1,
+      "id": "73c485946902473b8e3dc0270bec0a17",
+      "state": "active",
+      "generation": 563,
+      "owner": "c341709b321e4593b11e9146f5752f6f",
+      "runtime": "f81e2fd8a6804c4cb3c6284a9ae4355a",
+      "guild": "1386707538908676267",
+      "server": "오9",
+      "season": "18",
+      "started_at": 1792269735.2270849,
+      "backup": {
+        "protocol": 1,
+        "id": "325a8a56e7b44d8da98a3ed4766ef32d",
+        "state": "active",
+        "generation": 562,
+        "owner": "ef9115177ec84ec796aa32d22292ab59",
+        "runtime": "f0b42a97dfbe4b2496fdc03a69b37cdf",
+        "guild": "1386707538908676267",
+        "server": "오9",
+        "season": "18",
+        "started_at": 1792269644.6561482,
+        "backup": {
+          "protocol": 1,
+          "id": "56613cd3c51946769f0e140d5c63133d",
+          "state": "active",
+          "generation": 561,
+          "owner": "c341709b321e4593b11e9146f5752f6f",
+          "runtime": "f81e2fd8a6804c4cb3c6284a9ae4355a",
+          "guild": "1386707538908676267",
+          "server": "오9",
+          "season": "18",
+          "started_at": 1792269607.980459,
+          "backup": {
+            "protocol": 1,
+            "id": "95056a7d6ca245969f2569ac67077900",
+            "state": "active",
+            "generation": 559,
+            "owner": "ef9115177ec84ec796aa32d22292ab59",
+            "runtime": "f0b42a97dfbe4b2496fdc03a69b37cdf",
+            "guild": "1386707538908676267",
+            "server": "오9",
+            "season": "18",
+            "started_at": 1792269497.384602,
+            "backup": {
+              "protocol": 1,
+              "id": "ef1425535e414f2c809026a3f78f0b3e",
+              "state": "active",
+              "generation": 558,
+              "owner": "c341709b321e4593b11e9146f5752f6f",
+              "runtime": "f81e2fd8a6804c4cb3c6284a9ae4355a",
+              "guild": "1386707538908676267",
+              "server": "오9",
+              "season": "18",
+              "started_at": 1792269413.1262844
+            },
+            "trial_deadline": 1792269617.384602
+          },
+          "trial_deadline": 1792269727.980459
+        },
+        "trial_deadline": 1792269764.6561482
+      },
+      "trial_deadline": 1792269855.2270849
+    },
+    "trial_deadline": 1792269903.045277
   },
   "web_background": {
     "protocol": 1,
@@ -162,12 +229,5 @@
     "runtime": "f81e2fd8a6804c4cb3c6284a9ae4355a",
     "id": "73c485946902473b8e3dc0270bec0a17",
     "valid_until": 1792269844.5828412
-  },
-  "web_operation": {
-    "id": "b4ef090247f74193b0a53472329a21c1",
-    "owner": "ef9115177ec84ec796aa32d22292ab59",
-    "runtime": "f0b42a97dfbe4b2496fdc03a69b37cdf",
-    "web_generation": 564,
-    "expires": 1792269913.070305
   }
 }
