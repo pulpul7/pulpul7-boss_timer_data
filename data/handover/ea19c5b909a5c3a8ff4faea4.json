@@ -1,1 +1,164 @@
-{"schema": 3, "scope": {"guild": "1386707538908676267", "server": "오9", "season": "18"}, "owner": "ef9115177ec84ec796aa32d22292ab59", "owner_runtime": "f0b42a97dfbe4b2496fdc03a69b37cdf", "generation": 568, "phase": "active", "members": {"c341709b321e4593b11e9146f5752f6f": {"name": "나츠", "server": "오9", "season": "18", "application_id": "1318071729083650089", "bot_user_id": "1318071729083650089", "online": true, "runtime": "a850077c64c44be2b8a4f5d66ac74a16", "connected_at": 1792275155.0156975, "protocol": 3, "presence_mode": "event", "seen": 1792275155.8142698, "call": {"id": "1556360935944224808", "runtime": "6ec7e0e5f7a14dd8bd51b485dab7cc02", "channel": "1386707540108251200", "state": "done", "expires": 1791135796.5741205, "ok": true, "message": "관리자 · 송출 중 (로컬 스케줄 유지 · 동기화는 수동)"}, "web_delegate_protocol": 1, "web_public_available": true, "web_recovery_protocol": 1, "web_standalone_protocol": 1, "web_call": {"id": "20178115786951580138072", "runtime": "a850077c64c44be2b8a4f5d66ac74a16", "action": "stop", "state": "done", "expires": 1792275319.700115, "handover_operation": "069594989c4a46c2b1253ede1a6e0cf2", "ok": true, "message": "웹 서버 종료 완료 · 외부 접근과 주소 갱신을 중지했습니다. 봇과 디코 송출은 유지합니다.", "stopped": true}, "disconnected_at": 1792274744.130319, "web_closed_runtime": "422ff6960d48422390f5ed7107a6ecdd", "web_closed_at": 1792269162.26958, "web_update_protocol": 1, "program_update_protocol": 1}, "ef9115177ec84ec796aa32d22292ab59": {"name": "승아", "server": "오9", "season": "18", "application_id": "1318071729083650089", "bot_user_id": "1318071729083650089", "online": true, "runtime": "f0b42a97dfbe4b2496fdc03a69b37cdf", "connected_at": 1792268016.5854204, "protocol": 3, "presence_mode": "event", "seen": 1792268523.32592, "call": {"id": "1556360340378493191", "runtime": "6d023101b53f4f6f8a2bf8a54490fc76", "channel": "1386707540108251200", "state": "done", "expires": 1791135654.521023, "ok": true, "message": "관리자 · 송출 중 (로컬 스케줄 유지 · 동기화는 수동)"}, "web_delegate_protocol": 1, "web_public_available": true, "web_recovery_protocol": 1, "web_standalone_protocol": 1, "web_call": {"id": "1561140709304705094", "runtime": "f0b42a97dfbe4b2496fdc03a69b37cdf", "action": "program_update", "state": "done", "expires": 1792275966.7375622, "update_host": ["ef9115177ec84ec796aa32d22292ab59", "f0b42a97dfbe4b2496fdc03a69b37cdf", "069594989c4a46c2b1253ede1a6e0cf2"], "requester_runtime": "a850077c64c44be2b8a4f5d66ac74a16", "ok": true, "message": "전체 업데이트 검증 완료 · 안내 전달 확인 후 본체와 봇을 다시 시작합니다. 기존 웹서버는 유지합니다.", "stopped": false, "notified": true}, "web_update_protocol": 1, "program_update_protocol": 1, "disconnected_at": 1792266221.4227493, "web_closed_runtime": "8d2ac62177f2464cac9c126f64673d78", "web_closed_at": 1792266221.4237456}}, "request": "fe10fc975f104d28ada4ee9952476685", "receiver": "ef9115177ec84ec796aa32d22292ab59", "control_channel": "1544243856525230132", "updated": 1792275386.3041887, "receiver_runtime": "f0b42a97dfbe4b2496fdc03a69b37cdf", "deadline": 1792275272.844906, "released": true, "channel": "1386707540108251200", "upload": "대기", "previous_owner": ["", "", 567, "49aae1fd541141fbb832f3f0b1f1610f"], "failure": "", "failure_request": "", "release_proof": {}, "owner_application_id": "1318071729083650089", "owner_bot_user_id": "1318071729083650089", "query_responder": {}, "query_routing_generation": 0, "web_transfer": {"request": "fe10fc975f104d28ada4ee9952476685", "state": "pending"}, "web_independent": true, "web_generation": 574, "web_standalone": {"protocol": 1, "id": "069594989c4a46c2b1253ede1a6e0cf2", "state": "active", "generation": 574, "owner": "ef9115177ec84ec796aa32d22292ab59", "runtime": "f0b42a97dfbe4b2496fdc03a69b37cdf", "guild": "1386707538908676267", "server": "오9", "season": "18", "started_at": 1792275254.0698073, "backup": {"protocol": 1, "id": "88baa0a060d74018865560ebeab91454", "state": "active", "generation": 573, "owner": "c341709b321e4593b11e9146f5752f6f", "runtime": "f81e2fd8a6804c4cb3c6284a9ae4355a", "guild": "1386707538908676267", "server": "오9", "season": "18", "started_at": 1792273877.8126335}, "trial_deadline": 1792275374.0698073}, "web_background": {"protocol": 1, "owner": "ef9115177ec84ec796aa32d22292ab59", "runtime": "f0b42a97dfbe4b2496fdc03a69b37cdf", "id": "069594989c4a46c2b1253ede1a6e0cf2", "valid_until": 1792275480.1154633}}
+{
+  "schema": 3,
+  "scope": {
+    "guild": "1386707538908676267",
+    "server": "오9",
+    "season": "18"
+  },
+  "owner": "",
+  "owner_runtime": "",
+  "generation": 569,
+  "phase": "idle",
+  "members": {
+    "c341709b321e4593b11e9146f5752f6f": {
+      "name": "나츠",
+      "server": "오9",
+      "season": "18",
+      "application_id": "1318071729083650089",
+      "bot_user_id": "1318071729083650089",
+      "online": true,
+      "runtime": "a850077c64c44be2b8a4f5d66ac74a16",
+      "connected_at": 1792275155.0156975,
+      "protocol": 3,
+      "presence_mode": "event",
+      "seen": 1792275155.8142698,
+      "call": {
+        "id": "1556360935944224808",
+        "runtime": "6ec7e0e5f7a14dd8bd51b485dab7cc02",
+        "channel": "1386707540108251200",
+        "state": "done",
+        "expires": 1791135796.5741205,
+        "ok": true,
+        "message": "관리자 · 송출 중 (로컬 스케줄 유지 · 동기화는 수동)"
+      },
+      "web_delegate_protocol": 1,
+      "web_public_available": true,
+      "web_recovery_protocol": 1,
+      "web_standalone_protocol": 1,
+      "web_call": {
+        "id": "20178115786951580138072",
+        "runtime": "a850077c64c44be2b8a4f5d66ac74a16",
+        "action": "stop",
+        "state": "done",
+        "expires": 1792275319.700115,
+        "handover_operation": "069594989c4a46c2b1253ede1a6e0cf2",
+        "ok": true,
+        "message": "웹 서버 종료 완료 · 외부 접근과 주소 갱신을 중지했습니다. 봇과 디코 송출은 유지합니다.",
+        "stopped": true
+      },
+      "disconnected_at": 1792274744.130319,
+      "web_closed_runtime": "422ff6960d48422390f5ed7107a6ecdd",
+      "web_closed_at": 1792269162.26958,
+      "web_update_protocol": 1,
+      "program_update_protocol": 1
+    },
+    "ef9115177ec84ec796aa32d22292ab59": {
+      "name": "승아",
+      "server": "오9",
+      "season": "18",
+      "application_id": "1318071729083650089",
+      "bot_user_id": "1318071729083650089",
+      "online": false,
+      "runtime": "f0b42a97dfbe4b2496fdc03a69b37cdf",
+      "connected_at": 1792268016.5854204,
+      "protocol": 3,
+      "presence_mode": "event",
+      "seen": 1792268523.32592,
+      "call": {
+        "id": "1556360340378493191",
+        "runtime": "6d023101b53f4f6f8a2bf8a54490fc76",
+        "channel": "1386707540108251200",
+        "state": "done",
+        "expires": 1791135654.521023,
+        "ok": true,
+        "message": "관리자 · 송출 중 (로컬 스케줄 유지 · 동기화는 수동)"
+      },
+      "web_delegate_protocol": 1,
+      "web_public_available": true,
+      "web_recovery_protocol": 1,
+      "web_standalone_protocol": 1,
+      "web_call": {
+        "id": "1561140709304705094",
+        "runtime": "f0b42a97dfbe4b2496fdc03a69b37cdf",
+        "action": "program_update",
+        "state": "done",
+        "expires": 1792275966.7375622,
+        "update_host": [
+          "ef9115177ec84ec796aa32d22292ab59",
+          "f0b42a97dfbe4b2496fdc03a69b37cdf",
+          "069594989c4a46c2b1253ede1a6e0cf2"
+        ],
+        "requester_runtime": "a850077c64c44be2b8a4f5d66ac74a16",
+        "ok": true,
+        "message": "전체 업데이트 검증 완료 · 안내 전달 확인 후 본체와 봇을 다시 시작합니다. 기존 웹서버는 유지합니다.",
+        "stopped": false,
+        "notified": true
+      },
+      "web_update_protocol": 1,
+      "program_update_protocol": 1,
+      "disconnected_at": 1792275391.6423984,
+      "web_closed_runtime": "8d2ac62177f2464cac9c126f64673d78",
+      "web_closed_at": 1792266221.4237456
+    }
+  },
+  "request": "fe10fc975f104d28ada4ee9952476685",
+  "receiver": "",
+  "control_channel": "1544243856525230132",
+  "updated": 1792275391.6423984,
+  "receiver_runtime": "f0b42a97dfbe4b2496fdc03a69b37cdf",
+  "deadline": 1792275272.844906,
+  "released": true,
+  "channel": "1386707540108251200",
+  "upload": "대기",
+  "previous_owner": [
+    "",
+    "",
+    567,
+    "49aae1fd541141fbb832f3f0b1f1610f"
+  ],
+  "failure": "",
+  "failure_request": "",
+  "release_proof": {},
+  "owner_application_id": "",
+  "owner_bot_user_id": "",
+  "query_responder": {},
+  "query_routing_generation": 0,
+  "web_transfer": {
+    "request": "fe10fc975f104d28ada4ee9952476685",
+    "state": "pending"
+  },
+  "web_independent": true,
+  "web_generation": 574,
+  "web_standalone": {
+    "protocol": 1,
+    "id": "069594989c4a46c2b1253ede1a6e0cf2",
+    "state": "active",
+    "generation": 574,
+    "owner": "ef9115177ec84ec796aa32d22292ab59",
+    "runtime": "f0b42a97dfbe4b2496fdc03a69b37cdf",
+    "guild": "1386707538908676267",
+    "server": "오9",
+    "season": "18",
+    "started_at": 1792275254.0698073,
+    "backup": {
+      "protocol": 1,
+      "id": "88baa0a060d74018865560ebeab91454",
+      "state": "active",
+      "generation": 573,
+      "owner": "c341709b321e4593b11e9146f5752f6f",
+      "runtime": "f81e2fd8a6804c4cb3c6284a9ae4355a",
+      "guild": "1386707538908676267",
+      "server": "오9",
+      "season": "18",
+      "started_at": 1792273877.8126335
+    },
+    "trial_deadline": 1792275374.0698073
+  },
+  "web_background": {
+    "protocol": 1,
+    "owner": "ef9115177ec84ec796aa32d22292ab59",
+    "runtime": "f0b42a97dfbe4b2496fdc03a69b37cdf",
+    "id": "069594989c4a46c2b1253ede1a6e0cf2",
+    "valid_until": 1792275480.1154633
+  }
+}
