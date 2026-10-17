@@ -2,42 +2,30 @@
   "schema": 1,
   "guild": "1386707538908676267",
   "requests": {
-    "1555652892546039819": {
-      "query": "schedule",
-      "created": 1790966953.665142,
+    "1561139745265025145": {
+      "query": "help",
+      "created": 1792275122.7209773,
       "candidates": [
         {
-          "client_id": "c341709b321e4593b11e9146f5752f6f",
-          "display_id": "c341709b",
-          "runtime": "b0e124e52dcf43f49692d88670f743ca",
-          "name": "나츠",
+          "client_id": "ef9115177ec84ec796aa32d22292ab59",
+          "display_id": "ef911517",
+          "runtime": "f0b42a97dfbe4b2496fdc03a69b37cdf",
+          "application_id": "1318071729083650089",
+          "bot_user_id": "1318071729083650089",
+          "name": "승아",
           "server": "오9",
-          "season": "22",
-          "connected_at": 1790966920.1169178,
-          "sending": true
+          "season": "18",
+          "connected_at": 1792268016.5854204,
+          "sending": false,
+          "joining": false
         }
       ],
       "index": 0,
-      "state": "ready",
-      "deadline": 1790966956.665142,
+      "state": "pending",
+      "deadline": 1792275125.7209773,
       "retries": [],
-      "offers": {
-        "c341709b321e4593b11e9146f5752f6f": {
-          "runtime": "b0e124e52dcf43f49692d88670f743ca",
-          "at": 1790966953.1398325
-        }
-      },
-      "routing_generation": 0,
-      "source": {
-        "client_id": "c341709b321e4593b11e9146f5752f6f",
-        "display_id": "c341709b",
-        "runtime": "b0e124e52dcf43f49692d88670f743ca",
-        "name": "나츠",
-        "server": "오9",
-        "season": "22",
-        "connected_at": 1790966920.1169178,
-        "sending": true
-      }
+      "offers": {},
+      "routing_generation": 0
     }
   },
   "responder": {},
