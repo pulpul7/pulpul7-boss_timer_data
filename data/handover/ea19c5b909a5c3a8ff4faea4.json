@@ -98,7 +98,7 @@
   "request": "35ea7cffc2084437ab54f5f3117a8bd8",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1792277676.5376768,
+  "updated": 1792277684.1656594,
   "receiver_runtime": "2dfead866fc4482b9add0b2fd4a8091c",
   "deadline": 1792277697.4291313,
   "released": true,
@@ -145,7 +145,7 @@
     "source_season": "18"
   },
   "web_independent": true,
-  "web_generation": 578,
+  "web_generation": 579,
   "web_standalone": {
     "protocol": 1,
     "id": "1d82e1d17dbf4bdf8ab391c888c27ede",
@@ -164,5 +164,12 @@
     "runtime": "f13ae6ec32544c1c82a5867e9689662e",
     "id": "1d82e1d17dbf4bdf8ab391c888c27ede",
     "valid_until": 1792276459.3714485
+  },
+  "web_operation": {
+    "id": "86b70341b9d94f46bf1e57c336543b79",
+    "owner": "c341709b321e4593b11e9146f5752f6f",
+    "runtime": "2dfead866fc4482b9add0b2fd4a8091c",
+    "web_generation": 579,
+    "expires": 1792277834.1656594
   }
 }
