@@ -1,16 +1,16 @@
 {
   "appMinVersion": "6.3.0",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.10.18.001",
+  "dataVersion": "2026.10.18.002",
   "kind": "schedule",
   "payload": {
     "version": 1,
     "exported_at": {
       "__type__": "datetime",
-      "value": "2026-10-18T05:31:49"
+      "value": "2026-10-18T05:39:27"
     },
     "season_no": "18",
-    "season_started_at": "2026-10-01 19:29:00",
+    "season_started_at": "2026-10-03 09:37:00",
     "season_label": "오9 딸기 18차 시즌",
     "server_name": "오9",
     "guild_name": "딸기",
@@ -11311,5 +11311,5 @@
     "schedule_control_events": [],
     "schedule_second_precision_offsets": {}
   },
-  "contentHash": "94f71757be02ef42b3bd2f9e17a41d43c4502cd2"
+  "contentHash": "cd3edbd8c3fc4b8427fb921b3e6079af1c5279c9"
 }
