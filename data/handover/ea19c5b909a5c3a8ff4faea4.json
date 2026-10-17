@@ -95,7 +95,7 @@
   "request": "01fe4ebeb72a4a468348fd36daaa5eea",
   "receiver": "ef9115177ec84ec796aa32d22292ab59",
   "control_channel": "1544243856525230132",
-  "updated": 1792265548.4973254,
+  "updated": 1792265549.5155559,
   "receiver_runtime": "8d2ac62177f2464cac9c126f64673d78",
   "deadline": 1792265578.4973254,
   "released": true,
@@ -121,7 +121,25 @@
   "query_routing_generation": 0,
   "web_transfer": {
     "request": "01fe4ebeb72a4a468348fd36daaa5eea",
-    "state": "pending"
+    "state": "failed",
+    "failure_reason": "오9: 서버에 더 최신 버전이 있어 업로드하지 않았습니다. 먼저 동기화하세요. (스케쥴 서버=2026.10.13.002, PC=2026.10.12.007)",
+    "web_state_path": "",
+    "entry": {
+      "id": "오9",
+      "name": "오9",
+      "schedule": "data/schedules/오9.json",
+      "bosses": "data/bosses/오9.json",
+      "config": "data/config/오9.json",
+      "notices": "data/notices/오9.json",
+      "scheduleVersion": "2026.10.13.002",
+      "dataVersion": "2026.10.13.002",
+      "scheduleHash": "b0876739d0b48ecc7ef1e2e07a8c6349520a6e31",
+      "bossConfigVersion": "2026.09.16.006",
+      "bossConfigHash": "130debb265b51ea52eb389e65f3c460ae7f890d3",
+      "updatedAt": "2026-10-13 18:00:03"
+    },
+    "content_hash": "e299e6d6a34abbde041936f1a4ffd2aab2dc282e",
+    "source_season": "18"
   },
   "web_independent": true,
   "web_generation": 543,
