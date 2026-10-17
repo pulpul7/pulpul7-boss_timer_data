@@ -93,7 +93,7 @@
   "request": "5f047f6343e84b0fa8dd46cab57a6efb",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1792249472.5855858,
+  "updated": 1792249892.8957503,
   "receiver_runtime": "d5dcb927f7ac495bb01d7d3979f41925",
   "deadline": 1792241490.1068141,
   "released": true,
@@ -135,6 +135,6 @@
     "owner": "c341709b321e4593b11e9146f5752f6f",
     "runtime": "d5dcb927f7ac495bb01d7d3979f41925",
     "id": "c8eeb44d3d214b2d8d40073b4eb424a7",
-    "valid_until": 1792249562.5855858
+    "valid_until": 1792249982.8957503
   }
 }
