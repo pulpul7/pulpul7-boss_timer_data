@@ -98,7 +98,7 @@
   "request": "5014c906f2cb462e8dff440dae3a06cb",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1792269715.2610397,
+  "updated": 1792269716.81216,
   "receiver_runtime": "f81e2fd8a6804c4cb3c6284a9ae4355a",
   "deadline": 1792269745.2610397,
   "released": false,
@@ -122,7 +122,7 @@
     "state": "pending"
   },
   "web_independent": true,
-  "web_generation": 562,
+  "web_generation": 563,
   "web_standalone": {
     "protocol": 1,
     "id": "325a8a56e7b44d8da98a3ed4766ef32d",
@@ -180,5 +180,12 @@
     "runtime": "f0b42a97dfbe4b2496fdc03a69b37cdf",
     "id": "325a8a56e7b44d8da98a3ed4766ef32d",
     "valid_until": 1792269748.8892686
+  },
+  "web_operation": {
+    "id": "73c485946902473b8e3dc0270bec0a17",
+    "owner": "c341709b321e4593b11e9146f5752f6f",
+    "runtime": "f81e2fd8a6804c4cb3c6284a9ae4355a",
+    "web_generation": 563,
+    "expires": 1792269866.81216
   }
 }
