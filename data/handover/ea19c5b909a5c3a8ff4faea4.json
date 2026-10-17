@@ -95,7 +95,7 @@
   "request": "bdb04c7dab014261805001b8eabc22b6",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1792276196.3193202,
+  "updated": 1792276198.5064523,
   "receiver_runtime": "a850077c64c44be2b8a4f5d66ac74a16",
   "deadline": 1792276225.159012,
   "released": true,
@@ -121,7 +121,16 @@
   "query_routing_generation": 0,
   "web_transfer": {
     "request": "bdb04c7dab014261805001b8eabc22b6",
-    "state": "pending"
+    "state": "failed",
+    "failure_reason": "GitHub API 오류 409: is at acd3d1a567979ca2dfb5b6e5c1ee9f765b5cf89c but expected f3e48b7d7ec85583ecfd5880aed3afd16b97cc70",
+    "web_state_path": "",
+    "entry": {
+      "id": "오9",
+      "name": "오9",
+      "schedule": "data/schedules/오9.json"
+    },
+    "content_hash": "c4b30a678270fdc91096b523b876ea7f21ed165c",
+    "source_season": "18"
   },
   "web_independent": true,
   "web_generation": 576,
