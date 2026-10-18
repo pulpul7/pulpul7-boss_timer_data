@@ -21,7 +21,7 @@
       "connected_at": 1792346713.5177584,
       "protocol": 3,
       "presence_mode": "event",
-      "seen": 1792346714.9249592,
+      "seen": 1792346728.2960205,
       "call": {
         "id": "1556360935944224808",
         "runtime": "6ec7e0e5f7a14dd8bd51b485dab7cc02",
@@ -32,7 +32,7 @@
         "message": "관리자 · 송출 중 (로컬 스케줄 유지 · 동기화는 수동)"
       },
       "web_delegate_protocol": 1,
-      "web_public_available": false,
+      "web_public_available": true,
       "web_recovery_protocol": 1,
       "web_standalone_protocol": 1,
       "web_call": {
@@ -99,7 +99,7 @@
   "request": "697beaebb3a14704a8bdacce78a250d4",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1792346724.5071616,
+  "updated": 1792346728.2960205,
   "receiver_runtime": "b2bc75432c624d9ead59d98d8da556d6",
   "deadline": 1792346751.4836998,
   "released": true,
