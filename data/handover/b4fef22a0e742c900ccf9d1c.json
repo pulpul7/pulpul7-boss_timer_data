@@ -6,9 +6,9 @@
     "season": "18"
   },
   "owner": "12f05e163dd34f3b9d3744466dcca66d",
-  "owner_runtime": "09a34ce9bab74f5fae0fc1dcde4d695e",
-  "generation": 27,
-  "phase": "active",
+  "owner_runtime": "cd6d4cbf9a0840318aa48f674394792e",
+  "generation": 28,
+  "phase": "joining",
   "members": {
     "12f05e163dd34f3b9d3744466dcca66d": {
       "name": "듬직",
@@ -71,31 +71,33 @@
       "web_closed_at": 1792054404.9760282
     }
   },
-  "request": "1068d8787a094623b0c36cc0a935e7f4",
+  "request": "da7675a2184c4a12bfbacbd48a761731",
   "receiver": "12f05e163dd34f3b9d3744466dcca66d",
   "control_channel": "969555578215075864",
-  "updated": 1792535557.7685897,
-  "receiver_runtime": "09a34ce9bab74f5fae0fc1dcde4d695e",
-  "deadline": 1792505680.0059516,
+  "updated": 1792535567.9537513,
+  "receiver_runtime": "cd6d4cbf9a0840318aa48f674394792e",
+  "deadline": 1792535597.9537513,
   "released": true,
   "channel": "1189925955049885808",
   "upload": "대기",
   "previous_owner": [
-    "",
-    "",
-    26,
-    "9ec166a9759f4fae94241d124d622053"
+    "12f05e163dd34f3b9d3744466dcca66d",
+    "09a34ce9bab74f5fae0fc1dcde4d695e",
+    27,
+    "1068d8787a094623b0c36cc0a935e7f4"
   ],
   "failure": "",
   "failure_request": "",
-  "release_proof": {},
+  "release_proof": {
+    "kind": "operator_confirmed"
+  },
   "owner_application_id": "1542441650746302505",
   "owner_bot_user_id": "1542441650746302505",
   "query_responder": {},
   "query_routing_generation": 0,
   "web_independent": true,
   "web_transfer": {
-    "request": "1068d8787a094623b0c36cc0a935e7f4",
+    "request": "da7675a2184c4a12bfbacbd48a761731",
     "state": "pending"
   },
   "web_generation": 29,
