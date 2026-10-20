@@ -8,7 +8,7 @@
   "owner": "12f05e163dd34f3b9d3744466dcca66d",
   "owner_runtime": "cd6d4cbf9a0840318aa48f674394792e",
   "generation": 28,
-  "phase": "joining",
+  "phase": "active",
   "members": {
     "12f05e163dd34f3b9d3744466dcca66d": {
       "name": "듬직",
@@ -74,7 +74,7 @@
   "request": "da7675a2184c4a12bfbacbd48a761731",
   "receiver": "12f05e163dd34f3b9d3744466dcca66d",
   "control_channel": "969555578215075864",
-  "updated": 1792535569.80598,
+  "updated": 1792535571.6888905,
   "receiver_runtime": "cd6d4cbf9a0840318aa48f674394792e",
   "deadline": 1792535597.9537513,
   "released": true,
