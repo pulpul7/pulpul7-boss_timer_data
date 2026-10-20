@@ -99,7 +99,7 @@
   "request": "eb023decc0ac48bda35aa75610d1c8a4",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1792536607.064437,
+  "updated": 1792536627.2413054,
   "receiver_runtime": "184cf20ea7854b829816a638ab04db09",
   "deadline": 1792536627.9549649,
   "released": true,
@@ -135,5 +135,12 @@
     "server": "오9",
     "season": "18",
     "started_at": 1792536607.064437
+  },
+  "web_background": {
+    "protocol": 1,
+    "owner": "c341709b321e4593b11e9146f5752f6f",
+    "runtime": "184cf20ea7854b829816a638ab04db09",
+    "id": "a14aa34342544f5bbea4dcd7b5c3cf92",
+    "valid_until": 1792536717.2413054
   }
 }
