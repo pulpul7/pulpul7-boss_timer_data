@@ -26,9 +26,9 @@
       "web_public_available": true,
       "web_recovery_protocol": 1,
       "web_standalone_protocol": 1,
-      "disconnected_at": 1792505554.7064447,
-      "web_closed_runtime": "a491c489a8cd4bcab58d9a4c1bd531e2",
-      "web_closed_at": 1792053983.1234443
+      "disconnected_at": 1792505559.1069567,
+      "web_closed_runtime": "e47f36585cc84452a74075c15f37bac7",
+      "web_closed_at": 1792505559.1069567
     },
     "c341709b321e4593b11e9146f5752f6f": {
       "name": "나츠",
@@ -71,7 +71,7 @@
   "request": "9ec166a9759f4fae94241d124d622053",
   "receiver": "",
   "control_channel": "969555578215075864",
-  "updated": 1792505554.7076414,
+  "updated": 1792505559.1069567,
   "receiver_runtime": "e47f36585cc84452a74075c15f37bac7",
   "deadline": 1792418278.7693453,
   "released": true,
@@ -98,14 +98,12 @@
   "web_generation": 26,
   "web_standalone": {
     "protocol": 1,
-    "id": "07300d0422fc4b76a45da278f78b0cd3",
-    "state": "active",
-    "generation": 26,
+    "id": "37d0ebae4ec649eaac56697987efa638",
+    "state": "stopped",
     "owner": "12f05e163dd34f3b9d3744466dcca66d",
     "runtime": "e47f36585cc84452a74075c15f37bac7",
     "guild": "969555578215075860",
     "server": "오8",
-    "season": "18",
-    "started_at": 1792191636.5089655
+    "season": "18"
   }
 }
