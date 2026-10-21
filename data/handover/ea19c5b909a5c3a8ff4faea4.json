@@ -59,12 +59,12 @@
       "season": "18",
       "application_id": "1318071729083650089",
       "bot_user_id": "1318071729083650089",
-      "online": false,
-      "runtime": "f13ae6ec32544c1c82a5867e9689662e",
-      "connected_at": 1792275423.4094057,
+      "online": true,
+      "runtime": "580a7c0bfa634c099156aecf551e49c4",
+      "connected_at": 1792559454.2122724,
       "protocol": 3,
       "presence_mode": "event",
-      "seen": 1792275424.691325,
+      "seen": 1792559455.7925866,
       "call": {
         "id": "1556360340378493191",
         "runtime": "6d023101b53f4f6f8a2bf8a54490fc76",
@@ -93,13 +93,14 @@
       "program_update_protocol": 1,
       "disconnected_at": 1792279358.5405688,
       "web_closed_runtime": "f13ae6ec32544c1c82a5867e9689662e",
-      "web_closed_at": 1792279358.5405688
+      "web_closed_at": 1792279358.5405688,
+      "web_refresh_protocol": 1
     }
   },
   "request": "4aaea1ee47964a648d0dc5d46465517b",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1792559453.5600386,
+  "updated": 1792559455.7925866,
   "receiver_runtime": "3d33079913c14c41aa20eecd82658286",
   "deadline": 1792559460.4273586,
   "released": true,
