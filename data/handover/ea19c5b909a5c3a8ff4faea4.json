@@ -39,9 +39,12 @@
         "id": "22985794143437335134277",
         "runtime": "3d33079913c14c41aa20eecd82658286",
         "action": "stop",
-        "state": "accepted",
+        "state": "done",
         "expires": 1792559648.8923585,
-        "handover_operation": "1bc954495af04d87bbb1dc4e9e3cab70"
+        "handover_operation": "1bc954495af04d87bbb1dc4e9e3cab70",
+        "ok": true,
+        "message": "웹 서버 종료 완료 · 외부 접근과 주소 갱신을 중지했습니다. 봇과 디코 송출은 유지합니다.",
+        "stopped": true
       },
       "disconnected_at": 1792558557.2600546,
       "web_closed_runtime": "7372792a642c497aa92bb64559f4bff3",
@@ -97,7 +100,7 @@
   "request": "9b24c28a50774eeba2aac07c47bb1eb5",
   "receiver": "ef9115177ec84ec796aa32d22292ab59",
   "control_channel": "1544243856525230132",
-  "updated": 1792559582.0857227,
+  "updated": 1792559588.7454243,
   "receiver_runtime": "580a7c0bfa634c099156aecf551e49c4",
   "deadline": 1792559606.8651462,
   "released": true,
@@ -138,15 +141,13 @@
   "web_generation": 630,
   "web_standalone": {
     "protocol": 1,
-    "id": "a23da780d2e740e09f7068a95b627313",
-    "state": "active",
-    "generation": 629,
+    "id": "ae380fdee87d48d3869becbaa1574394",
+    "state": "stopped",
     "owner": "c341709b321e4593b11e9146f5752f6f",
     "runtime": "3d33079913c14c41aa20eecd82658286",
     "guild": "1386707538908676267",
     "server": "오9",
-    "season": "18",
-    "started_at": 1792559438.620948
+    "season": "18"
   },
   "web_background": {
     "protocol": 1,
