@@ -46,7 +46,7 @@
         "message": "웹 서버 종료 완료 · 외부 접근과 주소 갱신을 중지했습니다. 봇과 디코 송출은 유지합니다.",
         "stopped": true
       },
-      "disconnected_at": 1792594753.0477939,
+      "disconnected_at": 1792594756.2545648,
       "web_closed_runtime": "2f1377097184420ca0341ff156c510ac",
       "web_closed_at": 1792586322.3353395,
       "web_update_protocol": 1,
@@ -100,7 +100,7 @@
   "request": "5ae6e2b04c0f405d97d7e08a7ca525c4",
   "receiver": "",
   "control_channel": "1544243856525230132",
-  "updated": 1792594753.0490746,
+  "updated": 1792594756.2545648,
   "receiver_runtime": "c64ef56b74e248ab819f56e5130dd0d9",
   "deadline": 1792593920.6869774,
   "released": true,
