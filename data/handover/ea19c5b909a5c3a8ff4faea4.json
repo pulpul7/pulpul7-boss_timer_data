@@ -100,7 +100,7 @@
   "request": "ec55e55f308f4d3db2c839084ee108ea",
   "receiver": "c341709b321e4593b11e9146f5752f6f",
   "control_channel": "1544243856525230132",
-  "updated": 1792641388.425072,
+  "updated": 1792641408.11187,
   "receiver_runtime": "a75559aa8f7d4f2684fb558165c29b55",
   "deadline": 1792641400.2938154,
   "released": true,
@@ -140,8 +140,8 @@
   "web_background": {
     "protocol": 1,
     "owner": "c341709b321e4593b11e9146f5752f6f",
-    "runtime": "9d0db9b0a59e4bc8b1aee6f4373a3cdd",
-    "id": "2f21198c1f944cdda6b50cfe9828485c",
-    "valid_until": 1792603489.7831564
+    "runtime": "a75559aa8f7d4f2684fb558165c29b55",
+    "id": "69cd77f44b8d4762bcca3517d655be1c",
+    "valid_until": 1792641498.11187
   }
 }
