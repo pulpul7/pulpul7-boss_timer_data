@@ -36,8 +36,8 @@
         "id": "1565379120375009310",
         "runtime": "1969cfd5bd6f4c869cc5eae71067de9b",
         "action": "retry",
-        "state": "pending",
-        "expires": 1793285878.824172
+        "state": "accepted",
+        "expires": 1793285940.3966606
       },
       "call": {
         "id": "1565378687942135961",
@@ -90,7 +90,7 @@
   "request": "b7dc72b5b5d2443784e3e45c38f11faf",
   "receiver": "12f05e163dd34f3b9d3744466dcca66d",
   "control_channel": "969555578215075864",
-  "updated": 1793285868.824172,
+  "updated": 1793285870.3966606,
   "receiver_runtime": "1969cfd5bd6f4c869cc5eae71067de9b",
   "deadline": 1792933054.8140352,
   "released": true,
