@@ -33,14 +33,11 @@
       "web_refresh_protocol": 1,
       "program_update_protocol": 1,
       "web_call": {
-        "id": "1565374900632289290",
+        "id": "1565378473411878953",
         "runtime": "1969cfd5bd6f4c869cc5eae71067de9b",
-        "action": "retry",
-        "state": "done",
-        "expires": 1793284935.3046618,
-        "ok": true,
-        "message": "웹 공개 준비 완료 · 대상 PC에서 1회 시도했습니다.\nhttps://ajes01.duckdns.org",
-        "stopped": false
+        "action": "stop",
+        "state": "pending",
+        "expires": 1793285724.6104815
       }
     },
     "c341709b321e4593b11e9146f5752f6f": {
@@ -84,7 +81,7 @@
   "request": "b7dc72b5b5d2443784e3e45c38f11faf",
   "receiver": "12f05e163dd34f3b9d3744466dcca66d",
   "control_channel": "969555578215075864",
-  "updated": 1793284892.8160434,
+  "updated": 1793285714.6104815,
   "receiver_runtime": "1969cfd5bd6f4c869cc5eae71067de9b",
   "deadline": 1792933054.8140352,
   "released": true,
