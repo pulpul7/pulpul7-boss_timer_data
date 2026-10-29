@@ -36,8 +36,11 @@
         "id": "1565379120375009310",
         "runtime": "1969cfd5bd6f4c869cc5eae71067de9b",
         "action": "retry",
-        "state": "accepted",
-        "expires": 1793285940.3966606
+        "state": "done",
+        "expires": 1793285940.3966606,
+        "ok": true,
+        "message": "웹 공개 준비 완료 · 대상 PC에서 1회 시도했습니다.\nhttps://ajes01.duckdns.org",
+        "stopped": false
       },
       "call": {
         "id": "1565378687942135961",
@@ -90,7 +93,7 @@
   "request": "b7dc72b5b5d2443784e3e45c38f11faf",
   "receiver": "12f05e163dd34f3b9d3744466dcca66d",
   "control_channel": "969555578215075864",
-  "updated": 1793285881.536558,
+  "updated": 1793285894.2162554,
   "receiver_runtime": "1969cfd5bd6f4c869cc5eae71067de9b",
   "deadline": 1792933054.8140352,
   "released": true,
