@@ -31,7 +31,14 @@
       "web_closed_at": 1792932803.3275535,
       "web_update_protocol": 1,
       "web_refresh_protocol": 1,
-      "program_update_protocol": 1
+      "program_update_protocol": 1,
+      "web_call": {
+        "id": "1565374780272549889",
+        "runtime": "1969cfd5bd6f4c869cc5eae71067de9b",
+        "action": "stop",
+        "state": "pending",
+        "expires": 1793284844.60955
+      }
     },
     "c341709b321e4593b11e9146f5752f6f": {
       "name": "나츠",
@@ -74,7 +81,7 @@
   "request": "b7dc72b5b5d2443784e3e45c38f11faf",
   "receiver": "12f05e163dd34f3b9d3744466dcca66d",
   "control_channel": "969555578215075864",
-  "updated": 1793020351.4296205,
+  "updated": 1793284834.60955,
   "receiver_runtime": "1969cfd5bd6f4c869cc5eae71067de9b",
   "deadline": 1792933054.8140352,
   "released": true,
