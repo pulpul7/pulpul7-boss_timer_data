@@ -46,8 +46,10 @@
         "id": "1565378687942135961",
         "runtime": "1969cfd5bd6f4c869cc5eae71067de9b",
         "channel": "",
-        "state": "pending",
-        "expires": 1793285795.8034017
+        "state": "done",
+        "expires": 1793285795.8034017,
+        "ok": true,
+        "message": "관리자 · 송출 중 (현재 연결 확인 완료)"
       }
     },
     "c341709b321e4593b11e9146f5752f6f": {
@@ -91,7 +93,7 @@
   "request": "b7dc72b5b5d2443784e3e45c38f11faf",
   "receiver": "12f05e163dd34f3b9d3744466dcca66d",
   "control_channel": "969555578215075864",
-  "updated": 1793285765.8034017,
+  "updated": 1793285769.8902824,
   "receiver_runtime": "1969cfd5bd6f4c869cc5eae71067de9b",
   "deadline": 1792933054.8140352,
   "released": true,
