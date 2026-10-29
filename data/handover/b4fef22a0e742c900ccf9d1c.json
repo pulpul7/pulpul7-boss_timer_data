@@ -36,8 +36,11 @@
         "id": "1565374780272549889",
         "runtime": "1969cfd5bd6f4c869cc5eae71067de9b",
         "action": "stop",
-        "state": "accepted",
-        "expires": 1793284906.2189863
+        "state": "done",
+        "expires": 1793284906.2189863,
+        "ok": true,
+        "message": "웹 서버 종료 완료 · 외부 접근과 주소 갱신을 중지했습니다. 봇과 디코 송출은 유지합니다.",
+        "stopped": true
       }
     },
     "c341709b321e4593b11e9146f5752f6f": {
@@ -81,7 +84,7 @@
   "request": "b7dc72b5b5d2443784e3e45c38f11faf",
   "receiver": "12f05e163dd34f3b9d3744466dcca66d",
   "control_channel": "969555578215075864",
-  "updated": 1793284843.1965985,
+  "updated": 1793284845.0540214,
   "receiver_runtime": "1969cfd5bd6f4c869cc5eae71067de9b",
   "deadline": 1792933054.8140352,
   "released": true,
