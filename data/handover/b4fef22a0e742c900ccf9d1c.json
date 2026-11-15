@@ -7,8 +7,8 @@
   },
   "owner": "12f05e163dd34f3b9d3744466dcca66d",
   "owner_runtime": "8d45e494156942bdb32f1733d051a1b0",
-  "generation": 42,
-  "phase": "active",
+  "generation": 43,
+  "phase": "joining",
   "members": {
     "12f05e163dd34f3b9d3744466dcca66d": {
       "name": "듬직",
@@ -90,20 +90,20 @@
       "web_closed_at": 1792054404.9760282
     }
   },
-  "request": "f9c6eedeef444933a99ae6218220a800",
+  "request": "5d02cd736d3b4227af89cdeaabdd0e19",
   "receiver": "12f05e163dd34f3b9d3744466dcca66d",
   "control_channel": "969555578215075864",
-  "updated": 1794020990.5102372,
+  "updated": 1794746480.498424,
   "receiver_runtime": "8d45e494156942bdb32f1733d051a1b0",
-  "deadline": 1794020990.0361884,
+  "deadline": 1794746510.498424,
   "released": true,
   "channel": "1189925955049885808",
   "upload": "대기",
   "previous_owner": [
-    "",
-    "",
-    41,
-    "1b177906392844349f07e8cc17453d9f"
+    "12f05e163dd34f3b9d3744466dcca66d",
+    "8d45e494156942bdb32f1733d051a1b0",
+    42,
+    "f9c6eedeef444933a99ae6218220a800"
   ],
   "failure": "",
   "failure_request": "",
@@ -114,7 +114,7 @@
   "query_routing_generation": 0,
   "web_independent": true,
   "web_transfer": {
-    "request": "f9c6eedeef444933a99ae6218220a800",
+    "request": "5d02cd736d3b4227af89cdeaabdd0e19",
     "state": "pending"
   },
   "web_generation": 43,
