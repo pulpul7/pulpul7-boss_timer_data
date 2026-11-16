@@ -5,10 +5,10 @@
     "server": "오8",
     "season": "18"
   },
-  "owner": "",
-  "owner_runtime": "",
-  "generation": 44,
-  "phase": "idle",
+  "owner": "12f05e163dd34f3b9d3744466dcca66d",
+  "owner_runtime": "ec94c6b89b724aa8b1a255633159b418",
+  "generation": 45,
+  "phase": "joining",
   "members": {
     "12f05e163dd34f3b9d3744466dcca66d": {
       "name": "듬직",
@@ -90,31 +90,31 @@
       "web_closed_at": 1792054404.9760282
     }
   },
-  "request": "5d02cd736d3b4227af89cdeaabdd0e19",
-  "receiver": "",
+  "request": "49a05b34bf2943eea29a4734669bd73b",
+  "receiver": "12f05e163dd34f3b9d3744466dcca66d",
   "control_channel": "969555578215075864",
-  "updated": 1794868708.7094285,
-  "receiver_runtime": "8d45e494156942bdb32f1733d051a1b0",
-  "deadline": 1794746510.498424,
+  "updated": 1794868716.7876103,
+  "receiver_runtime": "ec94c6b89b724aa8b1a255633159b418",
+  "deadline": 1794868746.7876103,
   "released": true,
   "channel": "1189925955049885808",
   "upload": "대기",
   "previous_owner": [
-    "12f05e163dd34f3b9d3744466dcca66d",
-    "8d45e494156942bdb32f1733d051a1b0",
-    42,
-    "f9c6eedeef444933a99ae6218220a800"
+    "",
+    "",
+    44,
+    "5d02cd736d3b4227af89cdeaabdd0e19"
   ],
   "failure": "",
   "failure_request": "",
   "release_proof": {},
-  "owner_application_id": "",
-  "owner_bot_user_id": "",
+  "owner_application_id": "1542441650746302505",
+  "owner_bot_user_id": "1542441650746302505",
   "query_responder": {},
   "query_routing_generation": 0,
   "web_independent": true,
   "web_transfer": {
-    "request": "5d02cd736d3b4227af89cdeaabdd0e19",
+    "request": "49a05b34bf2943eea29a4734669bd73b",
     "state": "pending"
   },
   "web_generation": 43,
